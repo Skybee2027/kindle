@@ -428,5 +428,174 @@
         "reason_rejected": "Already covered by the 2026-10-17 pick and the two earlier 2026-10-18 entries. The owner's manual bakery entry also sits in romance."
       }
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "source": "Kindle-1 daily research run, 2026-10-18 (scheduled). Amazon Best Sellers and KDP help pages were not available in earlier runs today, so demand signals come from secondary sources cited below. Every sales or revenue figure is an estimate.",
+    "trends": [
+      {
+        "signal": "Romance is the top-grossing fiction genre, and mystery, thriller and suspense ranks at the top of the 30 main Kindle categories by #1 bestseller sales rank. No raw figures are given.",
+        "source": "selfpublishing.com, 'The Most Popular Book Genres on Amazon' (July 2026).",
+        "confidence": "secondary, no raw figures"
+      },
+      {
+        "signal": "Cozy Mystery: Small Town Settings is listed as a niche with medium competition and year-round demand. The page gives no sales, price or revenue figures.",
+        "source": "kdpbuilder.com/niches/fiction (page labelled 'Updated 2026').",
+        "confidence": "qualitative only"
+      },
+      {
+        "signal": "Hardcover sketchbook search: about 540 weekly searches for the week of July 19 to 25, 2026, and an estimated 5,400 average monthly units across the top 10 products at an average price of $8.92. These are print sketchbooks, not Kindle titles, so this is an indirect signal only.",
+        "source": "asinsight.com/report/US/hardcover-sketchbook (estimates dated July 2026).",
+        "confidence": "third-party estimate, print not Kindle"
+      },
+      {
+        "signal": "Kindle Unlimited per-page rate for 2026 is reported as $0.0040 to $0.0045, and about $0.00482 for April 2026 by a separate tracker. This plan uses $0.0045 as the midpoint.",
+        "source": "voxghostwriting.com (May 8, 2026); profitable.app/kdp/stats/kenp-rate (May 9, 2026).",
+        "confidence": "third-party estimate"
+      },
+      {
+        "signal": "KDP asks authors to disclose AI-generated text, images and translations on the Content page. Disclosure does not appear on product pages or affect search rank, royalties or Kindle Unlimited enrollment.",
+        "source": "scribecount.com, 'KDP AI Content Policy' (August 14, 2026). The KDP help page was not fetched; confirm in the KDP dashboard before upload.",
+        "confidence": "secondary; confirm against KDP help"
+      },
+      {
+        "signal": "Urban sketching has established named series in library catalogs, so the sketching lane is not empty. The beginner gap is in Kindle-first, text-only guides.",
+        "source": "libraryjournal.com review of 'The Urban Sketching Handbook: Techniques for Beginners'.",
+        "confidence": "qualitative only"
+      }
+    ],
+    "selected_topics": [
+      {
+        "topic_name": "Nobody Brings a Shovel to a Wedding: A Cozy Romantic Mystery in Tern Harbor, Book 1",
+        "categories": [
+          "Kindle Store > Kindle eBooks > Romance > Contemporary > Romantic Comedy",
+          "Kindle Store > Kindle eBooks > Mystery, Thriller & Suspense > Cozy Mystery"
+        ],
+        "score": 19,
+        "score_reason": "Demand 4: romance is the top-grossing fiction genre and mystery leads the top Kindle categories (selfpublishing.com, 2026, estimate). Revenue 4: novel row at $2.99 to $4.99 with the 70% tier, plus Kindle Unlimited page reads. Competition 2: romance and cozy mystery are crowded with large publishers. Feasibility 4: a 55,000 to 62,000 word novel is inside the guide's range and needs no outside facts. Fit 5: a fixed town and recurring wedding-vendor cast suit a series.",
+        "description": "When the groom's grandfather's gold signet ring disappears an hour before the Wexford and Adair wedding at the Tern Harbor inn, wedding planner Winnie Dorsey has to find it before the reception starts. By midnight the best man is dead on the boathouse dock, the police call it a fall, and Winnie does not believe it. Her search runs through a nervous bridal party, a jealous florist, a harbor full of gossip and Jonah Pell, the harbor master who has been her favorite irritation since high school and who is now the only person willing to check the tide logs with her. The book is a sweet, funny cozy romantic mystery with no explicit sexual content, no profanity and no on-page violence. The clues are fair, the romance is slow and earned, and the ending solves the murder, saves the wedding and leaves Winnie and Jonah with a first date. It is Book 1 of a series set in Tern Harbor, with a recurring cast of vendors, inn staff and a boat-shop cat.",
+        "target_reader": "Adult readers of romantic comedy and cozy mysteries who read on Kindle Unlimited, mostly women aged 28 to 55 who want a mystery with a love story and a happy ending.",
+        "format": "text-only",
+        "price_usd": 3.99,
+        "royalty_tier": "70% tier (list price between $2.99 and $9.99). About $2.79 per sale before any delivery fee.",
+        "page_count": "about 200 to 225 pages (estimate, about 275 words a page)",
+        "word_count": "55,000 to 62,000 words",
+        "chapter_outline": [
+          "1. The Ring Goes Missing: Winnie finds the signet ring gone one hour before the ceremony.",
+          "2. The Harbor Master Says No: Jonah refuses to help, then changes his mind when the best man's car turns up at the dock.",
+          "3. Something Borrowed: Winnie interviews the bridal party and finds three people with a reason to lie.",
+          "4. The Boathouse at Midnight: the best man is found dead on the boathouse dock.",
+          "5. Tide Tables and Lies: Winnie and Jonah compare the tide logs with the coroner's report.",
+          "6. The Florist's Secret: a jealous florist and an old feud complicate the timeline.",
+          "7. Rehearsal Dinner: a toast reveals a debt and a motive.",
+          "8. Slow Dancing in the Rain: a quiet evening turns the banter into something real.",
+          "9. The Ring Is Found: the signet ring turns up somewhere nobody expected.",
+          "10. Vows: the killer is exposed and the wedding goes on.",
+          "11. First Date: a short epilogue, a first date and a hook for Book 2."
+        ],
+        "tone_and_style": "Warm, funny and brisk, in close third person, past tense, from Winnie's point of view only. Short scenes, a clue or a joke at the end of each chapter, dialogue that carries the romance, and no gore.",
+        "title_options": [
+          "Nobody Brings a Shovel to a Wedding: A Cozy Romantic Mystery in Tern Harbor, Book 1",
+          "Ring Bearer: A Cozy Romantic Mystery",
+          "Something Borrowed, Someone Buried: A Tern Harbor Mystery"
+        ],
+        "kdp_keywords": [
+          "cozy romantic mystery",
+          "romantic comedy mystery novel",
+          "wedding planner cozy mystery",
+          "small town cozy mystery romance",
+          "funny cozy mystery kindle unlimited",
+          "sweet romantic mystery series",
+          "cozy mystery romance book one"
+        ],
+        "risks": [
+          "Crowded category with large publishers. Differentiate with the wedding-planner hook and a clear series arc.",
+          "AI-drafted romance can read flat. The chemistry and dialogue need a human editor before upload.",
+          "Cozy mystery clues must be fair and the timeline must hold. Run a timeline check against the tide logs in review.",
+          "Cozy Mystery is adjacent to Women Sleuths, which the 2026-10-17 topic used. Confirm the owner is comfortable with this pairing.",
+          "No sales data for this premise. Test one price before committing to Book 2."
+        ],
+        "sales_estimate": "ESTIMATE. No sales data was verified; these are planning assumptions. Price and royalty come from the plan. The per-page KENP rate is a third-party estimate of $0.0045, the midpoint of $0.0040 to $0.0045 for 2026. Monthly revenue = sales x $2.79 + KENP pages x $0.0045. Conservative: 10 sales and 1,500 KENP pages a month, about $35. Mid: 25 sales and 6,000 pages, about $97. Optimistic (series of three or more books): 60 sales and 15,000 pages, about $235.",
+        "cover_idea": "Romantic Comedy look: a bright harbor wedding tent at dusk, two characters caught in an awkward moment beside a tray holding an empty ring box, a palette of coral, pink and cream with a deep teal accent, and a bold rounded title with a dark outline."
+      },
+      {
+        "topic_name": "Pocket Sketchbook: A Beginner's 30-Day Guide to Drawing on the Road",
+        "categories": [
+          "Kindle Store > Kindle eBooks > Crafts, Hobbies & Home > Crafts",
+          "Kindle Store > Kindle eBooks > Travel"
+        ],
+        "score": 16,
+        "score_reason": "Demand 3: travel and craft hobbies are steady (inkfluenceai.com, vendor data, momentum 1.22 for Crafts and 1.15 for Travel); the indirect print sketchbook signal is about 540 weekly searches (estimate). Revenue 3: practical guide row at $2.99 to $5.99, and the 70% tier. Competition 3: medium. Urban sketching series and travel journals are established, and no Kindle bestseller data was available to confirm the gap. Feasibility 3: text-only drawing steps must be clear without example images, and every technique claim needs a named source. Fit 4: the same method can be reused for later destination or medium books.",
+        "description": "Many adults who want a travel journal stop after the first page because they believe they cannot draw. Pocket Sketchbook is a 30-day beginner's guide to sketching on trips. It teaches the few skills that make a quick drawing of a street, a cafe or a harbor recognizable: seeing shapes before details, drawing simple buildings with one or two vanishing points, sketching people as quick gestures, and adding color in ten minutes with a limited palette. Each chapter ends with a practice task of 15 to 20 minutes that can be done at home before the trip. The book is practical rather than a talent test, and it makes no medical, financial or legal claims. Because it is text-only, every drawing step is described in plain words, and every technique claim is checked against a named source listed in the metadata before publication. Destination facts are left out so the book does not go stale.",
+        "target_reader": "Adults aged about 35 to 70 who travel, want a sketching habit and believe they cannot draw. They buy Kindle guides for a hobby and want something they can read before a trip and keep in a bag.",
+        "format": "text-only",
+        "price_usd": 4.99,
+        "royalty_tier": "70% tier (list price between $2.99 and $9.99). About $3.49 per sale before any delivery fee.",
+        "page_count": "about 55 to 65 Kindle pages (estimate, from 12,000 to 14,000 words at about 220 words a page)",
+        "word_count": "12,000 to 14,000 words",
+        "chapter_outline": [
+          "1. Why Travel Sketching Works: the goal is a memory, not a masterpiece.",
+          "2. Pack Light: a pen, a small brush, a travel palette and a pocket sketchbook.",
+          "3. Ten Lines a Day: warm-up drills for line, shape and proportion.",
+          "4. Seeing Before Drawing: contour and gesture drawing, step by step.",
+          "5. Buildings Without a Ruler: simple perspective with one and two vanishing points.",
+          "6. People in Motion: sketching figures as quick shapes and capturing a street scene.",
+          "7. Color in Ten Minutes: a limited palette and quick washes.",
+          "8. Writing in the Margins: captions, dates and simple travel journaling.",
+          "9. Sketching in Public: onlookers, weather and time limits.",
+          "10. Thirty Days Before the Trip: a practice plan and a final review sheet."
+        ],
+        "tone_and_style": "Friendly, encouraging and specific, in second person and present tense. Short steps, one task a day, plain language with each term defined the first time, and no talent or art-school pressure.",
+        "title_options": [
+          "Pocket Sketchbook: A Beginner's 30-Day Guide to Drawing on the Road",
+          "Draw Where You Are: Travel Sketching for Adults Who Think They Can't Draw",
+          "The Little Travel Sketchbook: Thirty Days of Simple Drawing and Color"
+        ],
+        "kdp_keywords": [
+          "travel sketching for beginners",
+          "sketchbook guide for adult beginners",
+          "travel journaling drawing guide",
+          "learn to sketch on vacation",
+          "beginner drawing guide for adults",
+          "pocket sketchbook drawing tips",
+          "drawing for adults who cannot draw"
+        ],
+        "risks": [
+          "Text-only means drawing steps are explained in words without example images. The instructions must be clear enough to follow without pictures; a figure-based edition would need a different format.",
+          "The urban sketching space has established named series. Do not use series names or the Urban Sketching Handbook title.",
+          "Technique claims need named sources in metadata.json. Any unsourced technique claim is removed.",
+          "Amazon Best Sellers and KDP help pages were not available, so the niche has no direct Kindle sales data.",
+          "Destination facts are excluded to avoid stale information."
+        ],
+        "sales_estimate": "ESTIMATE. No Kindle sales data was verified; these are planning assumptions. Price and royalty come from the plan. The per-page KENP rate is a third-party estimate of $0.0045 (midpoint of $0.0040 to $0.0045 for 2026). Monthly revenue = sales x $3.49 + KENP pages x $0.0045. Conservative: 8 sales and 1,000 KENP pages a month, about $32. Mid: 20 sales and 4,000 pages, about $88. Optimistic (a follow-up destination title): 45 sales and 10,000 pages, about $202.",
+        "cover_idea": "Crafts look: an open pocket sketchbook with a pen and a small watercolor set on a wooden table beside a folded map, a palette of warm wood brown, sage green and cream, and a friendly serif title in a warm color."
+      }
+    ],
+    "alternatives_considered": [
+      {
+        "topic": "Early Chapter Books (ages 6 to 9) with Bedtime Stories",
+        "reason_rejected": "Strong fit for AI writing and series loyalty, but the two categories are different book types. A 10,000 to 15,000 word chapter book and a 2,000 to 4,000 word story collection cannot both set the length, so the pair breaks the guide's length rule."
+      },
+      {
+        "topic": "Romance with Small Town",
+        "reason_rejected": "Small Town was used by The Bakery on Cutter Street on 2026-10-18, so the diversity rule excludes it."
+      },
+      {
+        "topic": "Travel writing (Authorship with Travel)",
+        "reason_rejected": "Writing craft guides are crowded, and destination facts would need constant checking. It also conflicted with the Travel top-level category needed for the sketching topic."
+      },
+      {
+        "topic": "Large-print puzzle books",
+        "reason_rejected": "Puzzles & Games is paused, and the format needs a fixed-layout EPUB."
+      },
+      {
+        "topic": "Early readers (ages 4 to 7)",
+        "reason_rejected": "Early readers with illustrations need a fixed-layout EPUB, which the pipeline does not produce."
+      },
+      {
+        "topic": "Self-help, education, music instruction and aging or retirement",
+        "reason_rejected": "All four categories were used by topics selected in the last 7 days, so the diversity rule excludes them."
+      }
+    ]
   }
 ]
