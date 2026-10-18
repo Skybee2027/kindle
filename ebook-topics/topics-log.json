@@ -137,7 +137,12 @@
         "Policy: KDP requires AI-generated text to be disclosed (private checkbox). Reported upload caps (3 per day) may slow a catalog build. Mitigation: disclose correctly, pace uploads, and never claim human authorship in marketing.",
         "Originality: cozy mysteries share tropes. Mitigation: do not copy existing series names, characters, or plots; check new titles against the Kindle store before publishing.",
         "Demand is not verified: Amazon Best Sellers pages were blocked during research. Mitigation: pull rank data for three to five comparable cozy mysteries before committing to Book 2."
-      ]
+      ],
+      "categories": [
+        "Kindle Store > Kindle eBooks > Mystery, Thriller & Suspense > Women Sleuths",
+        "Kindle Store > Kindle eBooks > Mystery, Thriller & Suspense > Cozy Mystery"
+      ],
+      "categories_verified": false
     },
     "alternatives_considered": [
       {
@@ -274,7 +279,12 @@
         "Category and keyword choices are not verified in the KDP picker: check before publishing.",
         "No demand data: run a small test with a single Book 1 price before committing to Book 2."
       ],
-      "used_on": "2026-10-18"
+      "used_on": "2026-10-18",
+      "categories": [
+        "Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town",
+        "Kindle Store > Kindle eBooks > Romance > Contemporary > Romantic Comedy"
+      ],
+      "categories_verified": false
     }
   },
   {

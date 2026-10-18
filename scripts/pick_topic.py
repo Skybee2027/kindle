@@ -20,6 +20,8 @@ import openpyxl
 FINAL = "ebooks-Final"
 USED_FILE = os.path.join(FINAL, "used-topics.json")
 SHEET = "ebooks-Raw/topics-list.xlsx"
+LOG = "ebook-topics/topics-log.json"
+POOL = "ebook-topics/category-pool.json"
 
 
 def norm(text):
@@ -30,7 +32,27 @@ def slug(text):
     return re.sub(r"[^a-z0-9]+", "-", norm(text)).strip("-")
 
 
+def topic_categories():
+    """Map each topic's slug to its categories and to whether every category is confirmed in the pool."""
+    pool = {}
+    if os.path.exists(POOL):
+        with open(POOL, encoding="utf-8") as f:
+            pool = {c["category"]: bool(c.get("confirmed")) for c in json.load(f)["categories"]}
+    out = {}
+    if os.path.exists(LOG):
+        with open(LOG, encoding="utf-8") as f:
+            for entry in json.load(f):
+                topics = ([entry["selected_topic"]] if entry.get("selected_topic") else []) + (entry.get("selected_topics") or [])
+                for t in topics:
+                    if t and t.get("topic_name"):
+                        cats = t.get("categories") or []
+                        ok = len(cats) == 2 and all(pool.get(c) for c in cats)
+                        out[slug(t["topic_name"])] = (ok, cats)
+    return out
+
+
 def main():
+    cats = topic_categories()
     used_names, used_slugs = set(), set()
     if os.path.exists(USED_FILE):
         with open(USED_FILE, encoding="utf-8") as f:
@@ -58,6 +80,11 @@ def main():
             reasons.append("listed in used-topics.json")
         if any(s and slug(topic).startswith(s) for s in used_slugs):
             reasons.append("folder exists in ebooks-Final")
+        match = [v for k, v in cats.items() if slug(topic).startswith(k)]
+        if not match:
+            reasons.append("no categories in topic log")
+        elif not match[0][0]:
+            reasons.append("categories not all confirmed by owner in category-pool.json")
         if reasons:
             print(f"skip: {topic[:60]} ({'; '.join(reasons)})", file=sys.stderr)
             continue

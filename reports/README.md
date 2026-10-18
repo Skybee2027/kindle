@@ -1,6 +1,6 @@
 # Reports
 
-- **Kindle Live Operations** (live, updates as the robots report): https://claude.ai/artifact/1dtZ9KvbC4SmGvczqJs7ED
-  Source: `live-status.html`. Reads the shared database for books, activity runs, alerts and the schedule. Built to scale to hundreds of books, with search, filters, paging, and older runs loaded on demand.
-- **Kindle Robots Daily Status** (snapshot, 18 Oct 2026): https://claude.ai/artifact/PsUndhykYNdB7PyxzVsbP7
-  Source: `daily-status.html`. Static report as of 10:40 AM, kept for reference.
+- **Kindle Live Status** (live, refreshes every 5 minutes): https://claude.ai/artifact/1dtZ9KvbC4SmGvczqJs7ED
+  Source: `live-status.html`. Reads `reports/run-log.json` and the book files from the GitHub repo. Shows books needing you, the status of each book, and what each robot did, day by day.
+- **Robot run log:** `run-log.json`. Written by every robot through `scripts/log_run.py`.
+- **Daily status (archived):** `daily-status.html` is the static snapshot from 18 Oct 2026. It is no longer updated.

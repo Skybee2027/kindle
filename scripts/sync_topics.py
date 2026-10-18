@@ -18,6 +18,7 @@ import openpyxl
 LOG = "ebook-topics/topics-log.json"
 SHEET = "ebooks-Raw/topics-list.xlsx"
 HOLDS = "scripts/topic-holds.json"
+POOL = "ebook-topics/category-pool.json"
 USED = "ebooks-Final/used-topics.json"
 FINAL = "ebooks-Final"
 
@@ -56,7 +57,8 @@ def main():
     existing = {norm(ws.cell(row=r, column=col["Topic"]).value) for r in range(2, ws.max_row + 1)}
     next_no = max([int(ws.cell(row=r, column=col["No."]).value or 0) for r in range(2, ws.max_row + 1)] + [0]) + 1
 
-    added = 0
+    pool = {c["category"] for c in load_json(POOL, {"categories": []})["categories"]}
+    added, errors = 0, 0
     for entry in log:
         candidates = []
         if entry.get("selected_topic"):
@@ -67,6 +69,12 @@ def main():
                 continue
             name = t["topic_name"]
             key = norm(name)
+            cats = t.get("categories") or []
+            bad = [c for c in cats if c not in pool]
+            if len(cats) != 2 or bad:
+                errors += 1
+                print(f"ERROR, not added: {name[:60]} (needs exactly 2 categories from the pool; bad: {bad or 'count'})", file=sys.stderr)
+                continue
             if key in existing or key in holds or key in used or slug(name) in folders:
                 print(f"skip: {name[:60]}", file=sys.stderr)
                 continue
@@ -100,8 +108,8 @@ def main():
 
     if added:
         wb.save(SHEET)
-    print(json.dumps({"added": added}))
-    return 0
+    print(json.dumps({"added": added, "errors": errors}))
+    return 1 if errors else 0
 
 
 if __name__ == "__main__":
