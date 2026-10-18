@@ -30,6 +30,7 @@ Use these prompts with the Canva `create-design` tool. Each book needs its own p
 
 | Book | Category | Palette | Main character | Scene | Canva link |
 |---|---|---|---|---|---|
+| The Bakery on Cutter Street (Cutter Street Novel, Book 1) | Adult small-town romance, contemporary, sweet | Plum, rose, cream, gold | Woman holding a loaf of bread, a man holding a wrench, and a dog | Snowy bakery storefront on Cutter Street | https://canva.link/k2uuo12fdna991p |
 
 ## Ready-to-use prompts for other categories
 
