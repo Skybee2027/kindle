@@ -26,7 +26,8 @@ _Description length: 189 words (KDP allows up to 4,000 characters)._
 7. second chance romance
 
 ## Categories
-- Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town (verify in KDP category picker)
+- Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town
+- Kindle Store > Kindle eBooks > Romance > Contemporary > Romantic Comedy
 - Check each path in the KDP category picker. KDP needs two.
 
 ## Content

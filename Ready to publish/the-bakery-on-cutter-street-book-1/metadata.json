@@ -8,7 +8,7 @@
   "format": "Kindle eBook (text-only, reflowable EPUB)",
   "price_usd": 3.99,
   "royalty_tier": "70%",
-  "kdp_category": "Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town (verify in KDP category picker)",
+  "kdp_category": "Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town",
   "keywords": [
     "small town romance",
     "bakery romance",
@@ -31,5 +31,10 @@
     "docx": "the-bakery-on-cutter-street.docx",
     "manuscript": "manuscript.md",
     "fonts": "fonts/"
-  }
+  },
+  "kdp_categories": [
+    "Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town",
+    "Kindle Store > Kindle eBooks > Romance > Contemporary > Romantic Comedy"
+  ],
+  "guide_version": "2.0"
 }
