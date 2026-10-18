@@ -31,12 +31,12 @@ BRITISH = {
     "fortnight": "two weeks", "fortnights": "two weeks", "quid": "dollars", "GBP": "USD",
     # everyday words
     "biscuit": "cookie", "biscuits": "cookies", "takeaway": "takeout", "takeaways": "takeouts",
-    "loft": "attic", "fete": "fair", "rambling": "hiking", "lorry": "truck", "petrol": "gas",
+    "loft": "attic", "fete": "fair", "lorry": "truck", "petrol": "gas",
     "queue": "line", "queues": "lines", "licence": "license", "cheque": "check", "tyre": "tire",
     "learnt": "learned", "whilst": "while", "amongst": "among", "mum": "mom",
 }
 # Words that are also normal US words or names when capitalised: match lowercase only.
-LOWER_ONLY = {"biscuit", "biscuits", "loft", "mum", "queue", "queues", "tyre", "cheque", "rambling"}
+LOWER_ONLY = {"biscuit", "biscuits", "loft", "mum", "queue", "queues", "tyre", "cheque"}
 # Plain currency words for pounds sterling. Weight use ("a pound of flour") is allowed.
 STERLING = re.compile(r"\bpounds? sterling\b|\bpounds? \d|\d\s?pounds?\b", re.I)
 CURRENCY = re.compile(r"£|€")

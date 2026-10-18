@@ -137,6 +137,12 @@ def main():
     lang_detail = "; ".join(f"{i['where']} line {i['line']}: '{i['found']}' should be '{i['use']}'" for i in lang_json.get("issues", [])[:6]) or "ok"
     add("US English and US dollars", lang_json.get("pass", False), f"{lang_json.get('count', 0)} issue(s): {lang_detail}")
 
+    # Guide section 4: distinct character names, and research claims backed by sources.
+    ns = subprocess.run([sys.executable, os.path.join(HERE, "check_names_sources.py"), folder], capture_output=True, text=True)
+    ns_json = json.loads(ns.stdout) if ns.stdout.strip() else {"pass": False, "problems": [{"detail": "check did not run"}]}
+    ns_detail = "; ".join(p["detail"] for p in ns_json.get("problems", [])[:6]) or "ok"
+    add("distinct names and sourced research claims", ns_json.get("pass", False), ns_detail)
+
     # Guide section 8: the manuscript opens with a title page (title, subtitle, author).
     add("title page at the top of manuscript.md",
         norm(m.get("title", "")) in norm(first) and "skybee" in first,
