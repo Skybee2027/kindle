@@ -275,5 +275,214 @@
         "No demand data: run a small test with a single Book 1 price before committing to Book 2."
       ]
     }
+  },
+  {
+    "date": "2026-10-18",
+    "source": "Kindle-1 research run, 2026-10-18 (second run of the day). Amazon Best Sellers and KDP help pages were not available: the fetch tool returned a permission error for amazon.com Best Sellers and kdp.amazon.com help pages. Demand signals come from secondary sources cited below; every sales or revenue figure is an estimate.",
+    "trends": [
+      {
+        "signal": "Guided journals and workbooks for life transitions (retirement, caregiving, career change) are described as resonating with buyers. No sales figures given.",
+        "source": "naomijane.substack.com, 'Low and Medium Content Books on Amazon' (December 15, 2025). Author's own market analysis; no named data source.",
+        "confidence": "qualitative only"
+      },
+      {
+        "signal": "Parents are described as still actively buying educational and age-specific workbooks. No separate figures for music or adult instruction.",
+        "source": "naomijane.substack.com (December 15, 2025).",
+        "confidence": "qualitative only"
+      },
+      {
+        "signal": "Kindle Unlimited per-page read rate (KENP) for 2026 is reported as between $0.0040 and $0.0045 per page, depending on the monthly Global Fund. The article labels 2026 as projected.",
+        "source": "voxghostwriting.com, 'Kindle Unlimited Royalties Per Page 2026' (May 8, 2026). Third-party estimate.",
+        "confidence": "third-party estimate"
+      },
+      {
+        "signal": "A separate third-party tracker shows about $0.00482 per KENP page for April 2026. The two third-party figures differ; this plan uses $0.0045 as a midpoint.",
+        "source": "profitable.app/kdp/stats/kenp-rate (page dated May 9, 2026). Third-party estimate.",
+        "confidence": "third-party estimate"
+      },
+      {
+        "signal": "KDP requires disclosure of AI-generated text (even if lightly edited), images and translations, asked as three separate questions on the Content page. Disclosure does not appear on product pages or affect search rank, royalties or Kindle Unlimited enrollment. AI used only for brainstorming, outlining, research or grammar does not need disclosure.",
+        "source": "scribecount.com, 'KDP AI Content Policy: The Compliance Guide' (article dated August 14, 2026). The KDP help page could not be fetched, so confirm in the KDP dashboard before upload.",
+        "confidence": "secondary; confirm against KDP help"
+      },
+      {
+        "signal": "The same article says KDP currently limits AI-generated content to 3 books per day per account. It gives no date for the limit; the Authors Guild reported a 3-per-day cap in September 2023.",
+        "source": "scribecount.com (August 14, 2026); authorsguild.org (September 27, 2023).",
+        "confidence": "current limit unverified"
+      },
+      {
+        "signal": "Puzzle and activity books are described as evergreen, especially large-print editions for older readers, but the rising trend in puzzle books was judged weaker than the workbook and education lanes and carries the KDP low-content review risk already noted in the 2026-10-18 entries.",
+        "source": "naomijane.substack.com (December 15, 2025).",
+        "confidence": "qualitative only"
+      }
+    ],
+    "selected_topics": [
+      {
+        "topic_name": "The Second Act Workbook: A 30-Day Guided Reflection Journal for Starting Over After Work",
+        "category": "Kindle Store > Kindle eBooks > Self-Help > Personal Transformation (browse node not confirmed; verify the exact path in the KDP category picker, and check Self-Help > Aging or Retirement if offered).",
+        "description": "Retirement, a layoff, a career change or a grown-up child leaving home can leave a reader with a full calendar and no clear sense of who they are outside their old role. The Second Act Workbook is a guided reflection journal with a short prompt for each day of a 30-day course, grouped into ten chapters. Readers start by naming what their work gave them, then log how their days actually go, list the skills they have that matter outside a job, map the relationships they want more of, and run two-week trials of new activities such as volunteering, a class or a walking group. The workbook avoids clinical language and makes no medical or financial recommendations: it contains no investment, pension or budgeting prompts, and it points readers to a professional when a question needs one. It ends with a one-page plan and a 90-day review sheet, so the reader leaves with a direction rather than a pep talk.",
+        "target_reader": "Adults aged about 55 to 70 who have recently retired, been made redundant or stepped back from full-time work, and who want a structured, private way to reflect on their next chapter. Secondary readers are adult children and partners buying a gift for someone in transition. The book solves the problem of 'who am I now that my job is over?' without offering medical or financial advice.",
+        "format": "Text-only, reflowable ebook with fillable prompts laid out as lined text blocks (no images). Series: optional. Planned as a companion to a later title on caregiving transitions only if this book sells.",
+        "price_usd": 4.99,
+        "royalty_tier": "70% tier (list price between $2.99 and $9.99). About $3.49 per sale before any delivery fee, which is small for a text-only file.",
+        "page_count": "about 115 to 125 Kindle pages (estimate, from 14,000 to 16,000 words, with prompts and space for notes)",
+        "word_count": "14,000 to 16,000 words",
+        "chapter_outline": [
+          "1. The Badge in the Drawer: naming what work gave you, besides a paycheck.",
+          "2. The Inventory of Days: a one-week log of how time actually goes, hour by hour.",
+          "3. Skills Beyond the Job: listing abilities that matter in a volunteer group, a family or a neighbourhood.",
+          "4. The People Who Count: mapping relationships and choosing where to spend more time.",
+          "5. Curiosity Reopened: rediscovering interests dropped in the busy years.",
+          "6. Two-Week Trials: a menu of small experiments such as a class, a choir, a garden plot or a book club.",
+          "7. Naming the Friction: prompts for the fears and habits that hold a reader back, with no diagnosis or therapy advice.",
+          "8. Structure Without a Schedule: building flexible weekly rhythms.",
+          "9. Saying Yes, Saying No: boundaries with family, old colleagues and well-meaning friends.",
+          "10. Your Second Act Plan: a one-page plan, then a 90-day review sheet."
+        ],
+        "tone_and_style": "Warm, plain and encouraging, like a thoughtful friend with a notebook. Second person, short prompts (one to three sentences), and no jargon. Avoid clinical terms such as 'depression' or 'anxiety' and avoid promises such as 'transform your life'. Each chapter opens with a short story about an invented reader, which a human editor must check for cliches. No financial, medical, legal or religious advice.",
+        "title_options": [
+          "The Second Act Workbook: A 30-Day Guided Journal for Starting Over After Work",
+          "Who Are You Now? A 30-Day Reflection Workbook for Life After Work",
+          "The Next Chapter Journal: Thirty Days to Your Second Act"
+        ],
+        "keywords": [
+          "retirement journal for women",
+          "life after retirement workbook",
+          "guided reflection journal 30 days",
+          "starting over after work book",
+          "retirement planning journal not financial",
+          "new chapter after retirement gift",
+          "self reflection workbook adults 60"
+        ],
+        "sales_estimate": {
+          "label": "ESTIMATE. No sales data was verified. Figures are planning assumptions, not sourced numbers. The KENP rate is a third-party estimate, and the sales assumptions are not from any source.",
+          "reasoning": "A new self-help workbook with no reviews and no series behind it is assumed to sell slowly, with gifting and KU reads as the main growth routes. A full read is assumed to be about 120 KENP pages. Monthly revenue = sales x $3.49 + KENP pages x $0.0045.",
+          "scenarios": [
+            {
+              "case": "Conservative",
+              "sales_per_month": 12,
+              "kenp_pages_per_month": 3000,
+              "estimated_monthly_revenue_usd": 55
+            },
+            {
+              "case": "Mid",
+              "sales_per_month": 30,
+              "kenp_pages_per_month": 9000,
+              "estimated_monthly_revenue_usd": 145
+            },
+            {
+              "case": "Optimistic (with a second book in the same niche)",
+              "sales_per_month": 80,
+              "kenp_pages_per_month": 22000,
+              "estimated_monthly_revenue_usd": 378
+            }
+          ],
+          "revenue_formula": "sales x $3.49 + KENP pages x $0.0045"
+        },
+        "risks_and_mitigation": [
+          "Quality: AI prompts can sound generic or preachy. Mitigation: a human editor rewrites every prompt and removes any advice that sounds like therapy or financial guidance.",
+          "Disclosure: AI-written text must be disclosed in KDP's Content step. Mitigation: answer 'Yes' to the text question, keep a record of AI drafts and human edits, and never claim human authorship in marketing.",
+          "Sensitivity: retirement and job loss are emotional subjects, and an AI draft may misjudge tone. Mitigation: a reader panel of two or three people in the target age group reviews the first three chapters before launch.",
+          "Overlap with medical and financial topics: readers may expect money or health guidance. Mitigation: state the scope in the description and subtitle, and keep money and health prompts out of the text.",
+          "Competition: retirement and self-help workbooks are a crowded shelf. Mitigation: a distinctive 30-day structure and a clear gift angle.",
+          "Demand is not verified: Amazon Best Sellers pages could not be fetched. Mitigation: before a second book, pull rank and review data for five to ten comparable titles."
+        ],
+        "used_on": "2026-10-18"
+      },
+      {
+        "topic_name": "Read Sheet Music Fast: A Beginner's Workbook for Adult Pianists and Singers",
+        "category": "Kindle Store > Kindle eBooks > Arts & Photography > Music > Instruction & Study (browse node not confirmed; verify in the KDP category picker. Education & Teaching is the alternative to check).",
+        "description": "Many adults who took up piano, guitar or singing after years away stall when they reach printed music. Read Sheet Music Fast is a text-based workbook that builds staff reading one step at a time: the staff and clefs, note names on the treble and bass clef, note values, rests, ties and dots, key signatures and the circle of fifths, then a first simple melody and finally two-hand reading on the grand staff. Each chapter ends with short exercises and an answer key, and a 20-minute daily practice plan closes the book. The book deliberately avoids theory for its own sake and teaches only what a reader needs to play or sing the next page. Music diagrams are made with a music engraving tool, not generated by AI, and every notation example and answer key is checked by a human musician before publication.",
+        "target_reader": "Adults who play piano, keyboard, guitar or sing in a choir, have a basic sense of the instrument and want to read music properly. Typical readers are aged 25 to 65 and studying alone, with no regular teacher. The book solves the problem of 'I can play by ear, but I can't read the notes on the page'.",
+        "format": "Reflowable text-only ebook with notation figures, each drawn with a music engraving tool and exported as an image. The figures are not AI-generated, so they do not need image disclosure, but the disclosure review should confirm this. Series: planned as Book 1 of a two-book set (Book 2 covers rhythm and sight-reading).",
+        "price_usd": 3.99,
+        "royalty_tier": "70% tier (list price between $2.99 and $9.99). About $2.79 per sale before any delivery fee. The delivery fee is small for a text-only file with a few image files.",
+        "page_count": "about 100 to 110 Kindle pages (estimate, from 11,000 to 13,000 words plus exercises and an answer key)",
+        "word_count": "11,000 to 13,000 words",
+        "chapter_outline": [
+          "1. Why Sheet Music Looks Hard, and Why It Isn't: the five lines, the four spaces, and a first look at a score.",
+          "2. Clefs and Staffs: the treble and bass clefs, ledger lines and where middle C sits.",
+          "3. Treble Clef Note Names: reading notes on the lines and spaces with mnemonics and drills.",
+          "4. Bass Clef Note Names: the same method, with the bass clef's own landmarks.",
+          "5. Note Values: whole, half, quarter and eighth notes, and how they add up to a beat.",
+          "6. Rests, Ties and Dots: silence, holds and dotted values in simple rhythms.",
+          "7. Key Signatures and the Circle of Fifths: sharps, flats and how they change the notes.",
+          "8. Reading Your First Melody: a step-by-step walk through a short tune.",
+          "9. Two Hands on the Grand Staff: reading both clefs at once, with a warm-up exercise.",
+          "10. A 20-Minute Practice Plan: daily routines and a way to measure progress."
+        ],
+        "tone_and_style": "Encouraging, clear and practical, in a patient teacher's voice. Short sentences, concrete examples and one idea per paragraph. Avoid heavy theory and avoid claims about how quickly a reader will learn. Every musical fact, notation example and answer must be checked by a human musician, because AI text often gets key signatures, enharmonic spellings and rhythm counts wrong.",
+        "title_options": [
+          "Read Sheet Music Fast: A Beginner's Workbook for Adult Pianists and Singers",
+          "Reading the Notes: Book 1, Staff, Clefs and Rhythm for Adult Beginners",
+          "The Printed Page: Learn to Read Music, Step by Step, at Your Own Pace"
+        ],
+        "keywords": [
+          "learn to read sheet music adults",
+          "beginner music theory workbook",
+          "read music piano beginner",
+          "treble and bass clef practice",
+          "music reading workbook for adults",
+          "learn sheet music singers",
+          "music theory exercises answer key"
+        ],
+        "sales_estimate": {
+          "label": "ESTIMATE. No sales data was verified. These are planning assumptions, not sourced figures. The KENP rate is a third-party estimate.",
+          "reasoning": "A new music instruction book with no reviews is assumed to sell slowly. Buyers are mainly self-taught adults searching for a specific problem, so the growth route is search traffic and Book 2 sales. A full read is assumed to be about 105 KENP pages. Monthly revenue = sales x $2.79 + KENP pages x $0.0045.",
+          "scenarios": [
+            {
+              "case": "Conservative",
+              "sales_per_month": 8,
+              "kenp_pages_per_month": 2000,
+              "estimated_monthly_revenue_usd": 31
+            },
+            {
+              "case": "Mid",
+              "sales_per_month": 20,
+              "kenp_pages_per_month": 6000,
+              "estimated_monthly_revenue_usd": 83
+            },
+            {
+              "case": "Optimistic (with Book 2 live)",
+              "sales_per_month": 50,
+              "kenp_pages_per_month": 15000,
+              "estimated_monthly_revenue_usd": 207
+            }
+          ],
+          "revenue_formula": "sales x $2.79 + KENP pages x $0.0045"
+        },
+        "risks_and_mitigation": [
+          "Factual accuracy: AI can get clefs, key signatures and rhythm counts wrong, and a musician reader will notice at once. Mitigation: a human musician checks every example and answer, and the answer key is generated only from checked examples.",
+          "Disclosure: AI-written text must be disclosed in KDP's Content step. Mitigation: answer 'Yes' to the text question, and state in the record which figures came from a notation tool rather than from AI.",
+          "Figure images: notation images may be mistaken for AI images. Mitigation: keep the source files and the engraving tool's export log, in case KDP asks.",
+          "Competition: music theory books from established publishers and popular channels are well established. Mitigation: a narrow reading-only focus for adults who already play, and a clear 'Book 1 of 2' series label.",
+          "Demand is not verified: no music-specific rank or sales data was found. Mitigation: before writing Book 2, pull rank data for five to ten comparable titles and drop the series if they do not sell.",
+          "Scope creep: readers may expect a full music theory course. Mitigation: state the scope in the subtitle and description."
+        ],
+        "used_on": "2026-10-18"
+      }
+    ],
+    "alternatives_considered": [
+      {
+        "topic": "Large-print puzzle books (word search, sudoku)",
+        "reason_rejected": "Evergreen and large, but low-content books face heavy competition, low prices and KDP review scrutiny. The 2026-10-18 morning entry already rejected this lane."
+      },
+      {
+        "topic": "Medical or wellness journaling (anxiety, stress, mood)",
+        "reason_rejected": "Overlaps with medical advice, which this plan rules out. Gratitude and stress journals are also crowded."
+      },
+      {
+        "topic": "Retirement money planning or budgeting workbooks",
+        "reason_rejected": "Financial advice is out of scope. A reflection-only retirement workbook was chosen instead."
+      },
+      {
+        "topic": "Spanish or other language phrasebook",
+        "reason_rejected": "Demand is real, but it competes directly with large language-learning apps and publishers. Factual checks for grammar would take longer than the book is worth at this price."
+      },
+      {
+        "topic": "Romance, mystery and children's chapter books",
+        "reason_rejected": "Already covered by the 2026-10-17 pick and the two earlier 2026-10-18 entries. The owner's manual bakery entry also sits in romance."
+      }
+    ]
   }
 ]
