@@ -110,9 +110,24 @@
         "label": "ESTIMATE. No sales data was verified. These are planning assumptions, not sourced figures.",
         "reasoning": "A new indie cozy mystery with no reviews is assumed to sell slowly at first. Sales are expected to rise as Books 2 and 3 publish and KU reads accumulate. The assumed price is $4.99 at a 70% royalty, or about $3.49 per sale. KU pages are at the $0.00482 per page rate from profitable.app.",
         "scenarios": [
-          {"case": "Conservative", "sales_per_month": 20, "kenp_pages_per_month": 4000, "estimated_monthly_revenue_usd": 88},
-          {"case": "Mid", "sales_per_month": 40, "kenp_pages_per_month": 10000, "estimated_monthly_revenue_usd": 186},
-          {"case": "Optimistic (series of 3+ books)", "sales_per_month": 100, "kenp_pages_per_month": 25000, "estimated_monthly_revenue_usd": 466}
+          {
+            "case": "Conservative",
+            "sales_per_month": 20,
+            "kenp_pages_per_month": 4000,
+            "estimated_monthly_revenue_usd": 88
+          },
+          {
+            "case": "Mid",
+            "sales_per_month": 40,
+            "kenp_pages_per_month": 10000,
+            "estimated_monthly_revenue_usd": 186
+          },
+          {
+            "case": "Optimistic (series of 3+ books)",
+            "sales_per_month": 100,
+            "kenp_pages_per_month": 25000,
+            "estimated_monthly_revenue_usd": 466
+          }
         ],
         "revenue_formula": "sales x $3.49 + KENP pages x $0.00482"
       },
@@ -125,10 +140,67 @@
       ]
     },
     "alternatives_considered": [
-      {"topic": "Romantasy", "reason_rejected": "Fastest-growing subgenre, but dominated by large publishers and bestselling authors, and high reader expectations for fantasy worldbuilding that AI drafts often miss."},
-      {"topic": "Kids' chapter book series (ages 6 to 9)", "reason_rejected": "Strong fit for AI writing and series loyalty, and the earlier shortlist's pick. Rejected for this run because the demand signal is weaker in sourced data than mystery's top-category rank."},
-      {"topic": "Large-print puzzle books", "reason_rejected": "Low writing risk, but heavy competition, low price points, and KDP scrutiny of low-content books."},
-      {"topic": "Practical self-help or how-to", "reason_rejected": "Large and consistent market, but factual claims need expert verification, and nonfiction risks overlap with medical, financial, and legal advice."}
+      {
+        "topic": "Romantasy",
+        "reason_rejected": "Fastest-growing subgenre, but dominated by large publishers and bestselling authors, and high reader expectations for fantasy worldbuilding that AI drafts often miss."
+      },
+      {
+        "topic": "Kids' chapter book series (ages 6 to 9)",
+        "reason_rejected": "Strong fit for AI writing and series loyalty, and the earlier shortlist's pick. Rejected for this run because the demand signal is weaker in sourced data than mystery's top-category rank."
+      },
+      {
+        "topic": "Large-print puzzle books",
+        "reason_rejected": "Low writing risk, but heavy competition, low price points, and KDP scrutiny of low-content books."
+      },
+      {
+        "topic": "Practical self-help or how-to",
+        "reason_rejected": "Large and consistent market, but factual claims need expert verification, and nonfiction risks overlap with medical, financial, and legal advice."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "source": "Kindle-1 research run, 2026-10-18. Amazon Best Sellers pages could not be fetched (blocked to the research fetcher), so demand signals come from secondary sources. The ASINSIGHT digital-books page is dated July 2026 and shows estimates only.",
+    "trends": [
+      {
+        "signal": "Children's books remain a steady category. Secondary coverage describes kids' fiction as having sizable, consistent audiences, but no figures were found.",
+        "source": "selfpublishing.com, 'The Most Popular Book Genres on Amazon' (July 2026), as cited in the 2026-10-17 entry.",
+        "confidence": "qualitative only"
+      },
+      {
+        "signal": "Kindle Unlimited per-page read rate (KENP) is about $0.00482 per page for April 2026. This is a third-party derived estimate, not an Amazon-published figure.",
+        "source": "profitable.app/kdp/stats/kenp-rate (page dated May 9, 2026).",
+        "confidence": "third-party estimate"
+      },
+      {
+        "signal": "KDP requires disclosure of AI-generated text, images, and translations, asked as three separate questions on the Content page. Text edited after AI generation still counts; AI used only for brainstorming or outlining does not require disclosure.",
+        "source": "scribecount.com, 'KDP AI Content Policy: The Compliance Guide' (article dated August 14, 2026).",
+        "confidence": "secondary; confirm against KDP help before upload"
+      },
+      {
+        "signal": "The 3-uploads-per-day cap is older than the 2026 reporting in the 2026-10-17 entry suggests. The Authors Guild reported it on September 27, 2023, when KDP said the limit was to protect against abuse and confirmed three titles per day. Current limit unverified.",
+        "source": "authorsguild.org, 'Amazon adds to KDP generative AI policy, caps daily self-publishing uploads' (September 27, 2023).",
+        "confidence": "primary-source reporting, 2023; current limit unverified"
+      }
+    ],
+    "selected_topic": null,
+    "alternatives_considered": [
+      {
+        "topic": "Romance (cozy or romantasy subgenres)",
+        "reason_rejected": "Largest fiction revenue pool, but highly competitive with large publishers and bestselling authors, and reader expectations for voice and romantic tension are hard for AI drafts to meet."
+      },
+      {
+        "topic": "Cozy mystery (the 2026-10-17 pick)",
+        "reason_rejected": "Already chosen yesterday; today's run picks a different lane to avoid two near-identical picks and to spread the catalog across categories."
+      },
+      {
+        "topic": "Large-print puzzle books",
+        "reason_rejected": "Low writing risk, but heavy competition, low price points, and KDP scrutiny of low-content books."
+      },
+      {
+        "topic": "Practical how-to and self-help",
+        "reason_rejected": "Large and steady, but factual claims need expert checks, and nonfiction risks overlap with medical, financial, and legal advice."
+      }
     ]
   }
 ]
