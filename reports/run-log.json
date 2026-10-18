@@ -54,5 +54,12 @@
     "status": "done",
     "book": "",
     "detail": "Two topics added for 2026-10-18. Both deleted by owner."
+  },
+  {
+    "at": "2026-10-18 15:55",
+    "robot": "Kindle-2",
+    "status": "idle",
+    "book": "",
+    "detail": "no unused topic remains"
   }
 ]
