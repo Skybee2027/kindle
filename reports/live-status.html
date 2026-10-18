@@ -72,7 +72,7 @@ td.time { white-space: nowrap; font-variant-numeric: tabular-nums; }
   <section class="cards" aria-label="Summary">
     <div class="card"><div class="label">Written, waiting for review</div><div class="value" id="cWritten">–</div><div class="note">Written by Kindle-2, not yet approved</div></div>
     <div class="card"><div class="label">Approved, ready for KDP</div><div class="value" id="cReady">–</div><div class="note">In "Ready to publish"</div></div>
-    <div class="card"><div class="label">Sent to KDP</div><div class="value" id="cKdp">–</div><div class="note">Draft at review screen. Final publish is yours.</div></div>
+    <div class="card"><div class="label">Ready for your upload</div><div class="value" id="cKdp">–</div><div class="note">Checked and handed to you. Upload by hand, then click Publish.</div></div>
     <div class="card"><div class="label">Books needing you</div><div class="value" id="cAttn">–</div><div class="note">Blocked twice, or a stop that needs a fix</div></div>
   </section>
 
@@ -103,7 +103,7 @@ td.time { white-space: nowrap; font-variant-numeric: tabular-nums; }
         <tr><td class="time">3:05 AM</td><td>Kindle-1</td><td>Research two new topics and add them to the topic list</td></tr>
         <tr><td class="time">3:33 AM</td><td>Kindle-2</td><td>Write one book from an unused topic</td></tr>
         <tr><td class="time">7:32 AM</td><td>Kindle-3</td><td>Make the cover in Canva, review the book, approve it</td></tr>
-        <tr><td class="time">8:32 AM</td><td>Kindle-4</td><td>Create a KDP draft for the next approved book. Stops before Publish.</td></tr>
+        <tr><td class="time">8:32 AM</td><td>Kindle-4</td><td>Check the approved package and mark it ready for your manual upload. Never signs in to KDP.</td></tr>
       </tbody>
     </table>
   </div>
@@ -160,8 +160,8 @@ td.time { white-space: nowrap; font-variant-numeric: tabular-nums; }
       var f = u.folder;
       var status, cls, detail = "", state;
       var d = draftLatest[f];
-      if (d && String(d.status).indexOf("draft at review") === 0) { status = "Sent to KDP"; cls = "ok"; detail = "Draft at review screen. Final publish is yours."; state = "kdp"; }
-      else if (d) { status = "KDP stopped"; cls = "warn"; detail = d.status; state = "KDP stopped"; }
+      if (d && (String(d.status).indexOf("ready for owner upload") === 0 || String(d.status).indexOf("draft at review") === 0)) { status = "Ready for your upload"; cls = "ok"; detail = "Checked. Upload by hand in KDP, then click Publish."; state = "kdp"; }
+      else if (d) { status = "Check stopped"; cls = "warn"; detail = d.status; state = "Check stopped"; }
       else if (readySet[f]) { status = "Approved"; cls = "ok"; detail = "Ready for KDP."; state = "approved"; }
       else if ((blockedCount[f] || 0) >= 2) { status = "Needs you"; cls = "bad"; detail = "Blocked " + blockedCount[f] + " times. Fix or drop it."; state = "Needs you"; }
       else if (blockedCount[f]) { status = "Waiting for cover"; cls = "warn"; detail = "Blocked " + blockedCount[f] + " time(s); retried daily."; state = "waiting"; }
@@ -171,7 +171,7 @@ td.time { white-space: nowrap; font-variant-numeric: tabular-nums; }
 
     var attn = [];
     books.forEach(function (b) {
-      if (b.state === "Needs you" || b.state === "KDP stopped") attn.push({ folder: b.folder, detail: b.detail, cls: b.state === "Needs you" ? "bad" : "warn" });
+      if (b.state === "Needs you" || b.state === "Check stopped") attn.push({ folder: b.folder, detail: b.detail, cls: b.state === "Needs you" ? "bad" : "warn" });
     });
     runs.forEach(function (r) {
       if ((r.status === "failed" || r.status === "stopped" || r.status === "blocked") && attn.length < 12) {
@@ -183,7 +183,7 @@ td.time { white-space: nowrap; font-variant-numeric: tabular-nums; }
     document.getElementById("cWritten").textContent = books.filter(function (b) { return b.state === "waiting"; }).length;
     document.getElementById("cReady").textContent = books.filter(function (b) { return b.state === "approved"; }).length;
     document.getElementById("cKdp").textContent = books.filter(function (b) { return b.state === "kdp"; }).length;
-    document.getElementById("cAttn").textContent = books.filter(function (b) { return b.state === "Needs you" || b.state === "KDP stopped"; }).length;
+    document.getElementById("cAttn").textContent = books.filter(function (b) { return b.state === "Needs you" || b.state === "Check stopped"; }).length;
 
     var al = document.getElementById("alerts");
     al.innerHTML = attn.length

@@ -71,12 +71,17 @@ def main():
         add(f"file present: {name}", os.path.exists(os.path.join(folder, name)))
     add("file present: EPUB", bool(epubs), ", ".join(epubs) or "none")
     add("file present: cover-ebook.jpg", has_cover, "" if has_cover else "not made yet (Kindle-3 makes it)")
+    add("file present: style.css", os.path.exists(os.path.join(folder, "style.css")), "stylesheet for the EPUB (guide section 7)")
+    fonts_dir = os.path.join(folder, "fonts")
+    licences = [n for n in os.listdir(fonts_dir) if "LICENSE" in n.upper() or "LICENCE" in n.upper()] if os.path.isdir(fonts_dir) else []
+    add("font licence file saved (fonts/)", bool(licences), ", ".join(licences) or "no licence file in fonts/ (guide section 5)")
     required = [c for c in checks if "cover" not in c["check"]]
     if not all(c["pass"] for c in required):
         print(json.dumps({"folder": folder, "pass": False, "checks": checks}, indent=2))
         return 1
 
     m = json.load(open(os.path.join(folder, "metadata.json"), encoding="utf-8"))
+    add("guide_version is 2.1", str(m.get("guide_version")) == "2.1", f"metadata says {m.get('guide_version')}")
     manuscript = open(os.path.join(folder, "manuscript.md"), encoding="utf-8").read()
     body_words = len(re.findall(r"\S+", manuscript))
 

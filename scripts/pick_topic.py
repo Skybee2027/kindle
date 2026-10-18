@@ -22,6 +22,7 @@ USED_FILE = os.path.join(FINAL, "used-topics.json")
 SHEET = "ebooks-Raw/topics-list.xlsx"
 LOG = "ebook-topics/topics-log.json"
 POOL = "ebook-topics/category-pool.json"
+HOLDS = "scripts/topic-holds.json"
 
 
 def norm(text):
@@ -64,6 +65,11 @@ def main():
             if os.path.isdir(os.path.join(FINAL, name)):
                 used_slugs.add(name)
 
+    held = set()
+    if os.path.exists(HOLDS):
+        with open(HOLDS, encoding="utf-8") as f:
+            held = {norm(h.get("topic_name")) for h in json.load(f) if h.get("topic_name")}
+
     ws = openpyxl.load_workbook(SHEET, read_only=True)["Topics"]
     rows = list(ws.iter_rows(values_only=True))
     header = [str(h) for h in rows[0]]
@@ -76,6 +82,8 @@ def main():
         reasons = []
         if not status.lower().startswith("selected"):
             reasons.append(f"status is '{status}'")
+        if norm(topic) in held:
+            reasons.append("on hold by the owner (scripts/topic-holds.json)")
         if norm(topic) in used_names:
             reasons.append("listed in used-topics.json")
         if any(s and slug(topic).startswith(s) for s in used_slugs):
