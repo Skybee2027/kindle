@@ -60,8 +60,14 @@ def main():
             print(json.dumps({"folder": folder, "pass": False, "problems": [{"check": "file present", "detail": f"{name} missing"}]}, indent=2))
             return 1
     text = open(os.path.join(folder, "manuscript.md"), encoding="utf-8").read()
-    meta = json.load(open(os.path.join(folder, "metadata.json"), encoding="utf-8"))
+    try:
+        meta = json.load(open(os.path.join(folder, "metadata.json"), encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        print(json.dumps({"folder": folder, "pass": False, "problems": [{"check": "metadata.json valid", "detail": str(e)}]}, indent=2))
+        return 1
     problems = []
+    if not text.strip():
+        problems.append({"check": "manuscript not empty", "detail": "manuscript.md is empty; nothing was checked"})
 
     # A name is counted where it follows a lowercase word or comma ("told Anna", "with Harriet").
     # Sentence openers and dialogue starts are skipped, because they are ordinary words.
