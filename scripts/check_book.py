@@ -70,7 +70,8 @@ def main():
         add(f"file present: {name}", os.path.exists(os.path.join(folder, name)))
     add("file present: EPUB", bool(epubs), ", ".join(epubs) or "none")
     add("file present: cover-ebook.jpg", has_cover, "" if has_cover else "not made yet (Kindle-3 makes it)")
-    if not all(c["pass"] for c in checks):
+    required = [c for c in checks if "cover" not in c["check"]]
+    if not all(c["pass"] for c in required):
         print(json.dumps({"folder": folder, "pass": False, "checks": checks}, indent=2))
         return 1
 
