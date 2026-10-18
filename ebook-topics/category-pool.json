@@ -15,7 +15,8 @@
         "novel (cozy romance)"
       ],
       "evidence": "Romance is the top-grossing fiction genre (source: selfpublishing.com, 2026, estimate); Small Town is a high-traffic romance subcategory.",
-      "notes": "Series-friendly. Good for KDP Select."
+      "notes": "Series-friendly. Good for KDP Select.",
+      "confirmed": false
     },
     {
       "rank": 2,
@@ -24,7 +25,8 @@
         "novel (cozy romance)"
       ],
       "evidence": "Romance is the top-grossing fiction genre; Romantic Comedy is a high-traffic romance subcategory (selfpublishing.com).",
-      "notes": "Pairs well with Small Town for variety."
+      "notes": "Pairs well with Small Town for variety.",
+      "confirmed": false
     },
     {
       "rank": 3,
@@ -33,7 +35,8 @@
         "novel (cozy mystery)"
       ],
       "evidence": "Mystery, Thriller & Suspense has the most fiction print units (selfpublishing.com, citing the market data it uses).",
-      "notes": "Cozy mystery matches the guide's novel format."
+      "notes": "Cozy mystery matches the guide's novel format.",
+      "confirmed": false
     },
     {
       "rank": 4,
@@ -42,7 +45,8 @@
         "novel (cozy mystery)"
       ],
       "evidence": "Same category family as rank 3; cozy mysteries are a large subcategory.",
-      "notes": "Confirm the exact node in the KDP picker; the log says Cozy is a subcategory to check."
+      "notes": "Confirm the exact node in the KDP picker; the log says Cozy is a subcategory to check.",
+      "confirmed": false
     },
     {
       "rank": 5,
@@ -52,7 +56,8 @@
         "workbook"
       ],
       "evidence": "Self-Help is called the most consistent top-chart performer (selfpublishing.com); Confidence and relationships ranks 3rd by book share (inkfluenceai.com, vendor data).",
-      "notes": "Guide must include the general-information disclaimer."
+      "notes": "Guide must include the general-information disclaimer.",
+      "confirmed": false
     },
     {
       "rank": 6,
@@ -62,7 +67,8 @@
         "workbook"
       ],
       "evidence": "Retirement and seniors is rising fast (momentum 1.45, inkfluenceai.com, vendor data).",
-      "notes": "Avoid medical claims."
+      "notes": "Avoid medical claims.",
+      "confirmed": false
     },
     {
       "rank": 7,
@@ -72,7 +78,8 @@
         "workbook"
       ],
       "evidence": "Education and study skills is the largest non-fiction topic by book share (12.8%, inkfluenceai.com, vendor data).",
-      "notes": "Study guides and workbooks."
+      "notes": "Study guides and workbooks.",
+      "confirmed": false
     },
     {
       "rank": 8,
@@ -82,7 +89,8 @@
         "workbook"
       ],
       "evidence": "Already used by a queued topic; instruction books are a steady niche (topic log).",
-      "notes": "Confirm the node in the picker."
+      "notes": "Confirm the node in the picker.",
+      "confirmed": false
     },
     {
       "rank": 9,
@@ -91,7 +99,8 @@
         "kids chapter book (ages 6 to 9)"
       ],
       "evidence": "The topic log's earlier recommendation was a kids' chapter book series for ages 6 to 9 (topic log, Oct 2026).",
-      "notes": "Confirm the exact path. Needs a readability check (guide: grade 2 to 4)."
+      "notes": "Confirm the exact path. Needs a readability check (guide: grade 2 to 4).",
+      "confirmed": false
     },
     {
       "rank": 10,
@@ -100,7 +109,8 @@
         "bedtime story collection"
       ],
       "evidence": "Named as a kids' niche in the topic log shortlist.",
-      "notes": "Confirm the exact path in the picker."
+      "notes": "Confirm the exact path in the picker.",
+      "confirmed": false
     },
     {
       "rank": 11,
@@ -109,7 +119,8 @@
         "practical guide"
       ],
       "evidence": "Crafts, hobbies and DIY is rising (momentum 1.22, inkfluenceai.com, vendor data).",
-      "notes": "Projects and patterns; no sourcing issues."
+      "notes": "Projects and patterns; no sourcing issues.",
+      "confirmed": false
     },
     {
       "rank": 12,
@@ -118,7 +129,8 @@
         "practical guide"
       ],
       "evidence": "Travel is steady and destination-specific (inkfluenceai.com, vendor data; momentum 1.15).",
-      "notes": "Check facts (prices, opening hours) against a source before publishing."
+      "notes": "Check facts (prices, opening hours) against a source before publishing.",
+      "confirmed": false
     },
     {
       "rank": 13,
@@ -127,7 +139,8 @@
         "large-print puzzle book"
       ],
       "evidence": "Large-print puzzle books were in the topic log's alternatives list; low writing-quality risk.",
-      "notes": "Puzzle books use fixed layout per the guide; confirm the path."
+      "notes": "Puzzle books use fixed layout per the guide; confirm the path.",
+      "confirmed": false
     },
     {
       "rank": 14,
@@ -136,7 +149,8 @@
         "practical guide"
       ],
       "evidence": "Self-publishing and writing craft is a 2.5% share with momentum 1.18 (inkfluenceai.com, vendor data).",
-      "notes": "Good lead-magnet niche; confirm the path."
+      "notes": "Good lead-magnet niche; confirm the path.",
+      "confirmed": false
     }
   ]
 }

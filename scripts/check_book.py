@@ -90,6 +90,20 @@ def main():
     add("each keyword under 50 characters", not long_kw, ", ".join(long_kw) or "ok")
     cats = m.get("kdp_categories") or ([m["kdp_category"]] if m.get("kdp_category") else [])
     add("two KDP categories", len(cats) >= 2, f"{len(cats)} category listed; guide needs 2")
+    pool = {c["category"]: c for c in json.load(open(os.path.join(REPO, "ebook-topics", "category-pool.json"), encoding="utf-8"))["categories"]}
+    for cat in cats[:2]:
+        entry = pool.get(cat)
+        add(f"category in pool and confirmed: {cat[-40:]}", bool(entry and entry.get("confirmed")),
+            "not in pool" if not entry else ("confirmed" if entry.get("confirmed") else "owner has not confirmed this path yet"))
+    age = str(m.get("reading_age", ""))
+    if age:
+        import subprocess as sp
+        rd = json.loads(sp.run([sys.executable, os.path.join(HERE, "readability.py"), os.path.join(folder, "manuscript.md")],
+                               capture_output=True, text=True).stdout or "{}")
+        grade = rd.get("grade")
+        lo, hi = (2, 4) if age.startswith("6") else (1, 3)
+        add(f"readability for ages {age} (grade {lo} to {hi})", grade is not None and lo <= grade <= hi,
+            f"grade {grade}")
     add("language en-US", m.get("language") == "en-US", str(m.get("language")))
     add("AI disclosure exact wording", m.get("ai_disclosure", "").strip() == AI_LINE)
     add("copyright line in manuscript", "Copyright © 2026 Skybee. All rights reserved." in manuscript)
