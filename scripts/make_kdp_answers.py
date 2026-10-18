@@ -15,6 +15,9 @@ def main():
         print(__doc__, file=sys.stderr)
         return 2
     folder = sys.argv[1]
+    if not os.path.exists(os.path.join(folder, "metadata.json")):
+        print(f"missing metadata.json in {folder}", file=sys.stderr)
+        return 1
     with open(os.path.join(folder, "metadata.json"), encoding="utf-8") as f:
         m = json.load(f)
 

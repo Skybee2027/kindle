@@ -55,6 +55,10 @@ def main():
         print(__doc__, file=sys.stderr)
         return 2
     folder = sys.argv[1]
+    for name in ["manuscript.md", "metadata.json"]:
+        if not os.path.exists(os.path.join(folder, name)):
+            print(json.dumps({"folder": folder, "pass": False, "problems": [{"check": "file present", "detail": f"{name} missing"}]}, indent=2))
+            return 1
     text = open(os.path.join(folder, "manuscript.md"), encoding="utf-8").read()
     meta = json.load(open(os.path.join(folder, "metadata.json"), encoding="utf-8"))
     problems = []

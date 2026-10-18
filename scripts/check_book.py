@@ -80,6 +80,10 @@ def main():
     def add(name, ok, detail=""):
         checks.append({"check": name, "pass": bool(ok), "detail": detail})
 
+    if not os.path.isdir(folder):
+        print(json.dumps({"folder": folder, "pass": False,
+                          "checks": [{"check": "book folder", "pass": False, "detail": "folder not found"}]}, indent=2))
+        return 1
     epubs = [n for n in os.listdir(folder) if n.endswith(".epub")]
     has_cover = os.path.exists(os.path.join(folder, "cover-ebook.jpg"))
     for name in ["manuscript.md", "metadata.json", "review-notes.md"]:

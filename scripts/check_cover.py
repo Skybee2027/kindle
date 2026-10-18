@@ -116,6 +116,9 @@ def main():
     def add(name, ok, detail=""):
         checks.append({"check": name, "pass": bool(ok), "detail": detail})
 
+    if not os.path.exists(cover):
+        print(json.dumps({"file": cover, "pass": False, "checks": [{"check": "cover file present", "pass": False, "detail": "cover-ebook.jpg not found"}]}, indent=2))
+        return 1
     img = Image.open(cover)
     add("size 1600x2560", img.size == (1600, 2560), f"{img.size[0]}x{img.size[1]}")
     add("RGB JPEG", img.format == "JPEG" and img.mode == "RGB", f"{img.format} {img.mode}")

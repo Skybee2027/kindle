@@ -95,6 +95,12 @@ def main():
         return 2
     folder = sys.argv[1]
     issues = []
+    if not os.path.isdir(folder) or not any(os.path.exists(os.path.join(folder, n))
+                                            for n in ("manuscript.md", "metadata.json", "cover-brief.json")):
+        result = {"folder": folder, "pass": False, "issues": [], "count": 0, "review": 0,
+                  "error": "no manuscript.md, metadata.json or cover-brief.json found; nothing was checked"}
+        print(json.dumps(result, indent=2, ensure_ascii=False))
+        return 1
     man = os.path.join(folder, "manuscript.md")
     if os.path.exists(man):
         scan(open(man, encoding="utf-8").read(), "manuscript.md", issues)

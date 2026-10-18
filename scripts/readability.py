@@ -6,6 +6,7 @@ Prints JSON: grade, words, sentences, syllables. Target for ages 6 to 9: grade 2
 Method: sentences split on . ! ?; syllables counted by vowel groups (standard approximation).
 """
 import json
+import os
 import re
 import sys
 
@@ -25,6 +26,9 @@ def main():
     if len(sys.argv) != 2:
         print(__doc__, file=sys.stderr)
         return 2
+    if not os.path.exists(sys.argv[1]):
+        print(json.dumps({"error": f"{sys.argv[1]} not found"}))
+        return 1
     text = open(sys.argv[1], encoding="utf-8").read()
     text = re.sub(r"^#+\s.*$", " ", text, flags=re.M)  # drop headings
     text = re.sub(r"[*_`>\[\]()]", " ", text)
