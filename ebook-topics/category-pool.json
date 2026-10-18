@@ -1,0 +1,142 @@
+{
+  "updated": "2026-10-18",
+  "purpose": "Categories Kindle-1 may choose from. Kindle-1 must choose two categories per topic from this list only. Changes need the owner's approval.",
+  "how_ranked": "Evidence strength (estimated, not sales data: Amazon publishes no sales by category) combined with fit to the guide's formats. Health, finance, legal and medical categories are excluded by the guide.",
+  "sources": [
+    "https://selfpublishing.com/most-popular-book-genres-on-amazon/",
+    "https://www.inkfluenceai.com/best-ebook-niches (vendor data: share of 61,879 non-fiction books, not sales)"
+  ],
+  "caveat": "Every category path must be checked in the KDP category picker before upload. Paths marked 'Confirm' were not verified.",
+  "categories": [
+    {
+      "rank": 1,
+      "category": "Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town",
+      "formats": [
+        "novel (cozy romance)"
+      ],
+      "evidence": "Romance is the top-grossing fiction genre (source: selfpublishing.com, 2026, estimate); Small Town is a high-traffic romance subcategory.",
+      "notes": "Series-friendly. Good for KDP Select."
+    },
+    {
+      "rank": 2,
+      "category": "Kindle Store > Kindle eBooks > Romance > Contemporary > Romantic Comedy",
+      "formats": [
+        "novel (cozy romance)"
+      ],
+      "evidence": "Romance is the top-grossing fiction genre; Romantic Comedy is a high-traffic romance subcategory (selfpublishing.com).",
+      "notes": "Pairs well with Small Town for variety."
+    },
+    {
+      "rank": 3,
+      "category": "Kindle Store > Kindle eBooks > Mystery, Thriller & Suspense > Women Sleuths",
+      "formats": [
+        "novel (cozy mystery)"
+      ],
+      "evidence": "Mystery, Thriller & Suspense has the most fiction print units (selfpublishing.com, citing the market data it uses).",
+      "notes": "Cozy mystery matches the guide's novel format."
+    },
+    {
+      "rank": 4,
+      "category": "Kindle Store > Kindle eBooks > Mystery, Thriller & Suspense > Cozy Mystery",
+      "formats": [
+        "novel (cozy mystery)"
+      ],
+      "evidence": "Same category family as rank 3; cozy mysteries are a large subcategory.",
+      "notes": "Confirm the exact node in the KDP picker; the log says Cozy is a subcategory to check."
+    },
+    {
+      "rank": 5,
+      "category": "Kindle Store > Kindle eBooks > Self-Help > Personal Transformation",
+      "formats": [
+        "practical guide",
+        "workbook"
+      ],
+      "evidence": "Self-Help is called the most consistent top-chart performer (selfpublishing.com); Confidence and relationships ranks 3rd by book share (inkfluenceai.com, vendor data).",
+      "notes": "Guide must include the general-information disclaimer."
+    },
+    {
+      "rank": 6,
+      "category": "Kindle Store > Kindle eBooks > Self-Help > Aging or Retirement",
+      "formats": [
+        "practical guide",
+        "workbook"
+      ],
+      "evidence": "Retirement and seniors is rising fast (momentum 1.45, inkfluenceai.com, vendor data).",
+      "notes": "Avoid medical claims."
+    },
+    {
+      "rank": 7,
+      "category": "Kindle Store > Kindle eBooks > Education & Teaching",
+      "formats": [
+        "practical guide",
+        "workbook"
+      ],
+      "evidence": "Education and study skills is the largest non-fiction topic by book share (12.8%, inkfluenceai.com, vendor data).",
+      "notes": "Study guides and workbooks."
+    },
+    {
+      "rank": 8,
+      "category": "Kindle Store > Kindle eBooks > Arts & Photography > Music > Instruction & Study",
+      "formats": [
+        "practical guide",
+        "workbook"
+      ],
+      "evidence": "Already used by a queued topic; instruction books are a steady niche (topic log).",
+      "notes": "Confirm the node in the picker."
+    },
+    {
+      "rank": 9,
+      "category": "Kindle Store > Kindle eBooks > Children's eBooks > Early Chapter Books",
+      "formats": [
+        "kids chapter book (ages 6 to 9)"
+      ],
+      "evidence": "The topic log's earlier recommendation was a kids' chapter book series for ages 6 to 9 (topic log, Oct 2026).",
+      "notes": "Confirm the exact path. Needs a readability check (guide: grade 2 to 4)."
+    },
+    {
+      "rank": 10,
+      "category": "Kindle Store > Kindle eBooks > Children's eBooks > Bedtime Stories",
+      "formats": [
+        "bedtime story collection"
+      ],
+      "evidence": "Named as a kids' niche in the topic log shortlist.",
+      "notes": "Confirm the exact path in the picker."
+    },
+    {
+      "rank": 11,
+      "category": "Kindle Store > Kindle eBooks > Crafts, Hobbies & Home > Crafts",
+      "formats": [
+        "practical guide"
+      ],
+      "evidence": "Crafts, hobbies and DIY is rising (momentum 1.22, inkfluenceai.com, vendor data).",
+      "notes": "Projects and patterns; no sourcing issues."
+    },
+    {
+      "rank": 12,
+      "category": "Kindle Store > Kindle eBooks > Travel",
+      "formats": [
+        "practical guide"
+      ],
+      "evidence": "Travel is steady and destination-specific (inkfluenceai.com, vendor data; momentum 1.15).",
+      "notes": "Check facts (prices, opening hours) against a source before publishing."
+    },
+    {
+      "rank": 13,
+      "category": "Kindle Store > Kindle eBooks > Puzzles & Games",
+      "formats": [
+        "large-print puzzle book"
+      ],
+      "evidence": "Large-print puzzle books were in the topic log's alternatives list; low writing-quality risk.",
+      "notes": "Puzzle books use fixed layout per the guide; confirm the path."
+    },
+    {
+      "rank": 14,
+      "category": "Kindle Store > Kindle eBooks > Reference > Writing > Authorship",
+      "formats": [
+        "practical guide"
+      ],
+      "evidence": "Self-publishing and writing craft is a 2.5% share with momentum 1.18 (inkfluenceai.com, vendor data).",
+      "notes": "Good lead-magnet niche; confirm the path."
+    }
+  ]
+}
