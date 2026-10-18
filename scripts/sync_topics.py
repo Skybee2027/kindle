@@ -86,6 +86,8 @@ def main():
                 "Chapter outline": joined(t.get("chapter_outline")),
                 "Title options": joined(t.get("title_options")),
                 "KDP keywords": joined(t.get("kdp_keywords")),
+                "Risks": joined(t.get("risks")),
+                "Sales estimate (ESTIMATE)": joined(t.get("sales_estimate")),
             }
             r = ws.max_row + 1
             for name_, value in values.items():
@@ -96,7 +98,8 @@ def main():
             added += 1
             print(f"added: {name[:60]}", file=sys.stderr)
 
-    wb.save(SHEET)
+    if added:
+        wb.save(SHEET)
     print(json.dumps({"added": added}))
     return 0
 
