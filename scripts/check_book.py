@@ -15,6 +15,12 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 
+FICTION_DISCLAIMER = ("This is a work of fiction. Names, characters, places, and events are fictional. "
+                      "Any resemblance to real persons is coincidental.")
+NONFICTION_DISCLAIMER = "This book is for general information only and is not medical, financial, or legal advice."
+NONFICTION_PREFIXES = tuple("Kindle Store > Kindle eBooks > " + p for p in (
+    "Self-Help", "Education & Teaching", "Arts & Photography", "Crafts, Hobbies & Home", "Travel", "Reference"))
+KIDS_PREFIX = "Kindle Store > Kindle eBooks > Children's eBooks"
 AI_LINE = ("This book was created with the assistance of artificial intelligence tools. "
            "All content was reviewed and edited by the publisher.")
 PLACEHOLDER = re.compile(r"\[(insert|tbd|todo|placeholder|name|author)|lorem ipsum|\bTODO\b|\bTBD\b|XXX", re.I)
@@ -123,6 +129,15 @@ def main():
     want_ks = "enroll for 90 days" if m.get("series") else "no"
     add("KDP Select matches series rule", ks == want_ks,
         f"kdp_select '{m.get('kdp_select')}'; series {'yes' if m.get('series') else 'no'} needs '{want_ks}' (guide section 9)")
+    # Guide section 8: the fiction or non-fiction disclaimer must be in the manuscript.
+    # Guide section 13: every kids' book must state its reading age, so readability is checked.
+    nonfiction = any(c.startswith(NONFICTION_PREFIXES) for c in cats)
+    kids = any(c.startswith(KIDS_PREFIX) for c in cats)
+    want_disc = NONFICTION_DISCLAIMER if nonfiction else FICTION_DISCLAIMER
+    add("required disclaimer in manuscript (guide section 8)", want_disc in manuscript,
+        ("non-fiction disclaimer" if nonfiction else "fiction disclaimer") + (" present" if want_disc in manuscript else " missing"))
+    add("kids' book states reading_age (guide section 13)", (not kids) or bool(m.get("reading_age")),
+        "reading_age set" if (not kids or m.get("reading_age")) else "kids' category needs reading_age, e.g. \"6-9\"")
     age = str(m.get("reading_age", ""))
     if age:
         import subprocess as sp
