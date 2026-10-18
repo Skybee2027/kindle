@@ -388,7 +388,12 @@
           "Competition: retirement and self-help workbooks are a crowded shelf. Mitigation: a distinctive 30-day structure and a clear gift angle.",
           "Demand is not verified: Amazon Best Sellers pages could not be fetched. Mitigation: before a second book, pull rank and review data for five to ten comparable titles."
         ],
-        "used_on": "2026-10-18"
+        "used_on": "2026-10-18",
+        "categories": [
+          "Kindle Store > Kindle eBooks > Self-Help > Personal Transformation",
+          "Kindle Store > Kindle eBooks > Self-Help > Aging or Retirement"
+        ],
+        "categories_verified": false
       },
       {
         "topic_name": "Read Sheet Music Fast: A Beginner's Workbook for Adult Pianists and Singers",
@@ -460,7 +465,12 @@
           "Demand is not verified: no music-specific rank or sales data was found. Mitigation: before writing Book 2, pull rank data for five to ten comparable titles and drop the series if they do not sell.",
           "Scope creep: readers may expect a full music theory course. Mitigation: state the scope in the subtitle and description."
         ],
-        "used_on": "2026-10-18"
+        "used_on": "2026-10-18",
+        "categories": [
+          "Kindle Store > Kindle eBooks > Arts & Photography > Music > Instruction & Study",
+          "Kindle Store > Kindle eBooks > Education & Teaching"
+        ],
+        "categories_verified": false
       }
     ],
     "alternatives_considered": [
