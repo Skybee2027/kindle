@@ -1,0 +1,134 @@
+[
+  {
+    "date": "undated (imported)",
+    "source": "Imported from the earlier ebook-topics/topics.docx shortlist; no selection was recorded for it.",
+    "trends": [],
+    "shortlist": [
+      "Kids' chapter book series (ages 6 to 9): text-only, repeatable structure, series loyalty; price $2.99 to $4.99.",
+      "Bedtime story collections: short self-contained stories in themed volumes; steady gift and routine buyers.",
+      "Early readers (ages 4 to 7): controlled vocabulary; recurring character; check reading level before publishing.",
+      "Large-print puzzle books: no writing-quality risk; low price and heavy competition.",
+      "Narrow practical how-to guides: one reader, one problem; every fact must be verified; avoid medical, financial, and legal advice."
+    ],
+    "selected_topic": null,
+    "notes": "Earlier recommendation was a kids' chapter book series for ages 6 to 9. Superseded by the 2026-10-17 selection below."
+  },
+  {
+    "date": "2026-10-17",
+    "source": "Kindle-1 research run. Amazon Best Sellers pages were blocked to the research fetcher, so demand signals come from secondary sources cited below.",
+    "trends": [
+      {
+        "signal": "Mystery, thriller and suspense rank at the top of the 30 main Kindle categories by #1 bestseller sales rank.",
+        "source": "selfpublishing.com, 'The Most Popular Book Genres on Amazon' (July 2026), citing Kindle eBook Market Intelligence.",
+        "confidence": "secondary, no raw figures"
+      },
+      {
+        "signal": "Mystery, thriller and suspense: over 42 million US print units in a recent year, the highest unit count of any fiction category.",
+        "source": "selfpublishing.com (July 2026). Unnamed source.",
+        "confidence": "secondary, unverified"
+      },
+      {
+        "signal": "Romance is the highest-grossing fiction genre, about $1.44B a year, nearly double the next fiction genre. Crowded, with large publishers active.",
+        "source": "selfpublishing.com (July 2026), citing Writer's Digest.",
+        "confidence": "secondary"
+      },
+      {
+        "signal": "Romantasy is described as the fastest-growing subgenre, driven by BookTok. No figures given.",
+        "source": "selfpublishing.com (July 2026); revlox.com 'BookTok Dominates 2026'.",
+        "confidence": "qualitative only"
+      },
+      {
+        "signal": "Science fiction and fantasy sales in the UK rose 41.3% between 2023 and 2024.",
+        "source": "revlox.com (2026), citing a 2025 Guardian report.",
+        "confidence": "secondary"
+      },
+      {
+        "signal": "BookTok-recommended books: over 50 million copies sold across Europe in 2025, about EUR 800 million.",
+        "source": "revlox.com (2026), citing a March 2026 TikTok newsroom report using NielsenIQ BookData and Media Control.",
+        "confidence": "secondary"
+      },
+      {
+        "signal": "Self-help is called the most consistent performer in top charts, in a roughly $12B global market.",
+        "source": "selfpublishing.com (July 2026). No figures sourced.",
+        "confidence": "qualitative only"
+      },
+      {
+        "signal": "Children's fiction keeps steady, sizable audiences. No figures and no early-reader data found.",
+        "source": "selfpublishing.com (July 2026).",
+        "confidence": "qualitative only"
+      },
+      {
+        "signal": "Kindle Unlimited per-page read rate (KENP): $0.00482 per page for April 2026, most recent month shown. Amazon does not publish this directly; it is derived from the monthly fund divided by total pages read.",
+        "source": "profitable.app/kdp/stats/kenp-rate (page updated May 9, 2026).",
+        "confidence": "third-party estimate"
+      },
+      {
+        "signal": "Amazon has reportedly capped self-publishing uploads at three per day to slow low-quality AI-written books. Amazon requires AI-generated text to be disclosed through a private checkbox; the disclosure does not appear on the product page.",
+        "source": "builtwritten.com, 'Disclose AI in your book: KDP policy 2026'.",
+        "confidence": "secondary; verify in KDP help before relying on it"
+      }
+    ],
+    "selected_topic": {
+      "topic_name": "Halden Point Cozy Mystery Series: Book 1, Slack Water",
+      "category": "Kindle Store > Kindle eBooks > Mystery, Thriller & Suspense > Women Sleuths (also check the Cozy subcategory in the KDP category picker; the exact browse node was not confirmed).",
+      "description": "When the relief lighthouse keeper of Halden Point is found dead at the foot of the tower, the coroner calls it a fall on the wet steps. Nell Ardery, a widowed tea-room owner who runs the cafe below the lighthouse, doesn't believe it. The tide tables and the lighthouse logbook don't agree about when the tide turned, and someone has rewritten one page of the log. Nell works through the village's small circle of suspects: the ferry secretary who keeps the timetables, the lifeboat volunteer who lost money from the fund, a painter who rents the old signal room, and the vicar's sister who knows everyone's secrets. Each clue depends on the tides, so the answer is fair and checkable by the reader. The story is warm and witty, with no on-page violence, no sexual content, and no profanity, and it ends with the village restored and a hook for Book 2.",
+      "target_reader": "Adult cozy mystery readers (women 35 to 70 are the core) who read on Kindle Unlimited and want a comforting, puzzle-driven story with a recurring cast and a sense of place. The book delivers the feeling of being part of a small town and the satisfaction of solving the clue before the sleuth does.",
+      "format": "Text-only ebook, reflowable. Series: yes, planned as a 3 to 5 book series with a recurring cast and setting.",
+      "price_usd": 4.99,
+      "royalty_tier": "70% tier (list price between $2.99 and $9.99). About $3.49 per sale before the delivery fee, which is negligible for a text-only file.",
+      "page_count": "about 210 to 230 pages",
+      "word_count": "55,000 to 60,000 words",
+      "chapter_outline": [
+        "1. Slack Water: Nell finds the body at dawn, with the lighthouse door unlocked and a torch still burning.",
+        "2. The Tide Table: the coroner rules a fall; Nell notices the logbook page is wrong.",
+        "3. The Keeper's Widow: Nell visits the dead keeper's wife and learns he had been worried about money.",
+        "4. Teacups and Suspects: the tea room becomes the village's gossip hub; the first suspects are introduced.",
+        "5. The Ferry Timetable: a second look at the ferry schedule shows a gap that fits the timeline.",
+        "6. A Lie in the Signal Room: the painter's alibi fails, but he has his own secret.",
+        "7. Lifeboat Accounts: the fund's missing money points to a suspect nobody expected.",
+        "8. Low Tide Confessions: Nell finds the rewritten page hidden in a second logbook.",
+        "9. The Storm Log: the confrontation at the tower during a squall; the fair-play clue is revealed.",
+        "10. Full Tide: the culprit is caught; the village starts to heal.",
+        "11. Epilogue: Next Tide: a new letter arrives at the tea room and sets up Book 2."
+      ],
+      "tone_and_style": "Warm, observant, and gently funny. Close third person, past tense, from Nell's point of view. Short scenes, a strong sense of place and weather, and clue placement that is fair to the reader. Avoid graphic violence, explicit content, and profanity. Dialogue should be natural and the suspects should have distinct voices. Every clue must be checked against the tide table by a human editor.",
+      "title_options": [
+        "Slack Water: A Halden Point Cozy Mystery",
+        "The Keeper's Ledger: A Lighthouse Cove Mystery, Book 1",
+        "Tide Tables and Tea: A Halden Point Cozy Mystery"
+      ],
+      "keywords": [
+        "cozy mystery lighthouse",
+        "small town women sleuth mystery",
+        "cozy mystery series ebook",
+        "amateur sleuth coastal village",
+        "cozy murder mystery Kindle Unlimited",
+        "lighthouse mystery novel",
+        "tea room cozy mystery"
+      ],
+      "sales_estimate": {
+        "label": "ESTIMATE. No sales data was verified. These are planning assumptions, not sourced figures.",
+        "reasoning": "A new indie cozy mystery with no reviews is assumed to sell slowly at first. Sales are expected to rise as Books 2 and 3 publish and KU reads accumulate. The assumed price is $4.99 at a 70% royalty, or about $3.49 per sale. KU pages are at the $0.00482 per page rate from profitable.app.",
+        "scenarios": [
+          {"case": "Conservative", "sales_per_month": 20, "kenp_pages_per_month": 4000, "estimated_monthly_revenue_usd": 88},
+          {"case": "Mid", "sales_per_month": 40, "kenp_pages_per_month": 10000, "estimated_monthly_revenue_usd": 186},
+          {"case": "Optimistic (series of 3+ books)", "sales_per_month": 100, "kenp_pages_per_month": 25000, "estimated_monthly_revenue_usd": 466}
+        ],
+        "revenue_formula": "sales x $3.49 + KENP pages x $0.00482"
+      },
+      "risks_and_mitigation": [
+        "Quality: AI prose may be flat, and AI-written mystery clues often fail the fair-play test. Mitigation: outline the clue chain before drafting, have a human check every clue against the tide table, and do a full human read-through before upload.",
+        "Competition: the cozy mystery shelf is crowded and dominated by indie series. Mitigation: the tide-table and logbook clue mechanism is a distinct hook; differentiate covers and blurbs; publish Books 2 and 3 quickly.",
+        "Policy: KDP requires AI-generated text to be disclosed (private checkbox). Reported upload caps (3 per day) may slow a catalog build. Mitigation: disclose correctly, pace uploads, and never claim human authorship in marketing.",
+        "Originality: cozy mysteries share tropes. Mitigation: do not copy existing series names, characters, or plots; check new titles against the Kindle store before publishing.",
+        "Demand is not verified: Amazon Best Sellers pages were blocked during research. Mitigation: pull rank data for three to five comparable cozy mysteries before committing to Book 2."
+      ]
+    },
+    "alternatives_considered": [
+      {"topic": "Romantasy", "reason_rejected": "Fastest-growing subgenre, but dominated by large publishers and bestselling authors, and high reader expectations for fantasy worldbuilding that AI drafts often miss."},
+      {"topic": "Kids' chapter book series (ages 6 to 9)", "reason_rejected": "Strong fit for AI writing and series loyalty, and the earlier shortlist's pick. Rejected for this run because the demand signal is weaker in sourced data than mystery's top-category rank."},
+      {"topic": "Large-print puzzle books", "reason_rejected": "Low writing risk, but heavy competition, low price points, and KDP scrutiny of low-content books."},
+      {"topic": "Practical self-help or how-to", "reason_rejected": "Large and consistent market, but factual claims need expert verification, and nonfiction risks overlap with medical, financial, and legal advice."}
+    ]
+  }
+]
