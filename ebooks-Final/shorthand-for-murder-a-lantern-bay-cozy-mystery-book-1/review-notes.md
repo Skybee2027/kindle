@@ -3,7 +3,7 @@
 Guide version: 2.1
 Topic: "Shorthand for Murder: A Lantern Bay Cozy Mystery, Book 1" (ebook-topics/topics-log.json)
 Format: text-only EPUB, US English, US dollars
-Cover: pending, to be created by Kindle-3 (cover brief and cover)
+Cover: created in Canva (design DAHYZj0dpJ8, https://canva.link/b2hhonvsog6szdn), author "Skybee" in small text, approved by owner 2026-10-18. Cover checks: check_cover_brief.py and check_cover.py pass.
 
 ## Structure
 - 30 chapters, each with a "## Chapter N: Title" heading. The topic outline lists 10 story beats; each beat was expanded into three chapters to meet the 25 to 40 chapter rule in guide section 3.

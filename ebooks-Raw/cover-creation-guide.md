@@ -17,10 +17,12 @@ Purpose: make one ebook cover for each book folder in ebooks-Final, prove it mee
 
 Write down, in one sentence, what the book is about and what its best visual clue is. For Shorthand for Murder that is: a court reporter whose steno tape proves a murder was covered up, with a lighthouse and a lake town. Clue: the steno tape. Mood: moody, warm, quiet.
 
-## 2. Choose the production path
-- Path A, default for house covers: Canva. Use the Canva create-design tool with a prompt built from the template in cover-prompts.md. Export as PNG, convert to 1600 by 2560 RGB JPEG, and save as cover-ebook.jpg. Canva AI sometimes drops title lines; read the design back and fix it in Canva if a line is missing.
-- Path B, fallback when Canva is unavailable or the owner asks for a drawn cover: Pillow script, same size and rules. Keep the script in your scratch folder, not the repo.
-- Never mix a Canva design and a Pillow design in one cover. Never use a stock image or a font without a licence you can save in the folder.
+## 2. Production path: Canva only
+- Every cover is created in Canva, using the create-design tool with a prompt built from the template in cover-prompts.md. There is no Pillow, SVG, HTML, or other drawn fallback.
+- If Canva cannot complete a design after three attempts, stop and report the blocker in the handoff. Do not draw a substitute.
+- Export the Canva design as PNG (export-design), convert it to a 1600 by 2560 RGB JPEG, and save it as cover-ebook.jpg in the book folder.
+- Read the design back after it completes. Canva AI sometimes drops title lines; fix the design in Canva if a line is missing.
+- Use only Canva fonts and Canva elements, which avoids separate font licence questions.
 
 ## 3. Build the concept (three before one)
 Sketch three different concepts before you commit to one. Each concept names: the focal object, the palette (three or four hex colours), the composition (where the title sits, where the focal object sits), and the one detail that signals the genre. Score each out of five on:
@@ -39,6 +41,7 @@ Keep the highest total. If two concepts tie, keep the one with the stronger thum
 - Non-fiction and how-to: a clean object or result shot, a sans-serif title, one strong colour block. No medical, financial, or legal promises on the cover.
 
 ## 5. Typography rules
+- Author name "Skybee": small, clean sans or serif, bottom of the cover, clearly smaller than the subtitle and the series line. It is credit text, not a headline.
 - Title: two or three lines, exactly as metadata.title splits them. Largest element on the cover. Letter height at least 3.5 percent of the cover height (the checker enforces this).
 - Title font: a bold serif for mysteries and literary books, a rounded bold sans for children's books, a clean sans for how-to books. Use only fonts licensed for this use (Canva fonts or a font with a saved licence file).
 - Subtitle: smaller, one line, in the accent colour.
