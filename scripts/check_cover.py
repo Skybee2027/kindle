@@ -147,8 +147,9 @@ def main():
         else:
             with open(brief_path, encoding="utf-8") as f:
                 brief = json.load(f)
-            with open(meta_path, encoding="utf-8") as f:
-                meta = json.load(f)
+            meta = json.load(open(meta_path, encoding="utf-8")) if os.path.exists(meta_path) else {}
+            if not meta:
+                add("metadata present", False, "metadata.json missing; the cover cannot be checked against it")
             palette = brief.get("palette") or []
             if not palette or not all(re.match(r"^#[0-9A-Fa-f]{6}$", str(c)) for c in palette):
                 add("palette matches brief", False, "brief has no valid #RRGGBB palette")
@@ -173,10 +174,11 @@ def main():
                 # Decorative text OCR often cannot read (author name, badge, series line, tagline).
                 # These are not failed by OCR; Kindle-3 must confirm them by viewing the cover.
                 visual = []
-                for label, key in [("author", "author"), ("age or grade badge", "badge"),
-                                   ("series line", "series_line"), ("tagline", "tagline")]:
-                    value = brief.get(key, "")
-                    if not value or value.lower().startswith("none"):
+                # The subtitle must match metadata.json and appear on the cover (guide section 6).
+                for label, value in [("author", brief.get("author", "")), ("age or grade badge", brief.get("badge", "")),
+                                     ("series line", brief.get("series_line", "")), ("tagline", brief.get("tagline", "")),
+                                     ("subtitle", meta.get("subtitle", ""))]:
+                    if not value or str(value).lower().startswith("none"):
                         continue
                     share = found(norm_words(value), ocr)
                     if share >= TEXT_WORD_FULL:
