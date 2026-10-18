@@ -209,6 +209,7 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
   var books = [], runs = [], alerts = [], schedule = [];
   var bookPage = 0, runLimit = RUN_STEP;
   var db = null;
+  var loaded = false;
 
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
@@ -416,6 +417,7 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
     var schedDoc = db.doc("meta/schedule");
 
     booksQ.onSnapshot(function (snap) {
+      loaded = true;
       books = snap.docs.filter(function (d) { return d.exists; }).map(function (d) { return docToRow(d); });
       render();
       setLive(true, "Live · updated " + new Date().toLocaleTimeString("en-US", { timeZone: "America/New_York", hour: "numeric", minute: "2-digit", second: "2-digit" }));
@@ -459,6 +461,11 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 
   setLive(false, "Connecting...");
   render();
+  setTimeout(function () {
+    if (!loaded) {
+      setLive(false, "Live data did not load in this view. Open the full page in your browser to see live numbers.");
+    }
+  }, 12000);
 
   if (!window.claude || typeof window.claude.use !== "function") {
     setLive(false, "Live data is not available in this view.");
