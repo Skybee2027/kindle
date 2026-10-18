@@ -65,9 +65,11 @@ def main():
         checks.append({"check": name, "pass": bool(ok), "detail": detail})
 
     epubs = [n for n in os.listdir(folder) if n.endswith(".epub")]
-    for name in ["manuscript.md", "cover-ebook.jpg", "metadata.json", "review-notes.md"]:
+    has_cover = os.path.exists(os.path.join(folder, "cover-ebook.jpg"))
+    for name in ["manuscript.md", "metadata.json", "review-notes.md"]:
         add(f"file present: {name}", os.path.exists(os.path.join(folder, name)))
     add("file present: EPUB", bool(epubs), ", ".join(epubs) or "none")
+    add("file present: cover-ebook.jpg", has_cover, "" if has_cover else "not made yet (Kindle-3 makes it)")
     if not all(c["pass"] for c in checks):
         print(json.dumps({"folder": folder, "pass": False, "checks": checks}, indent=2))
         return 1
@@ -117,9 +119,12 @@ def main():
         warnings = len(re.findall(r"\bWARNING\b", out))
         add("epubcheck: 0 errors, 0 warnings", errors == 0 and warnings == 0, f"{errors} errors, {warnings} warnings")
 
-    cov = subprocess.run([sys.executable, os.path.join(HERE, "check_cover.py"), os.path.join(folder, "cover-ebook.jpg"), "ebooks-Final"],
-                         capture_output=True, text=True)
-    cov_json = json.loads(cov.stdout)
+    if not has_cover:
+        cov_json = {"checks": []}
+    else:
+        cov = subprocess.run([sys.executable, os.path.join(HERE, "check_cover.py"), os.path.join(folder, "cover-ebook.jpg"), "ebooks-Final"],
+                             capture_output=True, text=True)
+        cov_json = json.loads(cov.stdout)
     for c in cov_json["checks"]:
         add("cover: " + c["check"], c["pass"], c["detail"])
 
