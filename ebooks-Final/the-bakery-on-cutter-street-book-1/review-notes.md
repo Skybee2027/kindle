@@ -37,6 +37,10 @@ All 39 chapters were read line by line. Fixes made in this pass:
 - Chapter Thirty-Nine: the rolling pin label is in Hollis's hand; Eli's letter took years, not thirty years, to read.
 - Spelling and idiom: converted to US English throughout (for example gray, color, mom, sidewalk, flashlight, cookies, parking lot, dish towel, sweater, dessert, line, mailbox, trash can, leash, pharmacy, around).
 
+- Chapter Eleven: title changed to "Sold Out by Four", since the tables are not bare until four o'clock.
+- Chapter Thirty-Six: the mother's new postcard no longer repeats the "sorry about the wrist" line from the earlier postcard in Chapter Twenty-Five.
+- Chapter Thirty-Eight: Eli asks Hannah to be his partner, not his trustee, since Chapter Thirty-Seven already made her trustee. The proposal date is January, not spring.
+
 ## Continuity notes
 - Timeline: Mabel the second (Chapters Eight to Eleven) and Mabel the third (Chapters Thirty-Eight to Thirty-Nine) are consistent with the dates above.
 - The sign reads "THE CUTTER STREET BAKERY" (red, est. 1961). "Brooks & Sons" is the old lettering inside the front window. The new sign in Chapter Thirty-Seven reads "BROOKS & CARVER".

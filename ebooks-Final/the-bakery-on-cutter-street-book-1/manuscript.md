@@ -1012,7 +1012,7 @@ Then a voice called from across the square, shrill and cheerful: "Eli! Your coff
 
 He walked away, toward the diner's urn and the laughing crowd. She stood at the empty stall with her cold coffee and the crooked sign above her head, and she did not straighten it, because she did not want him to come back and do it for her.
 
-# Chapter Eleven: Sold Out by Noon
+# Chapter Eleven: Sold Out by Four
 
 The idea of a market stall had been Mrs. Ortiz's, which meant that it had been decided, paid for, and advertised on the church noticeboard before Hannah had been consulted at all.
 
@@ -3890,7 +3890,7 @@ She turned it over.
 
 The message was short. It had been written in a hurry, the ink smudged in places, the letters sloping heavily to the right.
 
-*Eli. Sorry about the wrist. I was not brave enough to say it properly then. I am trying now. I have been sober for six years and I am living in a small apartment near the water with a cat named Bruce who hates me. I know you don't want to hear from me. I know I don't deserve to be heard. But I wanted you to know that I think about the roof, and the tar, and your father carrying you home over his shoulder. I think about it every day. — Mom.*
+*Eli. I was sorry then, and I was not brave enough to say it properly. I am trying now. I have been sober for six years and I am living in a small apartment near the water with a cat named Bruce who hates me. I know you don't want to hear from me. I know I don't deserve to be heard. But I wanted you to know that I think about the roof, and the tar, and your father carrying you home over his shoulder. I think about it every day. — Mom.*
 
 Hannah read it twice. Then she sat down on the step beside him and put her hand on his arm.
 
@@ -4182,7 +4182,7 @@ She put the hammer down on the crate between them, very carefully, and looked at
 
 "You're going to propose again," she said.
 
-"I'm not going to propose again. I'm going to ask you something I should have asked in the spring, when we had the sign up and the dog watching, and I was too scared to say it properly." He took her hand. "I'm asking you to be my trustee. Not because of the building, though I'll never stop being grateful for it. I'm asking because you're the only person I've ever met who looked at the worst thing my father ever did and said *that's not the end of the story*. And because I want the two of us to be the ones who finish it."
+"I'm not going to propose again. I'm going to ask you something I should have asked in January, when we had the sign up and the dog watching, and I was too scared to say it properly." He took her hand. "I'm asking you to be my partner, in the building and out of it. Not because of the building, though I'll never stop being grateful for it. I'm asking because you're the only person I've ever met who looked at the worst thing my father ever did and said *that's not the end of the story*. And because I want the two of us to be the ones who finish it."
 
 "You already asked me to marry you," said Hannah.
 
@@ -4194,7 +4194,7 @@ She put the hammer down on the crate between them, very carefully, and looked at
 
 She laughed, helplessly, and pulled him to his feet, and kissed him with the taste of rye bread still on her lips and flour on the front of her apron. Somewhere behind them, the old oven ticked as it cooled, and the sound of children's voices drifted in from the front of the store, where the schoolteacher was calling a head count.
 
-"Yes," said Hannah. "I'll be your trustee. I'll be your wife, too, if you're going to be this insistent about it. And if you ever burn the toast again, I'm going to make you eat the crust with the hammer."
+"Yes," said Hannah. "I'll be your partner. I'll be your wife, too, if you're going to be this insistent about it. And if you ever burn the toast again, I'm going to make you eat the crust with the hammer."
 
 "That's the most romantic thing anyone's ever said to me."
 
