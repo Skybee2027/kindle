@@ -27,7 +27,7 @@ _Description length: 189 words (KDP allows up to 4,000 characters)._
 
 ## Categories
 - Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town (verify in KDP category picker)
-- Choose the second category in the KDP picker, and check the exact path there.
+- Check each path in the KDP category picker. KDP needs two.
 
 ## Content
 - **Content warnings:** None. No explicit sexual content, no profanity, no on-page violence.

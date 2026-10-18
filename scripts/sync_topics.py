@@ -75,7 +75,7 @@ def main():
                 "Date": entry.get("date", ""),
                 "Status": "Selected",
                 "Topic": name,
-                "Category": t.get("category", ""),
+                "Category": " | ".join(t["categories"]) if t.get("categories") else t.get("category", ""),
                 "Description": t.get("description", ""),
                 "Format": t.get("format", ""),
                 "Price (USD)": t.get("price_usd", ""),

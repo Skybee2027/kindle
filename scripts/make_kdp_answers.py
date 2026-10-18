@@ -48,8 +48,11 @@ def main():
     lines += [
         "",
         "## Categories",
-        f"- {m.get('kdp_category', '')}",
-        "- Choose the second category in the KDP picker, and check the exact path there.",
+    ]
+    cats = m.get("kdp_categories") or ([m["kdp_category"]] if m.get("kdp_category") else [])
+    lines += [f"- {c}" for c in cats] or ["- NO CATEGORY SET: add two in metadata.json (kdp_categories)"]
+    lines += [
+        "- Check each path in the KDP category picker. KDP needs two.",
         "",
         "## Content",
         f"- **Content warnings:** {m.get('content_warnings', 'None')}",

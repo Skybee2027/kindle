@@ -1,0 +1,132 @@
+#!/usr/bin/env python3
+"""Run every mechanical check from the guide on one book folder.
+
+Usage: python3 scripts/check_book.py "<book folder>"
+Reads metadata.json, manuscript.md, book.epub, cover-ebook.jpg, and the topic entry in
+ebook-topics/topics-log.json. Prints JSON with each check and pass/fail. Exit 0 = all pass.
+Judgement checks (facts, reading quality, sensitive content) are NOT here: the robot reviews those.
+"""
+import json
+import os
+import re
+import subprocess
+import sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+AI_LINE = ("This book was created with the assistance of artificial intelligence tools. "
+           "All content was reviewed and edited by the publisher.")
+PLACEHOLDER = re.compile(r"\[(insert|tbd|todo|placeholder|name|author)|lorem ipsum|\bTODO\b|\bTBD\b|XXX", re.I)
+
+
+def words_in_range(text):
+    nums = [int(n.replace(",", "")) for n in re.findall(r"\d[\d,]*", text)]
+    return (min(nums), max(nums)) if len(nums) >= 2 else (nums[0], nums[0]) if nums else (None, None)
+
+
+def topic_for(folder):
+    """Find the topic whose slug matches the book folder name (the picker's rule)."""
+    base = os.path.basename(os.path.normpath(folder))
+    with open("ebook-topics/topics-log.json", encoding="utf-8") as f:
+        for entry in json.load(f):
+            topics = ([entry["selected_topic"]] if entry.get("selected_topic") else []) + (entry.get("selected_topics") or [])
+            for t in topics:
+                if t and t.get("topic_name") and slug(t["topic_name"]).startswith(base):
+                    return t
+    return None
+
+
+def slug(s):
+    return re.sub(r"[^a-z0-9]+", "-", norm(s)).strip("-")
+
+
+def norm(s):
+    return re.sub(r"\s+", " ", str(s or "")).strip().lower()
+
+
+def find_jar():
+    """The epubcheck jar from the pip package (pip install --break-system-packages epubcheck)."""
+    try:
+        import epubcheck
+        path = os.path.join(os.path.dirname(epubcheck.__file__), "epubcheck.jar")
+        return path if os.path.exists(path) else ""
+    except ImportError:
+        return ""
+
+
+def main():
+    if len(sys.argv) != 2:
+        print(__doc__, file=sys.stderr)
+        return 2
+    folder = sys.argv[1]
+    checks = []
+
+    def add(name, ok, detail=""):
+        checks.append({"check": name, "pass": bool(ok), "detail": detail})
+
+    epubs = [n for n in os.listdir(folder) if n.endswith(".epub")]
+    for name in ["manuscript.md", "cover-ebook.jpg", "metadata.json", "review-notes.md"]:
+        add(f"file present: {name}", os.path.exists(os.path.join(folder, name)))
+    add("file present: EPUB", bool(epubs), ", ".join(epubs) or "none")
+    if not all(c["pass"] for c in checks):
+        print(json.dumps({"folder": folder, "pass": False, "checks": checks}, indent=2))
+        return 1
+
+    m = json.load(open(os.path.join(folder, "metadata.json"), encoding="utf-8"))
+    manuscript = open(os.path.join(folder, "manuscript.md"), encoding="utf-8").read()
+    body_words = len(re.findall(r"\S+", manuscript))
+
+    add("title and subtitle set", m.get("title") and m.get("subtitle"))
+    add("author is Skybee", m.get("author") == "Skybee", str(m.get("author")))
+    desc_words = len(str(m.get("description", "")).split())
+    add("description 150-400 words", 150 <= desc_words <= 400, f"{desc_words} words")
+    kws = m.get("keywords", [])
+    add("exactly 7 keywords", len(kws) == 7, f"{len(kws)} keywords")
+    long_kw = [k for k in kws if len(k) >= 50]
+    add("each keyword under 50 characters", not long_kw, ", ".join(long_kw) or "ok")
+    cats = m.get("kdp_categories") or ([m["kdp_category"]] if m.get("kdp_category") else [])
+    add("two KDP categories", len(cats) >= 2, f"{len(cats)} category listed; guide needs 2")
+    add("language en-US", m.get("language") == "en-US", str(m.get("language")))
+    add("AI disclosure exact wording", m.get("ai_disclosure", "").strip() == AI_LINE)
+    add("copyright line in manuscript", "Copyright © 2026 Skybee. All rights reserved." in manuscript)
+    add("AI disclosure in manuscript", AI_LINE in manuscript)
+    add("no placeholder text", not PLACEHOLDER.search(manuscript), (PLACEHOLDER.search(manuscript) or [""])[0] if PLACEHOLDER.search(manuscript) else "ok")
+
+    topic = topic_for(folder)
+    if topic is None:
+        add("topic entry found in log", False, "no topic with this title in topics-log.json")
+    else:
+        lo, hi = words_in_range(str(topic.get("word_count", "")))
+        if lo:
+            add("word count within 10% of target", lo * 0.9 <= body_words <= hi * 1.1,
+                f"{body_words} words; target {lo}-{hi}")
+        else:
+            add("word count within 10% of target", False, "topic has no word_count")
+
+    chapters = len(re.findall(r"^#{1,2}\s", manuscript, re.M))
+    add("chapters have headings", chapters >= 1, f"{chapters} headings")
+
+    epub = os.path.join(folder, epubs[0]) if epubs else ""
+    jar = find_jar()
+    if not jar:
+        add("epubcheck runs", False, "epubcheck jar not found; run: pip install --break-system-packages epubcheck")
+    else:
+        r = subprocess.run(["java", "-jar", jar, epub, "--quiet"], capture_output=True, text=True)
+        out = (r.stdout + r.stderr)
+        errors = len(re.findall(r"\bERROR\b", out))
+        warnings = len(re.findall(r"\bWARNING\b", out))
+        add("epubcheck: 0 errors, 0 warnings", errors == 0 and warnings == 0, f"{errors} errors, {warnings} warnings")
+
+    cov = subprocess.run([sys.executable, os.path.join(HERE, "check_cover.py"), os.path.join(folder, "cover-ebook.jpg"), "ebooks-Final"],
+                         capture_output=True, text=True)
+    cov_json = json.loads(cov.stdout)
+    for c in cov_json["checks"]:
+        add("cover: " + c["check"], c["pass"], c["detail"])
+
+    ok = all(c["pass"] for c in checks)
+    print(json.dumps({"folder": folder, "pass": ok, "checks": checks}, indent=2))
+    return 0 if ok else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())
