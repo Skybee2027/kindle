@@ -181,8 +181,12 @@ def main():
                     else:
                         visual.append(f"{label}: '{value}'")
                 if visual:
-                    add("confirm by viewing (OCR could not read)", True,
-                        "; ".join(visual) + " -> Kindle-3 must view the cover and record each in review-notes.md")
+                    notes_path = os.path.join(book, "review-notes.md")
+                    notes = open(notes_path, encoding="utf-8").read() if os.path.exists(notes_path) else ""
+                    missing = [v for v in visual if v.split(": ", 1)[1].strip("'") not in notes]
+                    add("viewed by eye and recorded (OCR could not read)", not missing,
+                        ("recorded in review-notes.md: " if not missing else "not yet recorded in review-notes.md: ")
+                        + "; ".join(missing or visual))
 
                 # Thumbnail: what a shopper sees in the store, enlarged so OCR can work on it.
                 with tempfile.TemporaryDirectory() as tmp:

@@ -61,8 +61,10 @@ def main():
 
     # A name is counted where it follows a lowercase word or comma ("told Anna", "with Harriet").
     # Sentence openers and dialogue starts are skipped, because they are ordinary words.
-    words = re.findall(r"(?<=[a-z,] )([A-Z][a-z]{2,})\b", text)
-    counts = Counter(w for w in words if w not in ORDINARY)
+    # Every capitalized word used at least twice, at any position, that is not an ordinary word.
+    # Sentence-start words are included; the pair rule below is what decides a clash, so a
+    # harmless word only matters if it looks like another name.
+    counts = Counter(w for w in re.findall(r"\b([A-Z][a-z]{2,})\b", text) if w not in ORDINARY)
     names = sorted(w for w, n in counts.items() if n >= 2)
     pairs = []
     for i, a in enumerate(names):

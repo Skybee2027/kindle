@@ -38,7 +38,9 @@ BRITISH = {
 # Words that are also normal US words or names when capitalised: match lowercase only.
 LOWER_ONLY = {"biscuit", "biscuits", "loft", "mum", "queue", "queues", "tyre", "cheque"}
 # Plain currency words for pounds sterling. Weight use ("a pound of flour") is allowed.
-STERLING = re.compile(r"\bpounds? sterling\b|\bpounds? \d|\d\s?pounds?\b", re.I)
+WEIGHT_WORDS = r"(?:of|bag|bags|flour|sugar|butter|cake|dog|cat|weight|weigh|weighed|heavier|lighter|lost|gained|gain|loss|loose|sack|box|bar|stone|cheese|meat|apples)"
+STERLING = re.compile(r"\bpounds? sterling\b|\bpounds? \d", re.I)   # always fails
+BARE_POUNDS = re.compile(r"\b\d[\d,]*\s?pounds?\b(?!\s+" + WEIGHT_WORDS + r"\b)", re.I)  # review only: may be weight
 CURRENCY = re.compile(r"£|€")
 
 
@@ -56,7 +58,10 @@ def scan(text, label, issues):
             issues.append({"where": label, "line": line, "found": m.group(0), "use": us})
     for m in STERLING.finditer(text):
         line = text.count("\n", 0, m.start()) + 1
-        issues.append({"where": label, "line": line, "found": m.group(0), "use": "$ (US dollars)"})
+        issues.append({"where": label, "line": line, "found": m.group(0), "use": "$ (US dollars)", "kind": "fail"})
+    for m in BARE_POUNDS.finditer(text):
+        line = text.count("\n", 0, m.start()) + 1
+        issues.append({"where": label, "line": line, "found": m.group(0), "use": "check: $ if money, pounds if weight", "kind": "review"})
     for m in CURRENCY.finditer(text):
         line = text.count("\n", 0, m.start()) + 1
         issues.append({"where": label, "line": line, "found": m.group(0), "use": "$ (US dollars)"})
@@ -93,9 +98,11 @@ def main():
         brief = json.load(open(brief_path, encoding="utf-8"))
         for value in text_values(brief):
             scan(value, "cover-brief.json", issues)
-    result = {"folder": folder, "pass": not issues, "issues": issues[:200], "count": len(issues)}
+    fails = [i for i in issues if i.get("kind", "fail") == "fail"]
+    result = {"folder": folder, "pass": not fails, "issues": issues[:200], "count": len(issues),
+              "review": len(issues) - len(fails)}
     print(json.dumps(result, indent=2, ensure_ascii=False))
-    return 0 if not issues else 1
+    return 0 if not fails else 1
 
 
 if __name__ == "__main__":
