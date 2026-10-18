@@ -29,3 +29,14 @@
 - [ ] Title, subtitle, author (Skybee), description, keywords, category from metadata.json
 - [ ] AI-content disclosure answered truthfully
 - [ ] Price $3.99, 70% royalty
+
+## Approval (owner-directed review, 2026-10-18)
+- Cover: cover-ebook.jpg, 1600 x 2560 RGB JPEG, approved Canva design. PASS.
+- EPUB: EPUBCheck 5.3.0, 0 errors, 0 warnings. PASS.
+- Length: about 55,800 words; guide minimum 55,000. PASS.
+- Chapters: 39. Guide range changed from 25 to 35 to 25 to 40 by owner direction. PASS.
+- Copyright line and AI disclosure present on copyright page. PASS.
+- Description: 189 words (guide 150 to 400). PASS. Keywords: 7. PASS.
+- Price $3.99, royalty 70%. PASS.
+- Chapter timeline: chapters were inserted by theme. Season scan shows one autumn-to-winter span with no clear contradictions, but a full line-by-line read was not done. OPEN RISK, recommended before upload.
+- Nothing has been uploaded to Amazon.
