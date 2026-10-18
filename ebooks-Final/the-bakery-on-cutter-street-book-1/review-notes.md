@@ -69,3 +69,9 @@ All 39 chapters were read line by line. Fixes made in this pass:
 - Price $3.99, royalty 70%. PASS.
 - Full line-by-line read of all 39 chapters completed; fixes listed above applied. PASS.
 - Nothing has been uploaded to Amazon.
+
+## Cover review (18 October 2026, added after the cover rules were revised)
+- Brief written from the cover after it was made: see cover-brief.json. Its palette is the intended one (plum, rose, cream, gold).
+- check_cover.py --book: passes. Palette 37% near brief colours; title readable at full and thumbnail size; title letters large.
+- Viewed: "A Cutter Street Novel · Book 1" line at top, title "The Bakery on Cutter Street", tagline "Flour, Frost and a Second Chance", "BY SKYBEE" at bottom. The author line is the one OCR cannot read, so it was confirmed by viewing.
+- Open issue for the owner: the cover prints "Flour, Frost and a Second Chance" as its subtitle, but metadata.json has the subtitle "A Cutter Street Novel, Book 1". Decide which one KDP uses; the cover and the KDP subtitle must match before upload.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Flesch-Kincaid grade level for a text file (used for kids' books, guide v2.0 section 13).
+"""Flesch-Kincaid grade level for a text file (used for kids' books, guide v2.1 section 13).
 
 Usage: python3 scripts/readability.py <manuscript.md>
 Prints JSON: grade, words, sentences, syllables. Target for ages 6 to 9: grade 2 to 4.

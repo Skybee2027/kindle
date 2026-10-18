@@ -135,11 +135,16 @@ def main():
         warnings = len(re.findall(r"\bWARNING\b", out))
         add("epubcheck: 0 errors, 0 warnings", errors == 0 and warnings == 0, f"{errors} errors, {warnings} warnings")
 
+    brief = subprocess.run([sys.executable, os.path.join(HERE, "check_cover_brief.py"), folder], capture_output=True, text=True)
+    brief_json = json.loads(brief.stdout) if brief.stdout.strip() else {"checks": [{"check": "cover brief", "pass": False, "detail": brief.stderr.strip()}]}
+    for c in brief_json["checks"]:
+        add("cover brief: " + c["check"], c["pass"], c["detail"])
+
     if not has_cover:
         cov_json = {"checks": []}
     else:
-        cov = subprocess.run([sys.executable, os.path.join(HERE, "check_cover.py"), os.path.join(folder, "cover-ebook.jpg"), os.path.join(REPO, "ebooks-Final")],
-                             capture_output=True, text=True)
+        cov = subprocess.run([sys.executable, os.path.join(HERE, "check_cover.py"), os.path.join(folder, "cover-ebook.jpg"),
+                              "--book", folder], capture_output=True, text=True)
         cov_json = json.loads(cov.stdout)
     for c in cov_json["checks"]:
         add("cover: " + c["check"], c["pass"], c["detail"])

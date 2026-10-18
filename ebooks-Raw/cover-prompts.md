@@ -4,11 +4,14 @@ Use these prompts with the Canva `create-design` tool. Each book needs its own p
 
 ## How to use
 
-1. Copy the template below and fill in the bracketed parts for the new book.
-2. Check the **Cover register** in this file. The new book must have a different category, palette, character, and scene from every cover already listed.
-3. Send the prompt with the format `Portrait book cover 1600 x 2560`.
-4. Wait for the job to finish, then read the design back and confirm the title text is complete. Canva AI has dropped title lines before, so always check. If a line is missing, fix it in Canva before using the cover.
-5. Add the new book to the **Cover register** below.
+1. Write the book's cover brief first: `ebook-folder/cover-brief.json`. Fill every field from metadata.json: the title lines exactly as on the cover, the subtitle, author, series line, tagline, badge (or "none" for adult books), genre, reader age, style, three or four palette colours as hex codes, the focal scene, the character, and supporting details. Check it with `python3 scripts/check_cover_brief.py "ebooks-Final/<folder>"` before any design.
+2. Copy the template below and fill it in from the brief. Use the brief's exact title lines and palette names.
+3. Check the **Cover register** below. The new book must differ from every cover listed in category, palette, character, and scene.
+4. Send the prompt with the format `Portrait book cover 1600 x 2560`.
+5. Wait for the job to finish, then read the design back. Confirm the title text is complete (Canva AI has dropped title lines before). If a line is missing, fix it in Canva before exporting.
+6. Export as PNG, convert to 1600 x 2560 RGB JPEG as `cover-ebook.jpg`, then run `python3 scripts/check_cover.py "ebooks-Final/<folder>/cover-ebook.jpg" --book "ebooks-Final/<folder>"`. It must pass.
+7. View the finished cover yourself. Confirm the author name, badge, series line, and tagline, which OCR may not read. Record the result in review-notes.md.
+8. Add the book to the **Cover register**, with its Canva link and hex palette from the brief.
 
 ## Template prompt
 
@@ -24,13 +27,14 @@ Use these prompts with the Canva `create-design` tool. Each book needs its own p
 - **US market.** Use US grade levels (for example, "Grades 2–4") and US English spelling.
 - **Age badge.** Show the age or grade range on the cover, as parents look for it.
 - **Different from other covers.** Each cover must differ from the register in category, palette, character, and scene.
-- **Verify before use.** Read the design back, check the title and badge text, and confirm the design is the one you approved.
+- **Match the book.** The cover must show the brief's title lines, colours, and genre. Title text and palette are checked by script; the author, badge, series line, and tagline are confirmed by viewing.
+- **Verify before use.** Read the design back, run the cover checks, and confirm the design is the one you approved.
 
 ## Cover register (never reuse these)
 
 | Book | Category | Palette | Main character | Scene | Canva link |
 |---|---|---|---|---|---|
-| The Bakery on Cutter Street (Cutter Street Novel, Book 1) | Adult small-town romance, contemporary, sweet | Plum, rose, cream, gold | Woman holding a loaf of bread, a man holding a wrench, and a dog | Snowy bakery storefront on Cutter Street | https://canva.link/k2uuo12fdna991p |
+| The Bakery on Cutter Street (Cutter Street Novel, Book 1) | Adult small-town romance, contemporary, sweet | Plum, rose, cream, gold (#6B2D5C, #C8707A, #F5EBDD, #D4A548) | Woman holding a loaf of bread, a man holding a wrench, and a dog | Snowy bakery storefront on Cutter Street | https://canva.link/k2uuo12fdna991p |
 
 ## Ready-to-use prompts for other categories
 
@@ -70,4 +74,5 @@ Each prompt below uses a different category, palette, character, and scene from 
 
 - If a prompt produces a cover that is too similar to one in the register, change the palette and scene before sending it.
 - Keep the title text exactly as written in the topic entry, including the line breaks.
-- For every book, save the final approved Canva link in the Cover register so no future cover repeats it.
+- For every book, save the final approved Canva link and hex palette in the Cover register so no future cover repeats them.
+- The Bakery cover was made before the brief rule existed. Its brief was written afterwards from the cover, and its subtitle differs from metadata.json. See its review-notes.md.
