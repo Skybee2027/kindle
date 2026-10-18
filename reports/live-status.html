@@ -160,7 +160,8 @@ td.time { white-space: nowrap; font-variant-numeric: tabular-nums; }
       var f = u.folder;
       var status, cls, detail = "", state;
       var d = draftLatest[f];
-      if (d && (String(d.status).indexOf("ready for owner upload") === 0 || String(d.status).indexOf("draft at review") === 0)) { status = "Ready for your upload"; cls = "ok"; detail = "Checked. Upload by hand in KDP, then click Publish."; state = "kdp"; }
+      if (d && String(d.status).indexOf("published") === 0) { status = "Published on KDP"; cls = "ok"; detail = "Published by the owner. No further action."; state = "published"; }
+      else if (d && (String(d.status).indexOf("ready for owner upload") === 0 || String(d.status).indexOf("draft at review") === 0)) { status = "Ready for your upload"; cls = "ok"; detail = "Checked. Upload by hand in KDP, then click Publish."; state = "kdp"; }
       else if (d) { status = "Check stopped"; cls = "warn"; detail = d.status; state = "Check stopped"; }
       else if (readySet[f]) { status = "Approved"; cls = "ok"; detail = "Ready for KDP."; state = "approved"; }
       else if ((blockedCount[f] || 0) >= 2) { status = "Needs you"; cls = "bad"; detail = "Blocked " + blockedCount[f] + " times. Fix or drop it."; state = "Needs you"; }
