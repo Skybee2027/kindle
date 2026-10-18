@@ -9,6 +9,7 @@ import datetime
 import json
 import os
 import sys
+from zoneinfo import ZoneInfo
 
 PATH = "reports/run-log.json"
 STATUSES = {"done", "approved", "idle", "stopped", "blocked", "failed", "skipped"}
@@ -26,7 +27,8 @@ def main():
     if os.path.exists(PATH):
         with open(PATH, encoding="utf-8") as f:
             entries = json.load(f)
-    now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-4)))
+    # New York local time, so the daylight-saving change is handled.
+    now = datetime.datetime.now(ZoneInfo("America/New_York"))
     entries.append({
         "at": now.strftime("%Y-%m-%d %H:%M"),
         "robot": robot,

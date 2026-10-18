@@ -21,8 +21,23 @@ PLACEHOLDER = re.compile(r"\[(insert|tbd|todo|placeholder|name|author)|lorem ips
 
 
 def words_in_range(text):
-    nums = [int(n.replace(",", "")) for n in re.findall(r"\d[\d,]*", text)]
-    return (min(nums), max(nums)) if len(nums) >= 2 else (nums[0], nums[0]) if nums else (None, None)
+    """Total word range for a topic. Reads the first 'X to Y words' pair only.
+    For per-story lengths ('2,000 to 4,000 words per story; 8 to 12 stories') the total is
+    words per story times stories, using the low and high ends."""
+    text = str(text or "")
+    nums = lambda s: [int(n.replace(",", "")) for n in re.findall(r"\d[\d,]*", s)]
+    first_part = text.split(";")[0]
+    w = nums(first_part)
+    if not w:
+        return (None, None)
+    lo, hi = (w[0], w[1]) if len(w) >= 2 else (w[0], w[0])
+    if "per story" in text.lower():
+        stories = re.search(r"(\d+)\s*(?:to|-)\s*(\d+)\s*stor", text.lower())
+        if stories:
+            s_lo, s_hi = int(stories.group(1)), int(stories.group(2))
+            return (lo * s_lo, hi * s_hi)
+        return (None, None)
+    return (lo, hi)
 
 
 def topic_for(folder):
@@ -109,7 +124,7 @@ def main():
         import subprocess as sp
         rd = json.loads(sp.run([sys.executable, os.path.join(HERE, "readability.py"), os.path.join(folder, "manuscript.md")],
                                capture_output=True, text=True).stdout or "{}")
-        grade = rd.get("grade")
+        grade = rd.get("grade")  # readability.py prints JSON; an empty run leaves grade None
         lo, hi = (2, 4) if age.startswith("6") else (1, 3)
         add(f"readability for ages {age} (grade {lo} to {hi})", grade is not None and lo <= grade <= hi,
             f"grade {grade}")
@@ -177,7 +192,7 @@ def main():
     else:
         cov = subprocess.run([sys.executable, os.path.join(HERE, "check_cover.py"), os.path.join(folder, "cover-ebook.jpg"),
                               "--book", folder], capture_output=True, text=True)
-        cov_json = json.loads(cov.stdout)
+        cov_json = json.loads(cov.stdout) if cov.stdout.strip() else {"checks": [{"check": "cover checker", "pass": False, "detail": (cov.stderr or "no output").strip()[:300]}]}
     for c in cov_json["checks"]:
         add("cover: " + c["check"], c["pass"], c["detail"])
 

@@ -88,9 +88,15 @@ def main():
             reasons.append("listed in used-topics.json")
         if any(s and slug(topic).startswith(s) for s in used_slugs):
             reasons.append("folder exists in ebooks-Final")
-        match = [v for k, v in cats.items() if slug(topic).startswith(k)]
+        # Exact slug first; prefix only when the sheet name was cut short.
+        if slug(topic) in cats:
+            match = [cats[slug(topic)]]
+        else:
+            match = [v for k, v in cats.items() if k.startswith(slug(topic)) or slug(topic).startswith(k)]
         if not match:
             reasons.append("no categories in topic log")
+        elif len(match) > 1 and len({m[1].__repr__() for m in match}) > 1:
+            reasons.append("ambiguous topic name; categories do not match")
         elif not match[0][0]:
             reasons.append("categories not all confirmed by owner in category-pool.json")
         if reasons:

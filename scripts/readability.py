@@ -28,7 +28,7 @@ def main():
     text = open(sys.argv[1], encoding="utf-8").read()
     text = re.sub(r"^#+\s.*$", " ", text, flags=re.M)  # drop headings
     text = re.sub(r"[*_`>\[\]()]", " ", text)
-    sentences = [s for s in re.split(r"[.!?]+\s", text) if re.search(r"[A-Za-z]", s)]
+    sentences = [s for s in re.split(r"[.!?]+(?:\s|$)", text) if re.search(r"[A-Za-z]", s)]
     words = re.findall(r"[A-Za-z][A-Za-z'’-]*", text)
     if not words or not sentences:
         print(json.dumps({"error": "no text found"}))

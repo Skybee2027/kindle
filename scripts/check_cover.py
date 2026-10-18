@@ -63,6 +63,8 @@ def ocr_words(path):
         out = subprocess.run(["tesseract", path, "stdout", "tsv"], capture_output=True, text=True, timeout=120)
     except FileNotFoundError:
         return None
+    except subprocess.TimeoutExpired:
+        return []  # OCR too slow: treat as nothing read, so the text checks fail visibly
     rows = csv.DictReader(io.StringIO(out.stdout), delimiter="\t", quoting=csv.QUOTE_NONE)
     words = []
     for r in rows:
@@ -144,8 +146,12 @@ def main():
                 brief = json.load(f)
             with open(meta_path, encoding="utf-8") as f:
                 meta = json.load(f)
-            share = palette_share(img, brief.get("palette", []))
-            add("palette matches brief", share >= PALETTE_MIN, f"{share:.0%} of pixels near brief colours (needs {PALETTE_MIN:.0%})")
+            palette = brief.get("palette") or []
+            if not palette or not all(re.match(r"^#[0-9A-Fa-f]{6}$", str(c)) for c in palette):
+                add("palette matches brief", False, "brief has no valid #RRGGBB palette")
+            else:
+                share = palette_share(img, palette)
+                add("palette matches brief", share >= PALETTE_MIN, f"{share:.0%} of pixels near brief colours (needs {PALETTE_MIN:.0%})")
 
             ocr = ocr_words(cover)
             if ocr is None:

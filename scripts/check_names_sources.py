@@ -29,11 +29,10 @@ ORDINARY = {
     "Many", "Most", "Each", "Every", "Other", "Another", "One", "Two", "Three", "Just", "But", "And",
     "You", "They", "She", "He", "It", "We", "I", "My", "Our", "Their", "His", "Her", "Its", "Yes", "No",
     "Also", "Still", "Only", "Even", "Once", "Often", "Never", "Always", "Tea", "Pay", "Work", "Plan",
-    "Shape", "Rhythm", "Trial", "Trials", "Friction", "Circle", "Ruth", "Harriet", "Malcolm", "Priya",
-    "Tomasz", "Ann", "Gregory", "Eleanor", "Desmond", "Maya", "Samir", "Gerald", "Laura", "Anita",
-    "Jane", "Sheila", "Pauline", "Eric", "Cutter", "Street", "Bakery", "Second", "Act", "Book",
-    "Dad", "Mom", "Mrs", "Mr", "Ms", "Gran", "God", "Dear", "Grandma", "Grandpa", "Mum", "Dad",
+    "Shape", "Rhythm", "Trial", "Trials", "Friction", "Circle", "Cutter", "Street", "Bakery", "Second",
+    "Act", "Book", "Dad", "Mom", "Mrs", "Mr", "Ms", "Gran", "God", "Dear", "Grandma", "Grandpa", "Mum",
 }
+# Character names are NOT listed here. A name used twice must be checked for look-alikes.
 RESEARCH = re.compile(r"\b(researchers?|studies|study|scientists?|research (shows|suggests|has|found)|"
                       r"according to|percent|per cent)\b|%", re.I)
 
