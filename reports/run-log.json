@@ -47,5 +47,12 @@
     "status": "idle",
     "book": "",
     "detail": "No unused topic remained."
+  },
+  {
+    "at": "2026-10-18 13:42",
+    "robot": "Kindle-2",
+    "status": "done",
+    "book": "the-second-act-workbook-a-30-day-guided-reflection-journal-for-starting-over-after-work",
+    "detail": "The Second Act Workbook, 13122 words, cover pending"
   }
 ]
