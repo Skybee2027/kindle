@@ -77,5 +77,134 @@
       ],
       "categories_verified": true
     }
+  },
+  {
+    "date": "2026-10-18",
+    "source": "Kindle-1 research run, 2026-10-18 (third Kindle-1 run of 18 October 2026, the owner-approved extra run). Sources: KDPEasy Cozy Mysteries 2026 (fetched 2026-10-18); inkfluenceai.com best ebook niches (fetched 2026-10-18, vendor data); authorsgame.com KDP royalty article (July 4, 2026) and KENP note (May 2026); builtwritten.com KDP AI disclosure article (June 23, 2026); category-pool.json. Academic study-method sources are named for drafting and must be verified in the book's metadata.",
+    "trends": [
+      "KDPEasy (updated Apr 21, 2026): cozy mysteries rated High demand and High competition; typical ebook price $3.99 to $5.99; warm palettes and animal companions said to convert well. The figures are the publisher's own, not sourced.",
+      "inkfluenceai.com (vendor data, 61,879 non-fiction books): Education and study skills is the largest non-fiction share at 12.8%, momentum 1.33; guides and workbooks sell at $4.99 to $9.99.",
+      "authorsgame.com (July 4, 2026): 70% royalty applies to US list prices of $2.99 to $9.99, with delivery fee 0.70 x (list price minus VAT and delivery). KENP was about $0.004888 per page in May 2026.",
+      "KDP AI disclosure (builtwritten.com, June 23, 2026): AI-generated text must be disclosed even after substantial edits. Both books below are drafted by AI and must carry the disclosure."
+    ],
+    "selected_topics": [
+      {
+        "topic_name": "Shorthand for Murder: A Lantern Bay Cozy Mystery, Book 1",
+        "categories": [
+          "Kindle Store > Kindle eBooks > Mystery, Thriller & Suspense > Women Sleuths",
+          "Kindle Store > Kindle eBooks > Mystery, Thriller & Suspense > Cozy Mystery"
+        ],
+        "score": 19,
+        "score_reason": "Demand 4: cozy mysteries are a large series-buying audience with heavy category traffic (KDPEasy, 2026; publisher's own figures). Revenue 4: $3.99 sits in the 70% band. Competition 2: the cozy shelf is crowded with established series. Feasibility 4: 55,000 to 60,000 words is achievable and needs no outside facts beyond stenography terms. Fit 5: a recurring town cast and a cat companion support a long series.",
+        "description": "Margaret \"Greta\" Lowe spent thirty years as a court reporter, typing every word spoken in a courtroom on a stenotype machine. Now retired, she transcribes depositions from her lake-house kitchen in Lantern Bay, Michigan. At a stormy July meeting of the town council, Dale Whitcomb argues hard against the harbor lease, then dies the next morning in the harbor office. Deputy Sam Ortiz calls it natural causes. Greta's machine recorded every word, and the official minutes contain a sentence that was never spoken aloud. With eleven days before the council votes on the lease, Greta checks each transcript against the memories of the people in the room. Her allies are bookshop owner Priya Nand, retired fisherman Walt Brandt, and a gray cat named Judge who sleeps on her steno notes. The mystery turns on who rewrote the minutes and why. The book has no on-page violence, no explicit content and no profanity. It ends with the truth read aloud at a reconvened hearing and a hook for the next Lantern Bay case.",
+        "target_reader": "Adult readers of cozy mysteries, mostly women 40 to 70, who read on Kindle Unlimited and want a clean, clever puzzle, a small-town cast and a series to follow.",
+        "format": "text-only",
+        "price_usd": 3.99,
+        "royalty_tier": "70% (US list price between $2.99 and $9.99). About $2.75 per sale after the delivery fee (estimate).",
+        "page_count": "about 230 to 260 pages (estimate)",
+        "word_count": "55,000 to 60,000 words",
+        "chapter_outline": [
+          "Last Call for Minutes: Greta transcribes the council meeting and notices her tape and the official minutes do not match.",
+          "Lantern Bay in July: Greta's routine, the cat Judge, and the town's split over the harbor lease.",
+          "The Harbor Office: Dale Whitcomb is found dead, and Deputy Sam Ortiz rules it natural.",
+          "Paper Tape: Greta rereads her tape and finds a sentence the council never said aloud.",
+          "Who Edited the Minutes: the town clerk, a developer's assistant and a rival transcriptionist each have a reason to change the record.",
+          "The Bookshop Alibi: Greta and Priya Nand cross-check who was in the room and when they left.",
+          "The Fisherman's Story: Walt Brandt remembers a boat light and a second car parked behind the lease office.",
+          "A Note in the Mailbox: a warning arrives, and Greta realizes someone has been watching her house.",
+          "The Record Corrected: Greta reads the tape aloud at a reconvened hearing, and the room goes silent.",
+          "Lantern Bay Lights: the killer is exposed, the lease is decided, and Greta takes on the next case."
+        ],
+        "tone_and_style": "Warm, witty and clean. Third person, past tense, close to Greta. No profanity, no explicit content and no on-page violence. Each chapter plants one fair clue for the reader to test, ends on a question, and balances cozy detail (food, weather, the cat) with a steady mystery pace. Use US English throughout.",
+        "title_options": [
+          "Shorthand for Murder: A Lantern Bay Cozy Mystery",
+          "Off the Record: A Court Reporter Cozy Mystery",
+          "Last Word in Lantern Bay: A Cozy Mystery"
+        ],
+        "kdp_keywords": [
+          "cozy mystery women sleuths",
+          "court reporter mystery series",
+          "small town cozy mystery",
+          "clean cozy mystery kindle unlimited",
+          "amateur sleuth lake town mystery",
+          "cozy mystery with a cat",
+          "lantern bay mystery series book 1"
+        ],
+        "risks": [
+          "The cozy shelf is crowded with established series. Differentiate with the stenography angle and a strong cover.",
+          "AI-drafted mysteries can have weak clue logic. A human reviewer must check the timeline, the clues and the suspects before upload.",
+          "Stenography terms (steno machine, paper tape, transcript) must be accurate. Check them against a named source while drafting.",
+          "The title may collide with existing books. Check the KDP search before upload.",
+          "The book is AI-written text and must be disclosed to KDP as AI-generated content.",
+          "The two category paths are confirmed in the pool. Check the exact nodes in the KDP picker."
+        ],
+        "sales_estimate": [
+          "ESTIMATE. No sales data was verified. These are planning assumptions, not sourced figures.",
+          "Price $3.99. The 70% royalty is about $2.75 per sale (0.70 x ($3.99 minus about $0.06 delivery)).",
+          "KENP is about $0.0049 per page read (May 2026, authorsgame.com).",
+          "Conservative: 8 sales and 1,200 KENP pages a month, about $28 a month. Mid: 20 sales and 5,000 pages, about $80. Optimistic (3 or more books in the series): 50 sales and 12,000 pages, about $196.",
+          "Formula: sales x $2.75 + KENP pages x $0.0049."
+        ],
+        "cover_idea": "Illustrated cozy look in warm dusk tones: a gray cat on a lakeside windowsill, and a woman in a cardigan at a stenotype machine with a long strip of paper tape running down a dock toward a lit harbor office. Palette: marigold, teal, cream and deep plum. No real logos or trademarks."
+      },
+      {
+        "topic_name": "Study Smarter, Not Longer: A Workbook for Adults Returning to School",
+        "categories": [
+          "Kindle Store > Kindle eBooks > Education & Teaching",
+          "Kindle Store > Kindle eBooks > Self-Help > Personal Transformation"
+        ],
+        "score": 18,
+        "score_reason": "Demand 4: Education and study skills is the largest non-fiction share at 12.8% with momentum 1.33 (inkfluenceai.com, vendor data). Revenue 4: workbooks sell at $4.99 to $9.99 in this niche, and $4.99 keeps the 70% tier. Competition 3: study-skills guides are common, but a returning-adult angle is narrower. Feasibility 4: the core study methods have named academic sources, so claims can be checked. Fit 3: a subject-series extension is possible but less natural than a fiction series. Tied with a self-help workbook on total; chosen for the higher feasibility score, because its claims can be sourced.",
+        "description": "Going back to school as an adult means balancing work and family with a brain that has not studied in years. This 30-day workbook teaches the study methods with the strongest research support: retrieval practice, spaced practice, interleaving and planning. Each chapter explains one method in plain language, shows a worked example from a returning student's week, and ends with prompts the reader answers in their own words. Readers finish with a personal weekly study plan, a note-taking system, a test-review routine and a 30-day habit tracker they can reuse for any course. This is general study guidance. It does not replace an academic advisor, a disability services office or an instructor.",
+        "target_reader": "Adults aged 25 to 60 returning to community college, certificate programs, online courses or professional exams. They are busy, a little anxious about feeling behind, and want practical steps rather than theory.",
+        "format": "workbook",
+        "price_usd": 4.99,
+        "royalty_tier": "70% (US list price between $2.99 and $9.99). About $3.45 per sale after the delivery fee (estimate).",
+        "page_count": "about 150 to 175 pages including answer blocks (estimate)",
+        "word_count": "16,000 to 19,000 words",
+        "chapter_outline": [
+          "Why Going Back Feels Hard: the returning-student mindset and a short baseline self-check.",
+          "Your Week, Mapped: building a realistic weekly calendar with protected study blocks.",
+          "Retrieval Practice: why closed-book recall beats rereading, with a worked example (Roediger and Karpicke, 2006).",
+          "Spacing Things Out: scheduling review sessions across days and weeks (Cepeda et al., 2006).",
+          "Mixing It Up: interleaving practice problems and when it helps.",
+          "Reading With Purpose: a three-pass method for textbooks and articles.",
+          "Notes That Work: a two-column note method and a question-based template.",
+          "Test Review Without Panic: building a review routine from past exams and practice questions.",
+          "Keep Going: habit tracking, asking for help, and a 30-day plan to reuse for the next course."
+        ],
+        "tone_and_style": "Encouraging, plain-spoken and practical. Second person, present tense, one method per chapter, a worked example, then prompts. Every research claim is tied to a named source in metadata.json (Dunlosky et al., 2013; Roediger and Karpicke, 2006; Cepeda et al., 2006). Include the general-information disclaimer. No clinical, medical or legal advice and no promises about grades. Avoid learning-styles claims. Use US English throughout.",
+        "title_options": [
+          "Study Smarter, Not Longer: A Workbook for Adults Returning to School",
+          "The Returning Student's Workbook: 30 Days of Study Skills That Work",
+          "Back to the Books: A Study Skills Workbook for Adult Learners"
+        ],
+        "kdp_keywords": [
+          "study skills workbook adults",
+          "returning to school adult learner",
+          "study techniques for college",
+          "adult learner study guide",
+          "spaced repetition practice workbook",
+          "study habits planner for students",
+          "online course study workbook"
+        ],
+        "risks": [
+          "Study-method research is well covered. Do not overstate effect sizes; state how strong the evidence is.",
+          "The book must avoid learning-styles claims, which the evidence does not support.",
+          "The study-skills shelf is crowded. Differentiate with the returning-adult angle and the workbook prompts.",
+          "No academic, medical or learning-disability advice. Include the general-information disclaimer.",
+          "Named journal sources must be checked before publishing. Verify each one during drafting.",
+          "The book is AI-written text and must be disclosed to KDP as AI-generated content."
+        ],
+        "sales_estimate": [
+          "ESTIMATE. No sales data was verified. These are planning assumptions, not sourced figures.",
+          "Price $4.99. The 70% royalty is about $3.45 per sale (0.70 x ($4.99 minus about $0.06 delivery)).",
+          "KENP is about $0.0049 per page read (May 2026). Workbooks are often bought outright rather than read in Kindle Unlimited, so KENP is a minor part of the estimate.",
+          "Conservative: 6 sales a month, about $21. Mid: 15 sales and 2,000 KENP pages, about $62. Optimistic (a series of 3 or more): 40 sales and 6,000 pages, about $167.",
+          "Formula: sales x $3.45 + KENP pages x $0.0049."
+        ],
+        "cover_idea": "Clean, bright educational look: an open notebook, a pencil and a simple weekly study calendar on a sunlit desk beside a coffee mug. Palette: sky blue, warm yellow and white with a navy title band. The focal element is one open notebook with a checklist."
+      }
+    ]
   }
 ]
