@@ -84,6 +84,10 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 .day-row td { background: var(--soft); font-weight: 600; font-size: 13px; }
 .pager { display: flex; gap: 8px; align-items: center; justify-content: center; margin-top: 10px; color: var(--muted); font-size: 13px; }
 .empty { color: var(--muted); padding: 18px; text-align: center; }
+.asks { display: grid; gap: 8px; }
+.ask { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+.btns { display: flex; flex-wrap: wrap; gap: 8px; }
+.btns button:first-child { background: var(--accent); color: var(--panel); border-color: var(--accent); }
 .note { color: var(--muted); font-size: 12px; margin-top: 8px; }
 </style>
 </head>
@@ -127,6 +131,10 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
       <ul class="alerts" id="alerts"></ul>
     </div>
   </div>
+
+  <h2>Published on KDP?</h2>
+  <div id="kdpAsk" class="asks"></div>
+  <p class="note">Answer “Yes” only after the book is live on Amazon KDP. This updates the pipeline and the Sent to Amazon count.</p>
 
   <h2>Books</h2>
   <div class="toolbar">
@@ -235,6 +243,7 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
     renderRobots();
     renderBars();
     renderAlerts();
+    renderKdpAsk();
     renderBooks();
     renderRuns();
     renderSchedule();
@@ -338,6 +347,30 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
     $("bNext").disabled = bookPage >= pages - 1;
   }
 
+  function renderKdpAsk() {
+    var pending = books.filter(function (b) { return b.status === "approved" || b.status === "kdp_draft"; });
+    if (!pending.length) {
+      $("kdpAsk").innerHTML = '<div class="card empty">No book is waiting for a KDP answer.</div>';
+      return;
+    }
+    $("kdpAsk").innerHTML = pending.map(function (b) {
+      return '<div class="card ask"><div><strong>' + esc(b.title) + '</strong><div class="sub">Approved ' + esc(nyTime(b.updated)) + '. Is it live on KDP?</div></div>'
+        + '<div class="btns"><button data-yes="' + esc(b.id) + '">Yes, live on KDP</button><button data-no="' + esc(b.id) + '">Not yet</button></div></div>';
+    }).join("");
+  }
+
+  function markPublished(id, btn) {
+    if (!db) { btn.textContent = "Live data unavailable"; return; }
+    btn.disabled = true;
+    btn.textContent = "Saving...";
+    db.collection("books").doc(id).update({ status: "published", publishedOn: todayNY() }).then(function () {
+      btn.textContent = "Saved";
+    }, function () {
+      btn.disabled = false;
+      btn.textContent = "Could not save. Try again";
+    });
+  }
+
   function renderRuns() {
     var robot = $("runRobot").value;
     var result = $("runResult").value;
@@ -419,6 +452,10 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
   $("runRobot").addEventListener("change", function () { runLimit = RUN_STEP; renderRuns(); });
   $("runResult").addEventListener("change", function () { runLimit = RUN_STEP; renderRuns(); });
   $("moreRuns").addEventListener("click", function () { runLimit += RUN_STEP; renderRuns(); });
+  $("kdpAsk").addEventListener("click", function (e) {
+    var yes = e.target.getAttribute && e.target.getAttribute("data-yes");
+    if (yes) markPublished(yes, e.target);
+  });
 
   setLive(false, "Connecting...");
   render();
