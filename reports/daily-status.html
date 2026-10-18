@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kindle Robots Daily Status</title>
+<style>
+:root {
+  /* Layout: one column of status cards, a run table, and a next-runs timeline. */
+  --bg: #f6f5f1; --panel: #ffffff; --fg: #1d1f1b; --muted: #6b6f66;
+  --line: #e2e0d8; --ok: #2f7d4f; --warn: #b26a00; --bad: #b3261e; --accent: #2e5aa8;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15171a; --panel: #1f2226; --fg: #eceee9; --muted: #9ba09a;
+    --line: #2e3238; --ok: #6cc38e; --warn: #e6a64a; --bad: #f07a70; --accent: #8fb0ea;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #15171a; --panel: #1f2226; --fg: #eceee9; --muted: #9ba09a;
+  --line: #2e3238; --ok: #6cc38e; --warn: #e6a64a; --bad: #f07a70; --accent: #8fb0ea;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg);
+  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 24px 48px;
+}
+main { max-width: 960px; margin: 0 auto; }
+h1 { font-size: 26px; margin: 0 0 4px; text-wrap: balance; }
+h2 { font-size: 18px; margin: 32px 0 12px; }
+.sub { color: var(--muted); margin: 0 0 20px; }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; min-width: 0; }
+.card .label { color: var(--muted); font-size: 13px; }
+.card .value { font-size: 22px; font-weight: 600; font-variant-numeric: tabular-nums; margin-top: 2px; }
+.badge { display: inline-block; font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 999px; border: 1px solid currentColor; white-space: nowrap; }
+.ok { color: var(--ok); } .warn { color: var(--warn); } .bad { color: var(--bad); } .muted { color: var(--muted); }
+.wrap { overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; }
+table { width: 100%; border-collapse: collapse; min-width: 560px; }
+th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); font-weight: 600; }
+tr:last-child td { border-bottom: 0; }
+td.time { white-space: nowrap; font-variant-numeric: tabular-nums; }
+.day { font-weight: 600; background: var(--bg); }
+.alerts { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+.alerts li { background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--warn); border-radius: 8px; padding: 12px 14px; }
+.alerts li.bad { border-left-color: var(--bad); }
+.alerts strong { display: block; margin-bottom: 2px; }
+.note { color: var(--muted); font-size: 13px; margin-top: 10px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Kindle Robots: Daily Status</h1>
+  <p class="sub">Updated 18 Oct 2026, 10:40 AM New York time. Times are New York local.</p>
+
+  <section class="cards" aria-label="Summary">
+    <div class="card"><div class="label">Books approved today</div><div class="value">1</div><div class="muted">The Bakery on Cutter Street</div></div>
+    <div class="card"><div class="label">Robots healthy</div><div class="value">3 of 4</div><div class="muted">Kindle-4 needs a check</div></div>
+    <div class="card"><div class="label">Topics left to write</div><div class="value">0</div><div class="muted">New topics come from Kindle-1 daily</div></div>
+    <div class="card"><div class="label">Uploaded to Amazon</div><div class="value">0</div><div class="muted">Nothing is published without your go-ahead</div></div>
+  </section>
+
+  <h2>Needs your attention</h2>
+  <ul class="alerts">
+    <li class="bad"><strong>Kindle-4 has not recorded a KDP draft</strong>The 2:56 AM run finished, but no draft entry was saved. It may not have access to KDP. Check the login, then tell me to re-run it.</li>
+    <li><strong>Juniper cover is still in Canva</strong>The deleted Juniper cover design (canva.link/3rxjj5js7wb2cnh) has to be removed in Canva by you. I have no delete access there.</li>
+    <li><strong>Kindle-2 has no new topic to write</strong>The 9:07 AM run created nothing, because every topic is used. Kindle-1 adds new topics each morning, so this clears when a new topic is added.</li>
+  </ul>
+
+  <h2>What happened, by date</h2>
+  <div class="wrap">
+    <table>
+      <thead><tr><th>Time</th><th>Robot</th><th>What it did</th><th>Status</th></tr></thead>
+      <tbody>
+        <tr class="day"><td colspan="4">Sun 18 Oct 2026</td></tr>
+        <tr><td class="time">2:17 AM</td><td>Kindle-2 (writer)</td><td>Expanded the Bakery manuscript to 39 chapters and rebuilt the EPUB.</td><td><span class="badge ok">Done</span></td></tr>
+        <tr><td class="time">2:36 AM</td><td>Kindle-3 (reviewer)</td><td>Checked the Bakery book and approved it into Ready to publish.</td><td><span class="badge ok">Approved</span></td></tr>
+        <tr><td class="time">2:56 AM</td><td>Kindle-4 (publisher)</td><td>Ran the KDP step. No draft was recorded.</td><td><span class="badge bad">Check</span></td></tr>
+        <tr><td class="time">7:53 AM</td><td>Kindle-1 (research)</td><td>Picked two new topics and added them to the log and topics document.</td><td><span class="badge ok">Done</span></td></tr>
+        <tr><td class="time">9:08 AM</td><td>Kindle-2 (writer)</td><td>Looked for an unused topic. None was left, so nothing was created.</td><td><span class="badge warn">Idle</span></td></tr>
+        <tr><td class="time">10:27 to 10:33 AM</td><td>Manual changes</td><td>Marked the Bakery as used, added the topic picker, removed the Juniper book, and rewrote the repo history.</td><td><span class="badge ok">Done</span></td></tr>
+        <tr class="day"><td colspan="4">Sat 17 Oct 2026</td></tr>
+        <tr><td class="time">10:18 PM</td><td>Kindle-1 (research)</td><td>Picked a first topic and added it to the log.</td><td><span class="badge ok">Done</span></td></tr>
+        <tr><td class="time">11:13 PM</td><td>Kindle-2 (writer)</td><td>Built the Juniper Lane book package. It was later deleted.</td><td><span class="badge muted">Removed</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="note">The 9:08 AM Kindle-2 status is inferred from the absence of a new commit. The run itself reported success.</p>
+
+  <h2>Next scheduled runs (tomorrow, 19 Oct)</h2>
+  <div class="wrap">
+    <table>
+      <thead><tr><th>Time</th><th>Robot</th><th>Job</th></tr></thead>
+      <tbody>
+        <tr><td class="time">7:52 AM</td><td>Kindle-1</td><td>Research two new topics</td></tr>
+        <tr><td class="time">9:07 AM</td><td>Kindle-2</td><td>Write one book from an unused topic</td></tr>
+        <tr><td class="time">10:00 AM</td><td>Kindle-3</td><td>Review the newest book and approve it</td></tr>
+        <tr><td class="time">10:30 AM</td><td>Kindle-4</td><td>Create a KDP draft for the next approved book. Stops before Publish.</td></tr>
+      </tbody>
+    </table>
+  </div>
+</main>
+</body>
+</html>
