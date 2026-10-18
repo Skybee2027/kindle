@@ -1,4 +1,4 @@
-# Book creating guide (for robo 3.5)
+# Cover creation guide (for robo 3.5)
 
 Purpose: make one ebook cover for each book folder in ebooks-Final, prove it meets the cover rules, map it to the EPUB, and hand it to Kindle-4. This guide never publishes, uploads, commits, or pushes. The owner approves each cover before it is committed.
 
