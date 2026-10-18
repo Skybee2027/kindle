@@ -23,7 +23,7 @@
   "chapters": 39,
   "trim": "6 x 9 in (EPUB is reflowable; trim applies only to print)",
   "fonts": "EB Garamond (SIL Open Font License; license in fonts/OFL-LICENSE.txt)",
-  "cover": "PENDING - one approved cover; export full-resolution JPG (min 1600 x 2560 px) from Canva design DAHYVdFvmjE and save as cover-ebook.jpg in this folder",
+  "cover": "cover-ebook.jpg (1600 x 2560 RGB JPEG, approved Canva design DAHYVdFvmjE)",
   "files": {
     "epub": "the-bakery-on-cutter-street.epub",
     "docx": "the-bakery-on-cutter-street.docx",
