@@ -6,8 +6,14 @@ Reads <folder>/cover-brief.json and <folder>/metadata.json. Every check must pas
 Checks: all fields present and filled (no brackets or placeholders); title lines
 join to the metadata title; author matches; palette is 3 or 4 hex colours; the
 brief is not a copy of another book's brief (same category and palette), so each
-cover stays different. Prints JSON. Exit 0 = pass, 1 = fail.
+cover stays different.
+Category style (ebooks-Raw/cover-styles.json, one profile per pool category):
+genre is an exact pool category; style_profile equals genre; enough palette
+colours fall in the profile's hue ranges (or are near-neutral); the badge follows
+the profile's rule (none / optional / required).
+Prints JSON. Exit 0 = pass, 1 = fail.
 """
+import colorsys
 import glob
 import json
 import os
@@ -15,8 +21,9 @@ import re
 import sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+STYLES = os.path.join(REPO, "ebooks-Raw", "cover-styles.json")
 REQUIRED = ["title_lines", "subtitle", "author", "series_line", "tagline", "badge",
-            "genre", "age_or_reader", "style", "palette", "focal_scene", "character",
+            "genre", "style_profile", "age_or_reader", "style", "palette", "focal_scene", "character",
             "supporting_details", "canva_link_or_none"]
 HEX = re.compile(r"^#[0-9A-Fa-f]{6}$")
 PLACEHOLDER = re.compile(r"\[|\]|TODO|TBD|placeholder|lorem", re.I)
@@ -71,6 +78,38 @@ def main():
     palette = brief.get("palette", [])
     add("palette has 3 or 4 hex colours", isinstance(palette, list) and 3 <= len(palette) <= 4 and all(HEX.match(c) for c in palette),
         ", ".join(palette) if isinstance(palette, list) else "not a list")
+
+    # Category style: the book's genre must be an approved pool category with a style profile.
+    styles = load(STYLES)["styles"] if os.path.exists(STYLES) else {}
+    genre = brief.get("genre", "")
+    profile = styles.get(genre)
+    add("genre is an approved category", profile is not None,
+        genre if profile else f"'{genre}' has no entry in cover-styles.json")
+    add("style_profile matches genre", brief.get("style_profile") == genre,
+        f"style_profile: {brief.get('style_profile')} | genre: {genre}")
+    if profile and isinstance(palette, list) and all(HEX.match(c) for c in palette):
+        need = load(STYLES).get("required_palette_colours_on_style", 2)
+        neutral_max = load(STYLES).get("neutral_saturation_max", 0.15)
+        on_style, detail = 0, []
+        for c in palette:
+            r, g, b = (int(c[i:i + 2], 16) / 255 for i in (1, 3, 5))
+            h, s, _ = colorsys.rgb_to_hsv(r, g, b)
+            hue = h * 360
+            fits = s <= neutral_max or any(lo <= hue <= hi for lo, hi in profile["hues"])
+            on_style += fits
+            detail.append(f"{c} {'ok' if fits else 'off-style'} (hue {hue:.0f}, sat {s:.2f})")
+        add("palette fits category style", on_style >= need,
+            f"{on_style} of {len(palette)} colours on-style, need {need}: " + "; ".join(detail))
+        badge = str(brief.get("badge", "")).strip().lower()
+        is_none = badge.startswith("none")
+        rule = profile["badge"]
+        if rule == "none":
+            ok_badge, want = is_none, "no badge (write 'none')"
+        elif rule == "required":
+            ok_badge, want = not is_none, "a badge text (category requires one)"
+        else:
+            ok_badge, want = True, "optional"
+        add("badge follows category rule", ok_badge, f"rule '{rule}': {want}; brief says '{brief.get('badge')}'")
 
     # Each book needs its own look: same category and same palette as another book is refused.
     mine = (norm(brief.get("genre", "")), sorted(c.upper() for c in palette if isinstance(c, str)))

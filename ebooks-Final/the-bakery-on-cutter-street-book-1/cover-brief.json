@@ -8,7 +8,7 @@
   "series_line": "CUTTER STREET NOVEL · BOOK 1",
   "tagline": "Flour, Frost and a Second Chance",
   "badge": "none (adult book, no age badge)",
-  "genre": "Adult small-town romance, contemporary, sweet",
+  "genre": "Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town",
   "age_or_reader": "adult readers",
   "style": "warm, cozy, romantic, high-contrast",
   "palette": [
@@ -25,5 +25,6 @@
     "bread"
   ],
   "canva_link_or_none": "https://canva.link/k2uuo12fdna991p",
-  "note": "Written after the cover was made, from the register entry in cover-prompts.md and the intended palette. Not written before design. The cover prints 'Flour, Frost and a Second Chance' under the title, but metadata.json subtitle is 'A Cutter Street Novel, Book 1'. The owner must decide which subtitle KDP uses."
+  "note": "Written after the cover was made, from the register entry in cover-prompts.md and the intended palette. Not written before design. The cover prints 'Flour, Frost and a Second Chance' under the title, but metadata.json subtitle is 'A Cutter Street Novel, Book 1'. The owner must decide which subtitle KDP uses.",
+  "style_profile": "Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town"
 }

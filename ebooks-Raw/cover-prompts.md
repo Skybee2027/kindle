@@ -4,14 +4,15 @@ Use these prompts with the Canva `create-design` tool. Each book needs its own p
 
 ## How to use
 
-1. Write the book's cover brief first: `ebook-folder/cover-brief.json`. Fill every field from metadata.json: the title lines exactly as on the cover, the subtitle, author, series line, tagline, badge (or "none" for adult books), genre, reader age, style, three or four palette colours as hex codes, the focal scene, the character, and supporting details. Check it with `python3 scripts/check_cover_brief.py "ebooks-Final/<folder>"` before any design.
-2. Copy the template below and fill it in from the brief. Use the brief's exact title lines and palette names.
-3. Check the **Cover register** below. The new book must differ from every cover listed in category, palette, character, and scene.
-4. Send the prompt with the format `Portrait book cover 1600 x 2560`.
-5. Wait for the job to finish, then read the design back. Confirm the title text is complete (Canva AI has dropped title lines before). If a line is missing, fix it in Canva before exporting.
-6. Export as PNG, convert to 1600 x 2560 RGB JPEG as `cover-ebook.jpg`, then run `python3 scripts/check_cover.py "ebooks-Final/<folder>/cover-ebook.jpg" --book "ebooks-Final/<folder>"`. It must pass.
-7. View the finished cover yourself. Confirm the author name, badge, series line, and tagline, which OCR may not read. Record the result in review-notes.md.
-8. Add the book to the **Cover register**, with its Canva link and hex palette from the brief.
+1. Look up the book's first category in `ebooks-Raw/cover-styles.json`. Use its reader, look, title style, palette hue ranges, badge rule, imagery, and avoid list for the brief and the design.
+2. Write the book's cover brief next: `ebook-folder/cover-brief.json`. Set `genre` and `style_profile` to that exact pool path. Fill every field from metadata.json: the title lines exactly as on the cover, the subtitle, author, series line, tagline, badge (or "none" for adult books), genre, reader age, style, three or four palette colours as hex codes, the focal scene, the character, and supporting details. Check it with `python3 scripts/check_cover_brief.py "ebooks-Final/<folder>"` before any design.
+3. Copy the template below and fill it in from the brief. Use the brief's exact title lines and palette names.
+4. Check the **Cover register** below. The new book must differ from every cover listed in category, palette, character, and scene.
+5. Send the prompt with the format `Portrait book cover 1600 x 2560`.
+6. Wait for the job to finish, then read the design back. Confirm the title text is complete (Canva AI has dropped title lines before). If a line is missing, fix it in Canva before exporting.
+7. Export as PNG, convert to 1600 x 2560 RGB JPEG as `cover-ebook.jpg`, then run `python3 scripts/check_cover.py "ebooks-Final/<folder>/cover-ebook.jpg" --book "ebooks-Final/<folder>"`. It must pass.
+8. View the finished cover yourself. Confirm the author name, badge, series line, and tagline, which OCR may not read. Record the result in review-notes.md.
+9. Add the book to the **Cover register**, with its Canva link and hex palette from the brief.
 
 ## Template prompt
 
@@ -27,6 +28,7 @@ Use these prompts with the Canva `create-design` tool. Each book needs its own p
 - **US market.** Use US grade levels (for example, "Grades 2–4") and US English spelling.
 - **Age badge.** Show the age or grade range on the cover, as parents look for it.
 - **Different from other covers.** Each cover must differ from the register in category, palette, character, and scene.
+- **Match the category.** The cover follows the category's profile in `cover-styles.json`: its look, title style, and imagery, and it avoids what the profile's avoid list names. Check the palette against the profile's hue ranges.
 - **Match the book.** The cover must show the brief's title lines, colours, and genre. Title text and palette are checked by script; the author, badge, series line, and tagline are confirmed by viewing.
 - **Verify before use.** Read the design back, run the cover checks, and confirm the design is the one you approved.
 
@@ -71,6 +73,8 @@ Each prompt below uses a different category, palette, character, and scene from 
 > Format: Portrait book cover 1600 x 2560.
 
 ## Notes
+
+- `cover-styles.json` holds all 14 approved categories. A brief for a category that has no entry must be refused, and the category must be confirmed in `category-pool.json` first.
 
 - If a prompt produces a cover that is too similar to one in the register, change the palette and scene before sending it.
 - Keep the title text exactly as written in the topic entry, including the line breaks.

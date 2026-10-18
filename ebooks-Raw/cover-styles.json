@@ -1,0 +1,474 @@
+{
+  "purpose": "Cover style for each approved category, keyed by the exact pool path. Kindle-3 uses the entry for the book's first category. Checked by scripts/check_cover_brief.py. Hues are degrees on the colour wheel; a palette colour is on-style if its hue falls in one of the ranges or it is near-neutral (saturation at or below neutral_saturation_max).",
+  "neutral_saturation_max": 0.15,
+  "required_palette_colours_on_style": 2,
+  "styles": {
+    "Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town": {
+      "reader": "adult romance readers",
+      "look": "warm, cozy, romantic; a clear central couple or pair plus a town setting",
+      "title": "serif or script title, large, gold or cream outline",
+      "hues": [
+        [
+          0,
+          50
+        ],
+        [
+          320,
+          360
+        ]
+      ],
+      "badge": "none",
+      "tone": [
+        "warm",
+        "cozy",
+        "romantic",
+        "sweet",
+        "charming"
+      ],
+      "avoid": [
+        "sci-fi or fantasy elements",
+        "kids' cartoon style",
+        "harsh neon colours"
+      ],
+      "imagery": "a town street or shop front at golden hour, two adults close together, soft lights",
+      "short_name": "Romance > Contemporary > Small Town"
+    },
+    "Kindle Store > Kindle eBooks > Romance > Contemporary > Romantic Comedy": {
+      "reader": "adult romance readers who like humour",
+      "look": "bright, playful, witty; two characters in a funny or awkward moment",
+      "title": "bold rounded or script title, pink or coral with dark outline",
+      "hues": [
+        [
+          300,
+          360
+        ],
+        [
+          0,
+          40
+        ]
+      ],
+      "badge": "none",
+      "tone": [
+        "bright",
+        "playful",
+        "witty",
+        "fun",
+        "romantic"
+      ],
+      "avoid": [
+        "dark or moody palette",
+        "horror imagery",
+        "kids' style"
+      ],
+      "imagery": "two characters in a light, funny moment with a bold colour block behind them",
+      "short_name": "Romance > Contemporary > Romantic Comedy"
+    },
+    "Kindle Store > Kindle eBooks > Mystery, Thriller & Suspense > Women Sleuths": {
+      "reader": "adult mystery readers",
+      "look": "moody but elegant; one sleuth figure and a clue motif",
+      "title": "elegant serif title, cream or gold on deep colour",
+      "hues": [
+        [
+          160,
+          200
+        ],
+        [
+          250,
+          330
+        ],
+        [
+          30,
+          50
+        ]
+      ],
+      "badge": "none",
+      "tone": [
+        "moody",
+        "elegant",
+        "mysterious",
+        "warm",
+        "atmospheric"
+      ],
+      "avoid": [
+        "bright cartoon colours",
+        "romance-cover poses",
+        "gore"
+      ],
+      "imagery": "a woman sleuth at dusk with a lantern, a clue, a quiet town",
+      "short_name": "Mystery, Thriller & Suspense > Women Sleuths"
+    },
+    "Kindle Store > Kindle eBooks > Mystery, Thriller & Suspense > Cozy Mystery": {
+      "reader": "adult cozy mystery readers",
+      "look": "warm village or shop scene with a hint of crime (a clue, a cup, a locked door)",
+      "title": "serif title, gold or cream outline on deep teal or plum",
+      "hues": [
+        [
+          160,
+          200
+        ],
+        [
+          30,
+          50
+        ],
+        [
+          250,
+          330
+        ]
+      ],
+      "badge": "none",
+      "tone": [
+        "warm",
+        "cozy",
+        "moody",
+        "elegant",
+        "charming"
+      ],
+      "avoid": [
+        "gore or weapons",
+        "bright neon",
+        "romance-only pose"
+      ],
+      "imagery": "a seaside or village scene at dusk, a teacup, a lit window, a faint clue",
+      "short_name": "Mystery, Thriller & Suspense > Cozy Mystery"
+    },
+    "Kindle Store > Kindle eBooks > Self-Help > Personal Transformation": {
+      "reader": "adult readers seeking change",
+      "look": "clean, hopeful, confident; one person in motion toward light",
+      "title": "clean sans-serif or bold modern title, strong contrast",
+      "hues": [
+        [
+          90,
+          170
+        ],
+        [
+          190,
+          220
+        ],
+        [
+          30,
+          60
+        ]
+      ],
+      "badge": "optional",
+      "tone": [
+        "clean",
+        "hopeful",
+        "confident",
+        "bright",
+        "modern"
+      ],
+      "avoid": [
+        "clutter",
+        "medical imagery",
+        "before-and-after body images"
+      ],
+      "imagery": "one person walking toward a bright horizon, simple shapes",
+      "short_name": "Self-Help > Personal Transformation"
+    },
+    "Kindle Store > Kindle eBooks > Self-Help > Aging or Retirement": {
+      "reader": "adults 55 and up",
+      "look": "calm, warm, dignified; large readable type; no youth-only imagery",
+      "title": "large, clear serif or sans-serif title, high contrast",
+      "hues": [
+        [
+          190,
+          230
+        ],
+        [
+          30,
+          60
+        ],
+        [
+          80,
+          120
+        ]
+      ],
+      "badge": "optional",
+      "tone": [
+        "calm",
+        "warm",
+        "dignified",
+        "clear",
+        "hopeful"
+      ],
+      "avoid": [
+        "small text",
+        "medical or health claims",
+        "youth-only imagery"
+      ],
+      "imagery": "a relaxed person in a garden or by a window, a journal or a cup of tea",
+      "short_name": "Self-Help > Aging or Retirement"
+    },
+    "Kindle Store > Kindle eBooks > Education & Teaching": {
+      "reader": "teachers and educators",
+      "look": "clear, organised, friendly; a simple diagram or classroom motif",
+      "title": "bold sans-serif title, clean colour block",
+      "hues": [
+        [
+          200,
+          240
+        ],
+        [
+          40,
+          70
+        ],
+        [
+          100,
+          150
+        ],
+        [
+          0,
+          20
+        ]
+      ],
+      "badge": "optional",
+      "tone": [
+        "clear",
+        "friendly",
+        "organised",
+        "bright",
+        "modern"
+      ],
+      "avoid": [
+        "clutter",
+        "small unreadable text",
+        "real-school logos"
+      ],
+      "imagery": "a classroom corner or a simple board with clear shapes",
+      "short_name": "Education & Teaching"
+    },
+    "Kindle Store > Kindle eBooks > Arts & Photography > Music > Instruction & Study": {
+      "reader": "adult music learners",
+      "look": "sophisticated, rhythmic; a musical motif such as staff lines or an instrument silhouette",
+      "title": "modern serif or sans-serif, gold or white on deep blue or purple",
+      "hues": [
+        [
+          200,
+          260
+        ],
+        [
+          260,
+          300
+        ],
+        [
+          30,
+          60
+        ]
+      ],
+      "badge": "optional",
+      "tone": [
+        "sophisticated",
+        "rhythmic",
+        "modern",
+        "confident",
+        "warm"
+      ],
+      "avoid": [
+        "real instrument brand logos",
+        "copyrighted sheet music",
+        "cartoon style"
+      ],
+      "imagery": "an instrument silhouette or staff lines over a deep colour",
+      "short_name": "Arts & Photography > Music > Instruction & Study"
+    },
+    "Kindle Store > Kindle eBooks > Children's eBooks > Early Chapter Books": {
+      "reader": "children aged 6 to 9",
+      "look": "bright, friendly, one character, simple scene; rounded sans-serif title",
+      "title": "chunky rounded sans-serif, thick outline",
+      "hues": [
+        [
+          0,
+          30
+        ],
+        [
+          40,
+          70
+        ],
+        [
+          90,
+          160
+        ],
+        [
+          190,
+          240
+        ]
+      ],
+      "badge": "required",
+      "tone": [
+        "bright",
+        "friendly",
+        "playful",
+        "cheerful",
+        "simple"
+      ],
+      "avoid": [
+        "dark or frightening imagery",
+        "real celebrities or brands",
+        "small text"
+      ],
+      "imagery": "one friendly child or animal character in a sunny, simple scene",
+      "short_name": "Children's eBooks > Early Chapter Books"
+    },
+    "Kindle Store > Kindle eBooks > Children's eBooks > Bedtime Stories": {
+      "reader": "young children and their parents",
+      "look": "soft, dreamy, calm; a night scene with one gentle character",
+      "title": "rounded, gentle title with a soft glow",
+      "hues": [
+        [
+          190,
+          260
+        ],
+        [
+          240,
+          280
+        ],
+        [
+          40,
+          60
+        ]
+      ],
+      "badge": "required",
+      "tone": [
+        "soft",
+        "dreamy",
+        "gentle",
+        "calm",
+        "cozy"
+      ],
+      "avoid": [
+        "bright harsh colours",
+        "frightening night imagery",
+        "small text"
+      ],
+      "imagery": "a starry night, a crescent moon, one sleepy character",
+      "short_name": "Children's eBooks > Bedtime Stories"
+    },
+    "Kindle Store > Kindle eBooks > Crafts, Hobbies & Home > Crafts": {
+      "reader": "adult crafters",
+      "look": "warm, tactile, handmade; materials laid out on a surface",
+      "title": "friendly serif or sans-serif, warm colour",
+      "hues": [
+        [
+          20,
+          60
+        ],
+        [
+          80,
+          140
+        ],
+        [
+          0,
+          20
+        ]
+      ],
+      "badge": "optional",
+      "tone": [
+        "warm",
+        "tactile",
+        "friendly",
+        "handmade",
+        "bright"
+      ],
+      "avoid": [
+        "brand logos on tools",
+        "clutter",
+        "photo-realistic hands"
+      ],
+      "imagery": "materials and finished piece on a wooden table",
+      "short_name": "Crafts, Hobbies & Home > Crafts"
+    },
+    "Kindle Store > Kindle eBooks > Travel": {
+      "reader": "travellers and armchair travellers",
+      "look": "scenic, open, inviting; a landmark or landscape as the focal point",
+      "title": "bold sans-serif or serif title on a scenic colour block",
+      "hues": [
+        [
+          180,
+          220
+        ],
+        [
+          30,
+          60
+        ],
+        [
+          190,
+          210
+        ]
+      ],
+      "badge": "optional",
+      "tone": [
+        "scenic",
+        "open",
+        "inviting",
+        "bright",
+        "adventurous"
+      ],
+      "avoid": [
+        "real landmark logos",
+        "copyrighted photographs",
+        "crowded scenes"
+      ],
+      "imagery": "one scenic landscape or town skyline at golden hour",
+      "short_name": "Travel"
+    },
+    "Kindle Store > Kindle eBooks > Puzzles & Games": {
+      "reader": "adults 55 and up who like puzzles",
+      "look": "bold colour block, large type naming the puzzle type, clean grid motif",
+      "title": "very large bold sans-serif, high contrast",
+      "hues": [
+        [
+          0,
+          360
+        ]
+      ],
+      "badge": "required",
+      "tone": [
+        "bold",
+        "clear",
+        "friendly",
+        "bright",
+        "uncluttered"
+      ],
+      "avoid": [
+        "small text",
+        "busy background",
+        "copyrighted puzzle brands"
+      ],
+      "imagery": "a large grid or puzzle motif on a bold colour block",
+      "short_name": "Puzzles & Games"
+    },
+    "Kindle Store > Kindle eBooks > Reference > Writing > Authorship": {
+      "reader": "writers and authors",
+      "look": "clean, creative, professional; a pen, a page or a notebook motif",
+      "title": "modern serif title, dark text on light or light on dark",
+      "hues": [
+        [
+          200,
+          230
+        ],
+        [
+          0,
+          20
+        ],
+        [
+          30,
+          60
+        ]
+      ],
+      "badge": "none",
+      "tone": [
+        "clean",
+        "creative",
+        "professional",
+        "modern",
+        "confident"
+      ],
+      "avoid": [
+        "clutter",
+        "copyrighted book covers as reference"
+      ],
+      "imagery": "an open notebook and pen on a clean desk",
+      "short_name": "Reference > Writing > Authorship"
+    }
+  }
+}
