@@ -14,7 +14,7 @@ Copy each answer into the matching field in KDP. Nothing here is uploaded automa
 ## Description (paste as is)
 Retirement, a redundancy, a career change or a grown-up child leaving home can leave you with a full calendar and no clear sense of who you are outside your old role. The Second Act Workbook is a guided reflection journal for that moment. It offers one short prompt for each day of a 30-day course, grouped into ten chapters, and it asks you to look at your life with curiosity rather than pressure.
 
-Start by naming what your work gave you beyond a paycheck. Then keep a one-week log of how your days actually go, list the skills you have that matter in a volunteer group, a family or a neighbourhood, and map the relationships you want to strengthen. Revisit an old interest, try a two-week experiment such as a class, a choir, a garden plot or a walking group, and name the small frictions that hold you back. Later chapters help you build a flexible weekly rhythm, set boundaries around the requests you receive and write a one-page plan.
+Start by naming what your work gave you beyond a paycheck. Then keep a one-week log of how your days actually go, list the skills you have that matter in a volunteer group, a family or a neighborhood, and map the relationships you want to strengthen. Revisit an old interest, try a two-week experiment such as a class, a choir, a garden plot or a walking group, and name the small frictions that hold you back. Later chapters help you build a flexible weekly rhythm, set boundaries around the requests you receive and write a one-page plan.
 
 The book ends with a 90-day review sheet, so you leave with a direction rather than a pep talk.
 
@@ -47,7 +47,7 @@ _Description length: 302 words (KDP allows up to 4,000 characters)._
 - **Territories:** Worldwide
 - **Price (USD):** 4.99
 - **Royalty:** 70%
-- **KDP Select (enrol):** no
+- **KDP Select (enroll):** no
 - **Lending:** Enabled
 
 ## Files to upload

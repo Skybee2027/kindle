@@ -130,6 +130,23 @@ def main():
         else:
             add("word count within 10% of target", False, "topic has no word_count")
 
+    # Guide section 4 and 9: US English and US dollars everywhere the reader sees text.
+    lang = subprocess.run([sys.executable, os.path.join(HERE, "check_language.py"), folder], capture_output=True, text=True)
+    lang_json = json.loads(lang.stdout) if lang.stdout.strip() else {"pass": False, "issues": [], "count": 0}
+    first = " ".join(manuscript.split("\n")[:12]).lower()
+    lang_detail = "; ".join(f"{i['where']} line {i['line']}: '{i['found']}' should be '{i['use']}'" for i in lang_json.get("issues", [])[:6]) or "ok"
+    add("US English and US dollars", lang_json.get("pass", False), f"{lang_json.get('count', 0)} issue(s): {lang_detail}")
+
+    # Guide section 8: the manuscript opens with a title page (title, subtitle, author).
+    add("title page at the top of manuscript.md",
+        norm(m.get("title", "")) in norm(first) and "skybee" in first,
+        "title and author in the first 12 lines" if norm(m.get("title", "")) in norm(first) else "title page missing")
+
+    # Guide section 3: a workbook has an answer block after its prompts (at least 10 blocks).
+    if topic and "workbook" in str(topic.get("format", "")).lower():
+        blocks = manuscript.count("**Your answer:**")
+        add("workbook has answer blocks (guide section 3)", blocks >= 10, f"{blocks} answer blocks")
+
     chapters = len(re.findall(r"^#{1,2}\s", manuscript, re.M))
     add("chapters have headings", chapters >= 1, f"{chapters} headings")
 
