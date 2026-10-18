@@ -1,5 +1,0 @@
-/* Stylesheet for adult novels (guide section 5): EB Garamond, left-aligned, first-line indent. */
-body { font-family: "EB Garamond", Garamond, Georgia, serif; line-height: 1.45; text-align: left; }
-h1, h2, h3 { font-family: "EB Garamond", Garamond, Georgia, serif; font-weight: 700; }
-p { text-indent: 1.2em; margin: 0; }
-h1 + p, h2 + p, h3 + p, hr + p { text-indent: 0; }
