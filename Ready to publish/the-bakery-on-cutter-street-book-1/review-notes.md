@@ -1,31 +1,56 @@
 # Review notes: The Bakery on Cutter Street, Book 1
 
 ## Status
-- Manuscript: complete, 39 chapters, about 55,700 words (meets the guide's 55,000 minimum).
-- EPUB: built with pandoc, validated with EPUBCheck 5.3.0 (0 errors, 0 warnings). EB Garamond embedded, OFL license in fonts/.
+- Manuscript: complete, 39 chapters, about 55,760 words (meets the guide's 55,000 minimum).
+- EPUB: built with pandoc, cover embedded, validated with EPUBCheck 5.3.0 (0 errors, 0 warnings). EB Garamond embedded, OFL license in fonts/.
 - DOCX: same text, for review or alternate upload.
-- Cover: one cover per book (guide updated). The approved Canva design is DAHYVdFvmjE (https://canva.link/k2uuo12fdna991p). The full-resolution JPG has NOT been exported yet, because the Canva connector is not available in this session. Save it as cover-ebook.jpg in this folder, then the EPUB can be rebuilt with the cover embedded.
+- Cover: cover-ebook.jpg, 1600 x 2560 RGB JPEG, from the approved Canva design DAHYVdFvmjE.
 
 ## Guide compliance
-- Length: 55,000 to 65,000 words. The book is at the bottom of the range (about 55,700). Any cut would fall below the minimum.
-- Chapters: 39 (guide range 25 to 35). Over the range. Option: merge two short chapters, for example Chapter Nine (Mabel's Birthday) into Chapter Eight, to get to 38. Still above 35. The range in the guide needs a decision (either raise the chapter cap or merge chapters down to 35).
+- Length: 55,000 to 65,000 words. About 55,760, the bottom of the range.
+- Chapters: 39, within the guide range of 25 to 40 (guide updated by owner direction).
 - Covers: one per book (guide section 5 updated).
 - Copyright and AI disclosure: copyright page reads "Copyright © 2026 Skybee. All rights reserved." with the AI disclosure as its last line, per the owner's decision.
+- Description: 189 words (guide 150 to 400). Keywords: 7.
+
+## Full read-through (2026-10-18)
+All 39 chapters were read line by line. Fixes made in this pass:
+- Chapter Five and Chapter Thirteen: Biscuit's arrival. He was Tom Kowalski's dog, walked by Hannah in Chapter Five, so Chapter Thirteen now says he had walked the street with her once before.
+- Chapter Eleven: the market is now the second Saturday, not a repeat of the first market in Chapter Ten.
+- Chapter Twelve and Chapter Eighteen: Hannah's time back in town. The dates now run from the summer (she was home by August, per Chapter Nine).
+- Chapter Twelve: Mabel the second is described as settled, two months on, not in her first week.
+- Chapter Sixteen: the starter is no longer described as named after the grandmother (Dorothy).
+- Chapter Eighteen: Eli's line about "her apartment" and an undefined "last night" were corrected.
+- Chapter Nineteen: Mrs. Ortiz's marriage timeline now fits Manny's death in 2015.
+- Chapter Twenty-Three: Dale Henner was 31 in 1994, not 21 years younger.
+- Chapter Twenty-Four: Eli's quoted line matches Chapter Twenty-One; the second town meeting is named as a second meeting.
+- Chapter Twenty-Five: Eli's mother left when he was nine, matching Chapter Fourteen.
+- Chapter Twenty-Six: the caller is the paper-shop woman, not the hardware owner (Eli runs the hardware store and is in the room).
+- Chapter Twenty-Seven: the bakery sign is red paint, not gold leaf.
+- Chapter Thirty: Eli's mother left a note, not a postcard, with no reference to the wrist (the postcard in Chapter Thirty-Six is the one that mentions the wrist).
+- Chapter Thirty-Two: moved to the Wednesday before Christmas so it follows Chapters Thirty and Thirty-One; the confession now matches the letter Hannah posted in Chapter Thirty-One. Profanity removed.
+- Chapter Thirty-Three: the appointment of Eli as trustee is dated December.
+- Chapter Thirty-Four: the 1989 loan matches Chapter Twenty (Hollis lent Dorothy the money and she repaid him). Profanity removed.
+- Chapter Thirty-Five: the rolling pin has been hidden for 36 years, not 35.
+- Chapter Thirty-Six: the mother's letter is signed "Mom"; "apartment" and the red sign.
+- Chapter Thirty-Eight: Mabel the third is two months old; Mabel the second died in February; the hammer box is dated 1978, the year the store opened.
+- Chapter Thirty-Nine: the rolling pin label is in Hollis's hand; Eli's letter took years, not thirty years, to read.
+- Spelling and idiom: converted to US English throughout (for example gray, color, mom, sidewalk, flashlight, cookies, parking lot, dish towel, sweater, dessert, line, mailbox, trash can, leash, pharmacy, around).
 
 ## Continuity notes
-- Timeline inside the book is not strictly in order: some chapters were inserted by theme. Before publishing, read the chapter headings in order and check dates against each other (the market, the December inspector visit, the Pike lunch).
+- Timeline: Mabel the second (Chapters Eight to Eleven) and Mabel the third (Chapters Thirty-Eight to Thirty-Nine) are consistent with the dates above.
 - The sign reads "THE CUTTER STREET BAKERY" (red, est. 1961). "Brooks & Sons" is the old lettering inside the front window. The new sign in Chapter Thirty-Seven reads "BROOKS & CARVER".
 - Eli's mother, Ruth Carver, left when Eli was nine; her postcard arrives in Chapter Thirty-Six.
-- Mabel the second is the starter from Chapter Eight; Tom Kowalski keeps his own starter.
+- Tom Kowalski keeps his own starter, descended from Dorothy's jar (Chapter Eleven).
 
 ## Recommended human checks before publishing
-- Full read for dialogue and rhythm. The text is AI-drafted and needs an editor pass, especially the later chapters, which were written quickly.
+- Dialogue and rhythm: an editor pass is still recommended, since the text is AI-drafted.
 - KDP browse category and keywords (check in the category picker).
 - Confirm price ($3.99), royalty tier (70%), and the series name.
 
 ## Upload checklist (KDP)
 - [ ] Manuscript: the-bakery-on-cutter-street.epub
-- [ ] Cover: cover-ebook.jpg (PENDING export from Canva)
+- [ ] Cover: cover-ebook.jpg
 - [ ] Title, subtitle, author (Skybee), description, keywords, category from metadata.json
 - [ ] AI-content disclosure answered truthfully
 - [ ] Price $3.99, 70% royalty
@@ -33,10 +58,10 @@
 ## Approval (owner-directed review, 2026-10-18)
 - Cover: cover-ebook.jpg, 1600 x 2560 RGB JPEG, approved Canva design. PASS.
 - EPUB: EPUBCheck 5.3.0, 0 errors, 0 warnings. PASS.
-- Length: about 55,800 words; guide minimum 55,000. PASS.
-- Chapters: 39. Guide range changed from 25 to 35 to 25 to 40 by owner direction. PASS.
+- Length: about 55,760 words; guide minimum 55,000. PASS.
+- Chapters: 39, within the guide range of 25 to 40. PASS.
 - Copyright line and AI disclosure present on copyright page. PASS.
 - Description: 189 words (guide 150 to 400). PASS. Keywords: 7. PASS.
 - Price $3.99, royalty 70%. PASS.
-- Chapter timeline: chapters were inserted by theme. Season scan shows one autumn-to-winter span with no clear contradictions, but a full line-by-line read was not done. OPEN RISK, recommended before upload.
+- Full line-by-line read of all 39 chapters completed; fixes listed above applied. PASS.
 - Nothing has been uploaded to Amazon.

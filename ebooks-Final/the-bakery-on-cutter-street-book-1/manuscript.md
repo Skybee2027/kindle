@@ -386,11 +386,11 @@ She had come home expecting to be the only person in Cutter Street with a secret
 
 Hannah had lived on Cutter Street for the first eighteen years of her life, and she had never once walked the whole length of it on purpose.
 
-She set out on the Monday after the oven was fixed, with a paper cup of coffee in one hand and Biscuit's lead looped twice round her wrist. The dog had views on the matter. He wanted to sniff every lamppost, every doorstep, every bin lid on the block, and he made his feelings known with long, dramatic pauses and a snort of protest whenever she tried to move him along.
+She set out on the Monday after the oven was fixed, with a paper cup of coffee in one hand and a leash looped twice around her wrist, its other end clipped to Biscuit, Tom Kowalski's dog, whom Tom had asked her to walk while he drove a load of feed out to the farms. The dog had views on the matter. He wanted to sniff every lamppost, every doorstep, every trash can lid on the block, and he made his feelings known with long, dramatic pauses and a snort of protest whenever she tried to move him along.
 
 "We have a schedule," she told him. "It's a short one. Shops, people, trees. Then bread."
 
-Biscuit sat down on the pavement in front of the hardware store and looked at her with the patience of a dog who had heard this sort of speech before and had outlived all of them.
+Biscuit sat down on the sidewalk in front of the hardware store and looked at her with the patience of a dog who had heard this sort of speech before and had outlived all of them.
 
 The street began at the river and ran uphill to the church, and the bakery sat near the middle, between the diner and the hardware store, like a tooth in a row of tired but determined old friends. At the river end stood the empty lot where Pike Ridge had cleared the old boatyard two summers ago. Someone had nailed a plywood sign to the fence. It said *COMING SOON*, and somebody else had written underneath it in black marker, *IT'S ALREADY HERE. LOOK AT THE MUD.*
 
@@ -414,7 +414,7 @@ Past the boatyard lot was the old Lutheran hall, its doors painted a faded green
 \* \* \*
 :::
 
-The diner was already busy, its windows steamed to a soft white glow, the smell of frying bacon and coffee pouring out onto the pavement. Mrs. Ortiz was behind the counter with a pencil in her hair and a tray of eggs in one hand, shouting orders at the cook in a mix of Spanish and English that made the regulars grin into their plates.
+The diner was already busy, its windows steamed to a soft white glow, the smell of frying bacon and coffee pouring out onto the sidewalk. Mrs. Ortiz was behind the counter with a pencil in her hair and a tray of eggs in one hand, shouting orders at the cook in a mix of Spanish and English that made the regulars grin into their plates.
 
 She saw Hannah through the glass and jabbed the pencil in her direction, then pointed at the dog.
 
@@ -446,7 +446,7 @@ Hannah sat. The coffee was terrible, which she had come to find oddly comforting
 \* \* \*
 :::
 
-Hannah walked on after breakfast, up past the post office and the chemist, and at the top of the hill she stopped by the wrought-iron gate of the old Methodist chapel, which had been closed since before she was born. The gate was rusted, the paint peeling, but someone had planted a row of small white crocuses along the path, and they were coming up through the last of the snow, bright and stubborn.
+Hannah walked on after breakfast, up past the post office and the pharmacy, and at the top of the hill she stopped by the wrought-iron gate of the old Methodist chapel, which had been closed since before she was born. The gate was rusted, the paint peeling, but someone had planted a row of small white crocuses along the path, and they were coming up through the last of the snow, bright and stubborn.
 
 Biscuit sat down beside them and watched them as if they might attempt an escape.
 
@@ -460,7 +460,7 @@ From the far end of the path, a voice answered her.
 
 "Everybody likes them. That's why somebody planted them."
 
-She looked up. A woman in a green wool coat was standing by the chapel steps with a watering can, her grey hair cut very short and her face weathered by years outside. She looked to be about seventy, and she had a smile that seemed to have been used sparingly and was all the more valuable for it.
+She looked up. A woman in a green wool coat was standing by the chapel steps with a watering can, her gray hair cut very short and her face weathered by years outside. She looked to be about seventy, and she had a smile that seemed to have been used sparingly and was all the more valuable for it.
 
 "Edna Price," said the woman. "I garden for the chapel trust. Or I did, until the trust forgot to pay me. Now I just garden for the crocuses."
 
@@ -494,7 +494,7 @@ She stopped in front of the bakery and looked up at the faded red lettering over
 
 She thought about the walk. Walt and his pigeons. Mrs. Ortiz's terrible coffee. Edna Price and her crocuses, planted for a man who had brought her seeds she was sure would never grow.
 
-Her grandmother had walked this street every morning for sixty years. She had known every name, every shop, every bench. She had kept a ledger of debts and favours and promises. And she had left behind, for the granddaughter who had run away at eighteen, a street full of people who were waiting for her to come back.
+Her grandmother had walked this street every morning for sixty years. She had known every name, every shop, every bench. She had kept a ledger of debts and favors and promises. And she had left behind, for the granddaughter who had run away at eighteen, a street full of people who were waiting for her to come back.
 
 "All right," Hannah told the dog. "Now we do the bread."
 
@@ -662,7 +662,7 @@ Hannah stared at the words. "Yesterday?"
 
 "I was going to tell you this morning." He had the grace to look a little guilty. "Then the envelope came, and I thought you'd want to read it first."
 
-Hannah pressed her palms flat against the counter. The cold of the stone seeped up into her wrists. Outside, the street was grey and damp, and a plow truck rumbled slowly past with its orange light turning over and over, painting the snowbanks in bright, sharp bands.
+Hannah pressed her palms flat against the counter. The cold of the stone seeped up into her wrists. Outside, the street was gray and damp, and a plow truck rumbled slowly past with its orange light turning over and over, painting the snowbanks in bright, sharp bands.
 
 "Four hundred and eighty thousand dollars," she said. "My grandmother spent her whole life in this building, and he thinks it's worth less than a sports car."
 
@@ -718,7 +718,7 @@ She didn't have an answer for that. She picked up the offer letter, folded it in
 
 Mabel died on Wednesday.
 
-Hannah found out at six in the morning, when she lifted the cloth from the crock and smelled nothing but flat, grey, lifeless flour. The surface was dry and cracked like old paint. The bubbles that had risen so faithfully every morning for a week had vanished, leaving behind a crust that looked more like cement than a living thing.
+Hannah found out at six in the morning, when she lifted the cloth from the crock and smelled nothing but flat, gray, lifeless flour. The surface was dry and cracked like old paint. The bubbles that had risen so faithfully every morning for a week had vanished, leaving behind a crust that looked more like cement than a living thing.
 
 She stood at the shelf for a long time, holding the cloth in both hands.
 
@@ -758,7 +758,7 @@ He arrived in twelve minutes, wearing a flannel shirt buttoned wrong and a wool 
 
 "I should have known," said Eli. "That's the job."
 
-Hannah looked at the crock, at the crust and the grey, and felt something hard and bitter rise in her throat. "She'd have yelled at both of us."
+Hannah looked at the crock, at the crust and the gray, and felt something hard and bitter rise in her throat. "She'd have yelled at both of us."
 
 "She'd have yelled at me," said Eli. "She'd have said, *Eli Carver, you have hands like a pair of shovels and you can't tell the difference between a thermostat and a teakettle.* And then she'd have made us both eat a whole loaf of rye."
 
@@ -830,7 +830,7 @@ Hannah had not planned a party. She had planned a quiet morning with a cup of te
 \* \* \*
 :::
 
-Eli arrived at half past seven, with his hair still wet from the shower and a paper bag of pastries from the diner under one arm. He stopped in the doorway of the kitchen, took in the cake, the candle, and the jar of bubbling starter sitting in the middle of the table like a guest of honour, and burst out laughing.
+Eli arrived at half past seven, with his hair still wet from the shower and a paper bag of pastries from the diner under one arm. He stopped in the doorway of the kitchen, took in the cake, the candle, and the jar of bubbling starter sitting in the middle of the table like a guest of honors, and burst out laughing.
 
 "You're not going to let it go," he said.
 
@@ -852,7 +852,7 @@ Mrs. Ortiz made a noise that might have been a laugh or a sob, and hastily began
 \* \* \*
 :::
 
-They ate on the back step, in the thin autumn sunshine, with the cake on a tray between them and the dog lying across their feet like an overfed draught excluder. Walt came down from the library and sat on the edge of the step with a slice in one hand and his cap in the other, and told them, very solemnly, that in his opinion the starter was the finest thing to have happened to Cutter Street since the mill closed.
+They ate on the back step, in the thin autumn sunshine, with the cake on a tray between them and the dog lying across their feet like an overfed draft excluder. Walt came down from the library and sat on the edge of the step with a slice in one hand and his cap in the other, and told them, very solemnly, that in his opinion the starter was the finest thing to have happened to Cutter Street since the mill closed.
 
 "Better than the mill," he said. "The mill never gave anybody anything but cough."
 
@@ -864,7 +864,7 @@ Eli choked on his cake.
 
 "Don't look at me," said Walt, with great dignity. "I was married for forty-one years. I know what I'm talking about."
 
-Tom Kowalski came up the lane with a tin of flapjacks, a fresh bandana tied round his head, and an expression of enormous, nervous pride. He had brought, as he put it, a small contribution for the guest of honour. The contribution was a tiny wooden spoon, carved by hand, with the name *Mabel II* burned into the handle in slightly uneven letters.
+Tom Kowalski came up the lane with a tin of flapjacks, a fresh bandana tied around his head, and an expression of enormous, nervous pride. He had brought, as he put it, a small contribution for the guest of honors. The contribution was a tiny wooden spoon, carved by hand, with the name *Mabel II* burned into the handle in slightly uneven letters.
 
 "I made it in the garage," he said, going red. "It took me three nights. I cut my thumb twice. Your grandmother would have called it rubbish."
 
@@ -1018,11 +1018,11 @@ The idea of a market stall had been Mrs. Ortiz's, which meant that it had been d
 
 "It's three tables," Mrs. Ortiz said, on the Thursday before the first Saturday in November. "Two in front of the bakery, one in front of the hardware store. Eli says he'll bring a generator. Walt says he'll bring his pigeons, which I told him was not a contribution. And you, mija, will sell bread."
 
-"What if nobody buys it?"
+"What if it rains on us?"
 
-"Then they'll be very rude to you in front of the whole town," said Mrs. Ortiz, "and you'll cry in the car, and then you'll come back the next week and sell twice as much. That is how business works. Your grandmother did it for thirty years."
+"Then they'll complain about the price in front of the whole town," said Mrs. Ortiz, "and you'll sell the bread anyway, and you'll come back the next week and sell twice as much. That is how business works. Your grandmother did it for thirty years."
 
-Hannah looked at the sign-up sheet pinned to the corkboard by the till. Twenty-two names. Most of them she recognised: the florist from the corner, the woman who ran the paper shop, the two sisters who made soap, Tom Kowalski, who had put his name down for a table of sourdough rolls and then written beneath it, in capitals, *ASK ABOUT THE DOG.*
+Hannah looked at the sign-up sheet pinned to the corkboard by the till. Twenty-two names. Most of them she recognized: the florist from the corner, the woman who ran the paper shop, the two sisters who made soap, Tom Kowalski, who had put his name down for a table of sourdough rolls and then written beneath it, in capitals, *ASK ABOUT THE DOG.*
 
 "Are these all going to sell things?" she asked.
 
@@ -1032,11 +1032,11 @@ Hannah looked at the sign-up sheet pinned to the corkboard by the till. Twenty-t
 \* \* \*
 :::
 
-The first Saturday of November was bright and cold, with a thin white frost along the kerbs and a sharp wind that carried the smell of woodsmoke from the chimneys on Mill Lane. By eight o'clock the three tables were set up in front of the shops, draped with red cloth, and every surface was covered in bread.
+The first Saturday of November was bright and cold, with a thin white frost along the curbs and a sharp wind that carried the smell of woodsmoke from the chimneys on Mill Lane. By eight o'clock the three tables were set up in front of the shops, draped with red cloth, and every surface was covered in bread.
 
-Hannah had been up since four. She had shaped and proofed two hundred rolls, a dozen rye loaves, and eight enormous sourdough boules that had taken three attempts to get right because her grandmother's old banneton had cracked in the bottom and she had to make a new one out of a laundry basket and a tea towel. Eli had laughed for a full minute when he saw it, then carried the basket up the street with a face of enormous dignity, as though it were a crown.
+Hannah had been up since four. She had shaped and proofed two hundred rolls, a dozen rye loaves, and eight enormous sourdough boules that had taken three attempts to get right because her grandmother's old banneton had cracked in the bottom and she had to make a new one out of a laundry basket and a dish towels. Eli had laughed for a full minute when he saw it, then carried the basket up the street with a face of enormous dignity, as though it were a crown.
 
-By nine, the first customers had arrived. By ten, the queue stretched past the hardware store and round the corner onto the square.
+By nine, the first customers had arrived. By ten, the line stretched past the hardware store and around the corner onto the square.
 
 It was not what Hannah had expected. She had imagined a few sympathetic faces, a polite word about the oven, a handful of coins. Instead, the street filled with people who wanted to talk. They picked up every loaf and sniffed it and asked what was in it. They asked about her grandmother, and whether the oven had really been dead when she arrived, and whether it was true that the bakery had been given to her in a will with a list of instructions pinned to the lid of the bread bin. They asked whether she was going to sell, and then, before she could answer, they told her what they thought she should do.
 
@@ -1066,13 +1066,13 @@ At noon, Tom Kowalski arrived with his sourdough, and the rolls sold out in twen
 
 "I am Mabel's guardian," said Tom, with great solemnity. "She's a spoonful of my own starter. Your grandmother gave me a jar in 1998, when I didn't have a clue what I was doing, and I killed her twice. But she came back, and now she's the best thing I've ever owned."
 
-Hannah laughed and put her arm round his shoulders for a moment. He smelled of flour and cold air, and he was blushing.
+Hannah laughed and put her arm around his shoulders for a moment. He smelled of flour and cold air, and he was blushing.
 
 ::: {.scenebreak}
 \* \* \*
 :::
 
-Eli had brought the generator, as promised, and set it up behind the hardware store's back wall, where it coughed and grumbled and powered the coffee urn that Mrs. Ortiz had insisted on guarding with a tea towel over her arm. He had also, without being asked, put up a little sign on the front of the hardware store's stall, which read in careful capitals: *FREE SHARPENING FOR ANYONE WHO BUYS BREAD. ASK FOR ELI. DON'T ASK FOR MORE.*
+Eli had brought the generator, as promised, and set it up behind the hardware store's back wall, where it coughed and grumbled and powered the coffee urn that Mrs. Ortiz had insisted on guarding with a dish towels over her arm. He had also, without being asked, put up a little sign on the front of the hardware store's stall, which read in careful capitals: *FREE SHARPENING FOR ANYONE WHO BUYS BREAD. ASK FOR ELI. DON'T ASK FOR MORE.*
 
 The line for the sharpening was longer than the line for the bread.
 
@@ -1134,7 +1134,7 @@ The espresso machine was the last thing Eli fixed, and he did it on a Tuesday ni
 
 Hannah laughed and went back to folding the dough. It was a simple recipe, the one her grandmother had taught her at the age of six, standing on a step stool with flour in her hair. Water, flour, salt, and time. Time was the part no one could hurry.
 
-They had been working late every night for a week. It had started with the wiring, which Eli had insisted on finishing before the building inspector came round on Friday, and had turned into everything else: the walk-in door, the freezer compressor, the drain in the back room that smelled like a swamp in August. Hannah had discovered that she could cut a tray of rolls with her eyes closed and that Eli could sing every word of an eighties power ballad without once missing a note. She had also discovered that she liked him, which was the most inconvenient discovery of her life.
+They had been working late every night for a week. It had started with the wiring, which Eli had insisted on finishing before the building inspector came around on Friday, and had turned into everything else: the walk-in door, the freezer compressor, the drain in the back room that smelled like a swamp in August. Hannah had discovered that she could cut a tray of rolls with her eyes closed and that Eli could sing every word of an eighties power ballad without once missing a note. She had also discovered that she liked him, which was the most inconvenient discovery of her life.
 
 "You're staring," said Eli.
 
@@ -1160,7 +1160,7 @@ He glanced up, and the corner of his mouth lifted. "Is that a complaint?"
 
 "Not particularly."
 
-"I think you came back to sign papers and get out as fast as you could," said Eli. "And I think you've been here two weeks, and you've made bread that makes grown men cry, and you're terrified that if you stay, you'll never leave."
+"I think you came back to sign papers and get out as fast as you could," said Eli. "And I think you've been here since the summer, and you've made bread that makes grown men cry, and you're terrified that if you stay, you'll never leave."
 
 Hannah's hands stopped moving on the dough.
 
@@ -1174,7 +1174,7 @@ Hannah's hands stopped moving on the dough.
 
 "You've got terrible everything," said Hannah, but her voice wobbled.
 
-For a moment neither of them spoke. The oven hummed. The starter bubbled in its jar, a sign that Mabel the second had survived her first week and was settling in. The clock above the sink ticked past eleven-fifteen. Outside, a truck rumbled past on Cutter Street, its headlights sweeping across the window and then gone.
+For a moment neither of them spoke. The oven hummed. The starter bubbled in its jar, a sign that Mabel the second was thriving two months on and had long since stopped sulking. The clock above the sink ticked past eleven-fifteen. Outside, a truck rumbled past on Cutter Street, its headlights sweeping across the window and then gone.
 
 "Tell me about Chicago," Eli said.
 
@@ -1252,9 +1252,9 @@ She laughed, helplessly, and the sound followed him out into the cold night air,
 
 # Chapter Thirteen: A Dog Named Biscuit
 
-The dog arrived on Thursday, sitting on the bakery step in the rain like he had been waiting for an appointment.
+The dog arrived on Thursday, sitting on the bakery step in the rain like he had been waiting for an appointment. He had walked the length of Cutter Street with Hannah once before, on a Monday in early autumn, and had apparently decided the bakery was the best stop on the route.
 
-He was a big, shaggy, apricot-colored creature with a tangle of curls, a tail that swept the wet pavement, and a pair of brown eyes so earnest that Hannah opened the door before she had decided whether to. He padded inside as if he owned the place, sniffed the air with great seriousness, and then sat down beside the bread rack and looked up at her expectantly.
+He was a big, shaggy, apricot-colored creature with a tangle of curls, a tail that swept the wet sidewalk, and a pair of brown eyes so earnest that Hannah opened the door before she had decided whether to. He padded inside as if he owned the place, sniffed the air with great seriousness, and then sat down beside the bread rack and looked up at her expectantly.
 
 "No," said Hannah.
 
@@ -1322,7 +1322,7 @@ Eli came in at six, carrying a bag of dog food under one arm and a paper cup of 
 
 "That cat was very cold."
 
-"It was in the middle of July."
+"It was in the middle of August."
 
 "It was a very cold cat," Hannah insisted. Then she looked at the dog again, at his tangled curls and his drooling smile, and she laughed. "He's sweet, though."
 
@@ -1360,7 +1360,7 @@ Outside, the rain kept falling. Inside, the dog began to snore again, and the ra
 
 The roof of the hardware store leaked in four places, and Eli had been patching all four of them since he was eleven years old.
 
-Hannah found out about this on a Tuesday evening in late November, when a sudden storm rolled in off the river and water began to drip through the ceiling of the back office in a steady, patient rhythm. She came across from the bakery with a torch and a bucket and found Eli standing on a stepladder in the middle of the room, his hair plastered to his forehead, a plastic sheet in one hand and a look of profound exhaustion on his face.
+Hannah found out about this on a Tuesday evening in late November, when a sudden storm rolled in off the river and water began to drip through the ceiling of the back office in a steady, patient rhythm. She came across from the bakery with a flashlight and a bucket and found Eli standing on a stepladder in the middle of the room, his hair plastered to his forehead, a plastic sheet in one hand and a look of profound exhaustion on his face.
 
 "Don't say anything," he said.
 
@@ -1378,7 +1378,7 @@ He laughed, a tired, rueful sound, and climbed down. "Thank you. I've been tryin
 
 "Did you ever fall off?"
 
-"Once," said Eli. "I was thirteen. I stepped on a loose tile and went through the gutter, right down the side of the building, and landed in the bins behind the diner. Mrs. Ortiz pulled me out by the collar and said she was going to tell my father I'd been stealing cheese." He smiled, a little crookedly. "My father didn't say anything at all. He just climbed down the ladder, picked me up, and carried me home over his shoulder, past the whole street. I was so embarrassed I wanted to die. I think he was more scared than I was."
+"Once," said Eli. "I was thirteen. I stepped on a loose tile and went through the gutter, right down the side of the building, and landed in the trash bins behind the diner. Mrs. Ortiz pulled me out by the collar and said she was going to tell my father I'd been stealing cheese." He smiled, a little crookedly. "My father didn't say anything at all. He just climbed down the ladder, picked me up, and carried me home over his shoulder, past the whole street. I was so embarrassed I wanted to die. I think he was more scared than I was."
 
 Hannah leaned against the wall beside the ladder and listened to the rain drumming on the old tin roof above them.
 
@@ -1390,7 +1390,7 @@ Hannah leaned against the wall beside the ladder and listened to the rain drummi
 
 Hollis Carver had been a big man with a quiet voice and enormous, careful hands. He had grown up on a farm outside Coshocton and come to Cutter Street at twenty-two, with a secondhand van, a box of tools, and a wife named Ruth who had once been a schoolteacher and never quite forgiven the town for making her give it up. They had opened the hardware store in 1978, when the mill was still working and the street was full of men in work boots, and they had raised a son in the rooms above the shop.
 
-"Mum left when I was nine," said Eli, very simply, "so it was just Dad and me. He was terrible at talking about feelings. He thought they were a sort of weather, and you just had to wait for them to pass. So when I got angry, he'd take me up on the roof and make me help him with the tar. When I was sad, he'd make me sort the nails by size. When I was happy, he'd whistle, very badly, and make me whistle with him."
+"Mom left when I was nine," said Eli, very simply, "so it was just Dad and me. He was terrible at talking about feelings. He thought they were a sort of weather, and you just had to wait for them to pass. So when I got angry, he'd take me up on the roof and make me help him with the tar. When I was sad, he'd make me sort the nails by size. When I was happy, he'd whistle, very badly, and make me whistle with him."
 
 "He sounds like a very good father."
 
@@ -1400,7 +1400,7 @@ Hannah swallowed. The rain had softened to a gentle patter, and the bucket under
 
 "Did you ever tell him you were angry with him?" she asked. "For the roof, or the nails, or any of it?"
 
-"No," said Eli. "Not once. I was too proud. I thought if I said it out loud, he'd leave the way Mum had, and I'd be standing in the rain with nobody to hand the tar to."
+"No," said Eli. "Not once. I was too proud. I thought if I said it out loud, he'd leave the way Mom had, and I'd be standing in the rain with nobody to hand the tar to."
 
 "Eli."
 
@@ -1424,7 +1424,7 @@ After a while, he lifted his head.
 
 "Come upstairs," he said. "There's something I want to show you. It's not much."
 
-The rooms above the hardware store had been empty since his father's death, Hannah realised, as he led her up the narrow stairs and through a door at the top. There was a kitchen with a formica table and two chairs, a sitting room with a sagging sofa and a radio the size of a small suitcase, and, at the back, a bedroom with a single window looking out over the river and the roofs of Cutter Street.
+The rooms above the hardware store had been empty since his father's death, Hannah realized, as he led her up the narrow stairs and through a door at the top. There was a kitchen with a formica table and two chairs, a sitting room with a sagging sofa and a radio the size of a small suitcase, and, at the back, a bedroom with a single window looking out over the river and the roofs of Cutter Street.
 
 On the wall above the bed hung a child's drawing, pinned very carefully in a cheap wooden frame. It showed a tall man with enormous hands and a small boy on his shoulders, standing on the roof of a building with a red-painted sign on the front, and above them, in wobbling yellow crayon, a sun with a face.
 
@@ -1442,7 +1442,7 @@ Hannah pressed her fingers to her mouth.
 
 "It was for you."
 
-He looked at her for a long moment in the lamplight. Then he crossed the room, very slowly, as though he were afraid the floor might give way, and put his arms round her, and held on, while outside the rain stopped completely and the whole street went quiet, listening.
+He looked at her for a long moment in the lamplight. Then he crossed the room, very slowly, as though he were afraid the floor might give way, and put his arms around her, and held on, while outside the rain stopped completely and the whole street went quiet, listening.
 
 # Chapter Fifteen: The Town Meeting
 
@@ -1452,7 +1452,7 @@ Hannah had been inside it exactly once before, at the age of seven, for a school
 
 By seven-thirty, every chair was full. By eight, people were standing along the back wall, their coats still on, arms folded, faces pinched with the kind of anticipation that comes before a fight nobody wants to start.
 
-Hannah sat in the third row beside Mrs. Ortiz, who had insisted on bringing a thermos of tea and a bag of ginger biscuits. Biscuit had been left at home, under protest, with a strict instruction from Tom Kowalski to stay out of the feed store. Eli sat on the far side of the aisle, alone, his arms crossed and his face unreadable.
+Hannah sat in the third row beside Mrs. Ortiz, who had insisted on bringing a thermos of tea and a bag of ginger cookies. Biscuit had been left at home, under protest, with a strict instruction from Tom Kowalski to stay out of the feed store. Eli sat on the far side of the aisle, alone, his arms crossed and his face unreadable.
 
 He had not looked at her once since they came in.
 
@@ -1604,7 +1604,7 @@ Hannah said nothing. She was thinking about the moment at the town hall door, wh
 
 "Hannah."
 
-"I'm supposed to sell the building, Jess. That's the plan. That's what Gran's lawyer wants. That's what I've been planning since I got on the plane. And now there's a developer with a fancy speech and a woman in a camel coat, and the wiring is a disaster, and the oven's been running on a prayer, and I've got a sourdough starter named after my grandmother and a dog that won't leave the building." She took a breath. "And I can't stop thinking about the way he said my name."
+"I'm supposed to sell the building, Jess. That's the plan. That's what Gran's lawyer wants. That's what I've been planning since I got on the plane. And now there's a developer with a fancy speech and a woman in a camel coat, and the wiring is a disaster, and the oven's been running on a prayer, and I've got a sourdough starter with a name and a temper and a dog that won't leave the building." She took a breath. "And I can't stop thinking about the way he said my name."
 
 There was a long silence on the line.
 
@@ -1654,15 +1654,15 @@ He hung up before she could argue. She sat on the stool with the phone in her la
 
 The dog had been gone for forty minutes before Hannah noticed, which was the longest forty minutes of her life.
 
-It had been a bright, cold morning in early December, the first properly frosty day of the year, and Biscuit had been lying in his favourite patch of sunshine by the bakery's back door, snoring gently, with his chin on his paws and one ear twitching at every passing sparrow. Hannah had turned around to fetch a tray of cinnamon rolls from the oven. When she turned back, the patch of sunshine was empty, and the back gate was standing open an inch.
+It had been a bright, cold morning in early December, the first properly frosty day of the year, and Biscuit had been lying in his favorite patch of sunshine by the bakery's back door, snoring gently, with his chin on his paws and one ear twitching at every passing sparrow. Hannah had turned around to fetch a tray of cinnamon rolls from the oven. When she turned back, the patch of sunshine was empty, and the back gate was standing open an inch.
 
 "Biscuit?"
 
-She ran into the yard. She ran round the front of the shop. She ran up the street to the church and back down again, calling his name until her voice cracked, and by the time she reached the hardware store, the dog was still nowhere to be seen.
+She ran into the yard. She ran around the front of the shop. She ran up the street to the church and back down again, calling his name until her voice cracked, and by the time she reached the hardware store, the dog was still nowhere to be seen.
 
 Eli was on the front step with a box of screws in one hand and his mouth open in alarm. "What happened?"
 
-"He's gone," said Hannah, and her voice shook. "He's gone, Eli. I turned round for two minutes."
+"He's gone," said Hannah, and her voice shook. "He's gone, Eli. I turned around for two minutes."
 
 "Okay." Eli put down the screws and grabbed his coat. "Okay. He can't have gone far. He's got no sense of direction and a very strong sense of smell. He'll have followed something."
 
@@ -1676,7 +1676,7 @@ Eli was on the front step with a box of screws in one hand and his mouth open in
 
 Tom Kowalski came running from the diner in his apron, his face white and his eyes wide, and within ten minutes half of Cutter Street had come out to help.
 
-Mrs. Ortiz organised the search with the efficiency of a general. She sent the florist up towards the church and the paper-shop woman down towards the river, and she dispatched the two sisters who made soap to the bins behind the diner, in case he had found the leftover roast chicken. Walt the pigeon man sat on his bench with his cap in his hands and told everybody who passed that he had seen a dog go past the library at about nine, going in the direction of the boatyard, and was quite certain it was not Biscuit, because Biscuit had never been that brave.
+Mrs. Ortiz organized the search with the efficiency of a general. She sent the florist up towards the church and the paper-shop woman down towards the river, and she dispatched the two sisters who made soap to the trash bins behind the diner, in case he had found the leftover roast chicken. Walt the pigeon man sat on his bench with his cap in his hands and told everybody who passed that he had seen a dog go past the library at about nine, going in the direction of the boatyard, and was quite certain it was not Biscuit, because Biscuit had never been that brave.
 
 "He's been brave since the day he arrived," said Tom, close to tears. "He chased a fox off the church steps last month. The vicar had to hold him back with both hands."
 
@@ -1696,7 +1696,7 @@ Hannah ran a hand over her face. She was shivering, though she had not noticed t
 
 They found him at the far end of the boatyard lot, behind the plywood fence where Pike Ridge had cleared the ground two summers ago.
 
-The fence had a gap at the corner, where someone had kicked out a panel, and the dog had squeezed through it. He was standing in the middle of a churned-up patch of mud with a broken chunk of old brick in his mouth, his tail wagging furiously, and beside him, half-buried in the frozen earth, was something long and grey and dripping, which turned out, on closer inspection, to be the handle of a rusted pump.
+The fence had a gap at the corner, where someone had kicked out a panel, and the dog had squeezed through it. He was standing in the middle of a churned-up patch of mud with a broken chunk of old brick in his mouth, his tail wagging furiously, and beside him, half-buried in the frozen earth, was something long and gray and dripping, which turned out, on closer inspection, to be the handle of a rusted pump.
 
 "Biscuit!" Hannah dropped to her knees in the mud and held out her arms. "You idiot. You absolute, glorious idiot. What have you done?"
 
@@ -1736,7 +1736,7 @@ Biscuit, who had lost interest in the wall and found a dropped sausage roll in t
 
 "Who?"
 
-Eli was silent for a moment, looking out over the grey, churning river.
+Eli was silent for a moment, looking out over the gray, churning river.
 
 "There's a man in Columbus," he said at last, "who inspected this wall for the state in 1994. He wrote a report, and it's in the county archives, and he was a friend of my father's. He once told Dad that if anyone ever tried to dig into that wall, he'd know by the sound of the drill." He turned back to her, and his expression was determined. "I'll call him tonight. And tomorrow morning, I'm going to take the dog to the county records office, because he's going to be the best witness we've got."
 
@@ -1750,7 +1750,7 @@ Hannah began to laugh, helplessly, through the cold and the mud and the lingerin
 \* \* \*
 :::
 
-They walked back up the hill together, with Biscuit trotting proudly in front of them carrying the sausage roll in his mouth and a clump of wet mud on one ear. At the top of the street, Tom Kowalski came running down from the diner, his face streaked with tears, and when he saw the dog, he dropped to his knees on the pavement and gathered him up in both arms, mud and sausage roll and all.
+They walked back up the hill together, with Biscuit trotting proudly in front of them carrying the sausage roll in his mouth and a clump of wet mud on one ear. At the top of the street, Tom Kowalski came running down from the diner, his face streaked with tears, and when he saw the dog, he dropped to his knees on the sidewalk and gathered him up in both arms, mud and sausage roll and all.
 
 "You stupid, stupid dog," he sobbed into the wet fur. "Don't you ever do that to me again."
 
@@ -1778,7 +1778,7 @@ She had baked for three days straight. Gingerbread men with currant eyes. Cinnam
 
 Eli had not come to the bakery all afternoon.
 
-He had come to her apartment that morning, of course. He had arrived at the back of the shop with the radiator parts, a thermos of coffee, and an expression of such careful neutrality that she had almost laughed. They had fixed the heating in a silence that was more companionable than awkward, passing tools back and forth, arguing about the right size of wrench. When it was done, he had stood up, wiped his hands, and said, "There. You're warm."
+He had come to the bakery that morning, of course. He had arrived at the back door with the radiator parts, a thermos of coffee, and an expression of such careful neutrality that she had almost laughed. They had fixed the heating in a silence that was more companionable than awkward, passing tools back and forth, arguing about the right size of wrench. When it was done, he had stood up, wiped his hands, and said, "There. You're warm."
 
 "Thank you," she had said.
 
@@ -1820,7 +1820,7 @@ She took the cup. Their fingers didn't touch this time, but she was aware of the
 
 "I mean it more this time."
 
-He looked at her then, really looked, and something in his face shifted. "Hannah," he said quietly. "About last night—"
+He looked at her then, really looked, and something in his face shifted. "Hannah," he said quietly. "About this morning—"
 
 "Eli!" someone called from the back of the stall. "We're out of paper cups!"
 
@@ -1868,7 +1868,7 @@ They sat on the back step of the bakery in the cold, the door propped open behin
 
 Hannah swallowed. "I don't know if I am."
 
-"You are," said Eli. "You've been here for three weeks, and you haven't left once. Not even when you should have."
+"You are," said Eli. "You've been here since the summer, and you haven't left once. Not even when you should have."
 
 She didn't answer. She leaned sideways, very slowly, until her shoulder was touching his. He did not move away. The night was cold, and the step was hard, and the dog snored, and the stars came out one by one over Cutter Street.
 
@@ -1890,17 +1890,17 @@ Eli laughed, low and rough, and put his hand over his eyes.
 
 # Chapter Nineteen: First Day, 1961
 
-The county archive kept its oldest photographs in a grey steel cabinet on the bottom floor, and Mrs. Ortiz had the key.
+The county archive kept its oldest photographs in a gray steel cabinet on the bottom floor, and Mrs. Ortiz had the key.
 
 "Your grandmother gave it to me in 1989," she said, unlocking the drawer with a flourish and a theatrical sigh. "She said she wanted me to have a copy of everything, in case she ever lost her memory, or her temper, or her lease. She was very dramatic about it. I said she was being ridiculous. She said I'd thank her one day."
 
 "Did you?"
 
-"I've thanked her every day since," said Mrs. Ortiz, and pulled out a grey cardboard box with the words *CUTTER ST — PERSONAL — DO NOT LOSE* written across the lid in faded blue ink. "Sit. We're going to look at the past. It's terribly boring, and it's going to make you cry."
+"I've thanked her every day since," said Mrs. Ortiz, and pulled out a gray cardboard box with the words *CUTTER ST — PERSONAL — DO NOT LOSE* written across the lid in faded blue ink. "Sit. We're going to look at the past. It's terribly boring, and it's going to make you cry."
 
 Hannah pulled up a chair beside her at the long oak table. It was the first week of December, and the reading room was almost empty, the radiators ticking softly and the windows fogged with the warmth of the old building. Biscuit, who had been forbidden entry to the archive by a stern notice on the door, was waiting patiently outside with Tom Kowalski, and every few minutes his face appeared at the glass with an expression of tragic, betrayed loyalty.
 
-Mrs. Ortiz lifted the lid of the box. Inside were dozens of photographs, black and white and fading to sepia, each one tucked into a paper sleeve, each one labelled in a careful hand.
+Mrs. Ortiz lifted the lid of the box. Inside were dozens of photographs, black and white and fading to sepia, each one tucked into a paper sleeve, each one labeled in a careful hand.
 
 "Nineteen sixty-one," said Mrs. Ortiz, and picked up the first sleeve.
 
@@ -1928,11 +1928,11 @@ She picked up another sleeve. This one showed a man in a cardigan standing in th
 
 Hannah looked up.
 
-"Manny Ortiz," said Mrs. Ortiz, "was the first baker's boy Dorothy ever hired. He was seventeen, and he couldn't tell a rye from a rolling pin, and he sang Spanish love songs in the back room at five in the morning until she threw a tea towel at him. Then he learned to bake, and he never stopped singing. He was the happiest man I ever met."
+"Manny Ortiz," said Mrs. Ortiz, "was the first baker's boy Dorothy ever hired. He was seventeen, and he couldn't tell a rye from a rolling pin, and he sang Spanish love songs in the back room at five in the morning until she threw a dish towels at him. Then he learned to bake, and he never stopped singing. He was the happiest man I ever met."
 
 "You were married to a baker?"
 
-"I was married to a baker for thirty-one years, and then I was married to a diner for twenty more," said Mrs. Ortiz, with a dry little smile. "Manny opened the diner across the road in 1974, when Dorothy said she didn't want to be the only place on the street that sold food. They were rivals and best friends for forty years. They argued about the price of eggs every morning. They never once argued about the bread."
+"I was married to a baker for thirty-one years, and since then I have been married to a diner," said Mrs. Ortiz, with a dry little smile. "Manny opened the diner across the road in 1974, when Dorothy said she didn't want to be the only place on the street that sold food. They were rivals and best friends for forty years. They argued about the price of eggs every morning. They never once argued about the bread."
 
 ::: {.scenebreak}
 \* \* \*
@@ -1956,7 +1956,7 @@ Hannah laughed through her tears. "She would do that."
 \* \* \*
 :::
 
-They worked through the rest of the box in silence. There were photographs of the bakery's first Christmas, with the children of the street crowding round the counter, and the first Winter Harvest, with the band playing on the church steps and the lamps strung across the road. There were pictures of Hollis Carver in his hardware store, leaning over a counter with his big hands folded and a look of quiet pride, and a photograph of him and Dorothy standing side by side outside the bakery, laughing at something beyond the frame.
+They worked through the rest of the box in silence. There were photographs of the bakery's first Christmas, with the children of the street crowding around the counter, and the first Winter Harvest, with the band playing on the church steps and the lamps strung across the road. There were pictures of Hollis Carver in his hardware store, leaning over a counter with his big hands folded and a look of quiet pride, and a photograph of him and Dorothy standing side by side outside the bakery, laughing at something beyond the frame.
 
 And at the very bottom of the box was a small, faded picture of a young woman with a little girl on her hip, standing on the bakery's front step. The girl had dark, serious eyes and a fierce little frown, and she was clutching a loaf of bread in both hands as though it might escape.
 
@@ -1994,7 +1994,7 @@ When they came out into the cold, the afternoon was already fading, and the lamp
 
 "Good," said Mrs. Ortiz. "Because then I'd have to do the Saturday market on my own, and I'm far too old for that. And I'd have to marry a baker, and there are none left in the county who can sing."
 
-Hannah laughed, and let herself be steered towards the diner's steamed-up window, and did not look back at the archive, where a grey box of photographs sat waiting in the dark, patiently holding the history of a street that had decided, at last, to stay.
+Hannah laughed, and let herself be steered towards the diner's steamed-up window, and did not look back at the archive, where a gray box of photographs sat waiting in the dark, patiently holding the history of a street that had decided, at last, to stay.
 
 # Chapter Twenty: Ledgers and Letters
 
@@ -2204,7 +2204,7 @@ The county records office occupied the second floor of a brick building that sme
 
 "Which one is the lie?" asked Hannah.
 
-"Usually the one the seller wrote." He flicked on the lights. Long oak tables stretched under the windows, each one stacked with grey archive boxes labelled in faded ink. "Your grandmother's file is in the back. I pulled everything recorded against 14 Cutter Street after 1961. Including the things that aren't deeds."
+"Usually the one the seller wrote." He flicked on the lights. Long oak tables stretched under the windows, each one stacked with gray archive boxes labeled in faded ink. "Your grandmother's file is in the back. I pulled everything recorded against 14 Cutter Street after 1961. Including the things that aren't deeds."
 
 Eli had not said much since the morning. He stood at the end of the nearest table with his hands in his coat pockets, looking at the boxes as if they might rearrange themselves if he stared hard enough. He had come, he said, because someone had to carry the heavy ones, and because he had not slept well since the letter.
 
@@ -2214,7 +2214,7 @@ Hannah sat down slowly.
 
 "What does an easement do?" she asked, though she was afraid she already knew.
 
-"It runs with the land," said Mr. Dorsey. "It's binding on every owner who comes after her, forever, unless the trust agrees to release it. The building can be sold, rented, repaired, painted any colour the city allows. But it cannot be demolished. It cannot be converted into anything that changes the front of the building or the back of the lot. And any commercial redevelopment of the block needs the trust's written consent."
+"It runs with the land," said Mr. Dorsey. "It's binding on every owner who comes after her, forever, unless the trust agrees to release it. The building can be sold, rented, repaired, painted any color the city allows. But it cannot be demolished. It cannot be converted into anything that changes the front of the building or the back of the lot. And any commercial redevelopment of the block needs the trust's written consent."
 
 "Pike's plan is a redevelopment," said Eli quietly.
 
@@ -2278,7 +2278,7 @@ Hannah pressed her finger to the photograph.
 
 "He was," said Eli, his voice rough. "He told me once that the happiest day of his life was the day he decided not to sell the store."
 
-When they finally carried the boxes back down the stairs and out into the cold, the sky over the river had turned a deep, bruised violet, and the lights were coming on along Cutter Street one by one. Eli stopped on the pavement and looked up at the bakery's sign, the red paint faded almost to pink above the door.
+When they finally carried the boxes back down the stairs and out into the cold, the sky over the river had turned a deep, bruised violet, and the lights were coming on along Cutter Street one by one. Eli stopped on the sidewalk and looked up at the bakery's sign, the red paint faded almost to pink above the door.
 
 "The Cutter Street Bakery," he read aloud. "Est. 1961."
 
@@ -2298,11 +2298,11 @@ Biscuit met them at the door, sneezing with joy, and Hannah bent down to rub his
 
 # Chapter Twenty-Three: Cracks Along the River
 
-The inspector from Columbus arrived on the second Monday of December in a grey state car, with a clipboard, a hard hat, and a pair of wellington boots so new they squeaked on the frozen ground.
+The inspector from Columbus arrived on the second Monday of December in a gray state car, with a clipboard, a hard hat, and a pair of rubber boots so new they squeaked on the frozen ground.
 
-His name was Dale Henner. He was sixty-three years old, thin as a rake, with a neat grey moustache and the quiet, unhurried manner of a man who had spent forty years listening to walls. He had inspected the mill race wall in 1994, when he was twenty-one years younger and had a full head of black hair, and he had been trying to find an excuse to come back ever since.
+His name was Dale Henner. He was sixty-three years old, thin as a rake, with a neat gray mustache and the quiet, unhurried manner of a man who had spent forty years listening to walls. He had inspected the mill race wall in 1994, when he was thirty-one and had a full head of black hair, and he had been trying to find an excuse to come back ever since.
 
-"I never forget a foundation," he said, shaking Eli's hand at the edge of the boatyard lot. "Your father bought me coffee every time I came through town. Terrible coffee. He'd apologise for it, and I'd say it was the best cup I'd had all year, and he'd laugh at me." He looked at the broken brick and the jagged crack, and his mouth tightened. "Show me the drill marks."
+"I never forget a foundation," he said, shaking Eli's hand at the edge of the boatyard lot. "Your father bought me coffee every time I came through town. Terrible coffee. He'd apologize for it, and I'd say it was the best cup I'd had all year, and he'd laugh at me." He looked at the broken brick and the jagged crack, and his mouth tightened. "Show me the drill marks."
 
 Hannah had never seen Eli so quiet. He led the inspector along the edge of the trench without speaking, pointing out the splintered stone and the raw, bright scars where something sharp had bitten into the old mortar. Dale Henner crouched down, ran his gloved fingers along the crack, and then put his ear almost to the stone, like a doctor listening for a heartbeat.
 
@@ -2324,25 +2324,25 @@ Hannah had never seen Eli so quiet. He led the inspector along the edge of the t
 \* \* \*
 :::
 
-They spent the rest of the morning on the bank. The inspector drilled three test holes with a hand auger, marking each sample with a careful number, and the cold wind blew the mud up in sheets across the boatyard lot until everyone's faces were grey.
+They spent the rest of the morning on the bank. The inspector drilled three test holes with a hand auger, marking each sample with a careful number, and the cold wind blew the mud up in sheets across the boatyard lot until everyone's faces were gray.
 
 Biscuit had been banned from the site by Dale Henner, who had taken one look at the dog and said that it was not a sensible place for an animal of such enthusiasm. The dog had sat on the bakery step for an hour in a state of noble, injured dignity. Hannah had brought him a sausage roll to make up for it, and he had accepted the bribe without any sign of forgiveness.
 
-At noon, Walt came down from the library with a flask of tea and a paper bag of biscuits, and stood at the edge of the trench with his cap in his hands, watching the inspector work.
+At noon, Walt came down from the library with a flask of tea and a paper bag of cookies, and stood at the edge of the trench with his cap in his hands, watching the inspector work.
 
 "Is it bad?" he asked quietly.
 
 "It's serious," said Eli. "The wall's been cracked for a few months. Maybe longer."
 
-Walt nodded slowly. He was silent for a long moment, looking at the grey river rushing past the boatyard, the water high and brown with the winter rain.
+Walt nodded slowly. He was silent for a long moment, looking at the gray river rushing past the boatyard, the water high and brown with the winter rain.
 
-"My wife's buried up on the hill," he said at last. "By the chapel. Her grave's on the bank side. She picked it herself, in 1981. She said she wanted to hear the river when she was dead." His voice was steady, but his hands shook as he turned the cap round. "If that wall goes, they'll move the graves. They always do. But I'd rather not have her moved. I'd rather she stayed where she could hear the water."
+"My wife's buried up on the hill," he said at last. "By the chapel. Her grave's on the bank side. She picked it herself, in 1981. She said she wanted to hear the river when she was dead." His voice was steady, but his hands shook as he turned the cap around. "If that wall goes, they'll move the graves. They always do. But I'd rather not have her moved. I'd rather she stayed where she could hear the water."
 
 Hannah felt the words go through her like cold water. She had not thought about the cemetery. She had not thought about the chapel, or the houses on the high side of the bank, or the children who played along the riverside path in summer. She had been so busy counting windows and bread and the price of the building that she had forgotten the river was there at all.
 
 "It won't go," she said, and her voice sounded stronger than she felt. "Not if we can help it."
 
-Walt looked at her for a long moment. Then he nodded, very slowly, and gave her one of his biscuits.
+Walt looked at her for a long moment. Then he nodded, very slowly, and gave her one of his cookies.
 
 ::: {.scenebreak}
 \* \* \*
@@ -2354,7 +2354,7 @@ By the end of the afternoon, the inspector had three cores in a plastic case and
 
 Hannah shook her head.
 
-"She sat in my office for two hours. She had a box of papers on her knees and a face like thunder. She said Pike had been trying to buy the block for years, and that his people had been poking round the bank, and she wanted to know whether the wall was safe." He smiled faintly. "I told her it was fine, but the mortar was going. I told her the bank would need work within five years. She said she'd find the money. And I think she did, because I never got a call about it."
+"She sat in my office for two hours. She had a box of papers on her knees and a face like thunder. She said Pike had been trying to buy the block for years, and that his people had been poking around the bank, and she wanted to know whether the wall was safe." He smiled faintly. "I told her it was fine, but the mortar was going. I told her the bank would need work within five years. She said she'd find the money. And I think she did, because I never got a call about it."
 
 "She paid for it," said Eli quietly.
 
@@ -2364,7 +2364,7 @@ He climbed into the driver's seat and wound down the window.
 
 "I'll see you in January," he said. "Make sure that dog doesn't eat my samples."
 
-The car pulled away, slowly, across the frozen ground, and Hannah stood on the edge of the boatyard lot with the cold biting through her coat and the grey river roaring behind her, and understood, at last, what her grandmother had been doing for the last five years of her life.
+The car pulled away, slowly, across the frozen ground, and Hannah stood on the edge of the boatyard lot with the cold biting through her coat and the gray river roaring behind her, and understood, at last, what her grandmother had been doing for the last five years of her life.
 
 She had been holding the street up, one bolt and one drawer and one quiet phone call at a time.
 
@@ -2376,7 +2376,7 @@ Behind them, Biscuit barked once, sharply, from the far side of the fence, where
 
 # Chapter Twenty-Four: Chicago, Again
 
-The offer arrived on a Tuesday, in a cream-coloured envelope with a gold foil crest, and Hannah read it standing up in the kitchen with a tray of cinnamon rolls cooling on the counter behind her.
+The offer arrived on a Tuesday, in a cream-color envelope with a gold foil crest, and Hannah read it standing up in the kitchen with a tray of cinnamon rolls cooling on the counter behind her.
 
 *Dear Hannah,* it began. *We have followed your career with great admiration. Pike Ridge Development has retained our firm for its Cutter Street launch event, and we would be delighted to offer you the role of Senior Director, Client Experience, effective January. Salary commensurate with your extraordinary track record.*
 
@@ -2406,7 +2406,7 @@ Hannah named the number. There was a long silence.
 
 "Are you going to take it?"
 
-"I don't know," said Hannah, and realised as she said it that it was the truth. "Part of me wants to. It would be so easy. I'd know exactly what I was good at. I'd know exactly who to be in the room. I wouldn't have to wonder if I was going to fail at something that mattered."
+"I don't know," said Hannah, and realized as she said it that it was the truth. "Part of me wants to. It would be so easy. I'd know exactly what I was good at. I'd know exactly who to be in the room. I wouldn't have to wonder if I was going to fail at something that mattered."
 
 "You're not going to fail at the bakery."
 
@@ -2432,7 +2432,7 @@ She had texted him from the platform. *Going to Chicago for a meeting. Back Frid
 
 His reply had come almost at once. *Okay.*
 
-Then, a minute later: *Be careful on the train. The heating's terrible on the second carriage, I checked it once. Don't let them give you a cold seat.*
+Then, a minute later: *Be careful on the train. The heating's terrible on the second car, I checked it once. Don't let them give you a cold seat.*
 
 She had laughed, alone on the platform, and then felt a sharp, unexpected pang of something that was not quite homesickness, because she was going to a city she had once thought was home, and it was the first time she had ever wanted to be somewhere else.
 
@@ -2450,11 +2450,11 @@ Marian's smile faltered, just slightly. "It's a marketing story, sweetheart. Eve
 
 "I used to know it," said Hannah. "I'm not sure I believe it anymore."
 
-She closed the brief and set it on the table between them. Outside, the lake was grey and endless, and a single freighter crawled across the horizon like a slow, patient animal.
+She closed the brief and set it on the table between them. Outside, the lake was gray and endless, and a single freighter crawled across the horizon like a slow, patient animal.
 
 "Do you know what Pike's doing on Cutter Street?" she asked.
 
-"I know he's buying the block," said Marian carefully. "I know he's got a town meeting next month and a lot of very eager local partners. I know the old bakery is the last holdout."
+"I know he's buying the block," said Marian carefully. "I know he's got a second town meeting next month and a lot of very eager local partners. I know the old bakery is the last holdout."
 
 "I'm the last holdout," said Hannah. "The bakery's just the building."
 
@@ -2478,9 +2478,9 @@ The meeting ended with an offer, a handshake, and a promise to think it over unt
 \* \* \*
 :::
 
-She sat on a bench by the river for an hour afterwards, watching the ice break up under the bridge and drift away in grey, glittering plates. She thought about the first time she had walked into the firm's offices, twenty-two years old and terrified, with a suitcase full of borrowed dresses and a head full of ambition. She thought about the galas she had planned, the champagne towers and the dazzling lights, the speeches she had written for people who did not believe a single word of them. She thought about her grandmother standing at the oven at five in the morning, humming badly, with flour on her cheek and a cup of tea going cold on the sill.
+She sat on a bench by the river for an hour afterwards, watching the ice break up under the bridge and drift away in gray, glittering plates. She thought about the first time she had walked into the firm's offices, twenty-two years old and terrified, with a suitcase full of borrowed dresses and a head full of ambition. She thought about the galas she had planned, the champagne towers and the dazzling lights, the speeches she had written for people who did not believe a single word of them. She thought about her grandmother standing at the oven at five in the morning, humming badly, with flour on her cheek and a cup of tea going cold on the sill.
 
-She thought about Eli saying *I'm the one who had to open it.*
+She thought about Eli saying *I'd be the one who had to open it.*
 
 Her phone buzzed in her coat pocket. A photo, sent without a message. The inside of the bakery at dusk, the lights low, a tray of rolls on the counter and Biscuit asleep across the doorway, one paw twitching in a dream. Eli's thumb was visible in the corner of the frame, pressed over the lens by accident.
 
@@ -2516,7 +2516,7 @@ He was quiet for a moment. Then he said, very softly, "That's a dangerous list."
 
 "I know."
 
-"Come on," said Eli, and turned towards the car park. "I've got a surprise. You'll hate it."
+"Come on," said Eli, and turned towards the parking lot. "I've got a surprise. You'll hate it."
 
 "What is it?"
 
@@ -2532,7 +2532,7 @@ Hannah stopped in the middle of the platform, snow settling on her hair.
 \* \* \*
 :::
 
-The millpond sat at the edge of town, behind the old grain mill and the line of frosted willows, and by seven o'clock the whole village seemed to have made its way down the snowy footpath with thermoses and torches and a battered portable speaker playing old Motown songs. A dozen children were already flying across the ice in mismatched boots, shrieking with delight. A few older couples stood near the bonfire with their hands wrapped round paper cups, laughing at something the vicar had just said.
+The millpond sat at the edge of town, behind the old grain mill and the line of frosted willows, and by seven o'clock the whole village seemed to have made its way down the snowy footpath with thermoses and torches and a battered portable speaker playing old Motown songs. A dozen children were already flying across the ice in mismatched boots, shrieking with delight. A few older couples stood near the bonfire with their hands wrapped around paper cups, laughing at something the vicar had just said.
 
 Eli had brought two pairs of skates from the back of the hardware store, old, scuffed things with leather laces and blades that had been sharpened so often they had gone thin as knives.
 
@@ -2542,13 +2542,13 @@ Eli had brought two pairs of skates from the back of the hardware store, old, sc
 
 "It's the only advice I've got."
 
-She sat on a log by the fire and laced them up, badly, while Eli knelt beside her and redid the knots with quick, practised fingers. When he finished, he looked up at her, and she saw that his face was flushed from the cold and that he was trying very hard not to smile.
+She sat on a log by the fire and laced them up, badly, while Eli knelt beside her and redid the knots with quick, practiced fingers. When he finished, he looked up at her, and she saw that his face was flushed from the cold and that he was trying very hard not to smile.
 
 "What?" she said.
 
 "You look like a deer that's been told it's going to be on the news."
 
-"That's the cruellest thing you've ever said to me."
+"That's the cruelest thing you've ever said to me."
 
 "It's the truest." He stood up and held out his hand. "Trust me."
 
@@ -2566,7 +2566,7 @@ He pulled her onto the ice. She wobbled, flailed, and grabbed at his coat, and h
 
 "It's the only one that works."
 
-They went round the edge of the pond, slowly, her hands locked in his and her ankles wobbling like a newborn foal. The children whizzed past. The bonfire crackled and popped. The music drifted across the water, a soft, sweet crooning that made the whole scene feel like the inside of an old photograph.
+They went around the edge of the pond, slowly, her hands locked in his and her ankles wobbling like a newborn foal. The children whizzed past. The bonfire crackled and popped. The music drifted across the water, a soft, sweet crooning that made the whole scene feel like the inside of an old photograph.
 
 On the third lap, she stopped trying to stay upright and simply let herself lean on him.
 
@@ -2578,7 +2578,7 @@ On the third lap, she stopped trying to stay upright and simply let herself lean
 
 "What happened in your first winter?"
 
-"I broke my wrist and my mother laughed so hard she had to sit down on the ice." He said it lightly, the way people speak about things that still hurt a little. "Then she left in the spring, and I didn't see her again until I was twenty-two. She sent a postcard from Florida once. It said *sorry about the wrist*."
+"I broke my wrist and my mother laughed so hard she had to sit down on the ice." He said it lightly, the way people speak about things that still hurt a little. "Then she left in the spring, when I was nine, and I didn't see her again until I was twenty-two. She sent a postcard from Florida once. It said *sorry about the wrist*."
 
 Hannah was quiet for a moment, her hands tight on his.
 
@@ -2636,7 +2636,7 @@ They walked back to Cutter Street together afterwards, with their skates slung o
 
 "He's been waiting for you to come home. He's not the only one."
 
-She stopped on the pavement and looked at him, and he looked back, and for once neither of them found anything to say that needed saying.
+She stopped on the sidewalk and looked at him, and he looked back, and for once neither of them found anything to say that needed saying.
 
 She kissed him again, on the step, under the faded red sign of *The Cutter Street Bakery*, and the dog barked once, happily, as if he had been waiting his whole life for someone to finally get on with it.
 
@@ -2668,7 +2668,7 @@ Eli, who had come in through the back door with a box of wire and an expression 
 
 By ten o'clock, the bakery's kitchen table was covered with sign-up sheets, and the phone had not stopped ringing.
 
-The vicar called, asking whether the church could be a collection point for the Saturday loaves. Jess called from Dayton, demanding to know whether the surprise monthly item could be a cinnamon roll shaped like a dog. The woman who ran the library called to ask whether she could have twelve loaves for the reading group, and whether the bread would still be warm if she came at eleven. The owner of the hardware store across the road called to say that he did not want bread, but he had a shelf in his window that was empty and would Hannah like to fill it with a basket of rolls, with a sign that said *Dorothy's Recipe*, and would she please not tell anyone he had been crying about it.
+The vicar called, asking whether the church could be a collection point for the Saturday loaves. Jess called from Dayton, demanding to know whether the surprise monthly item could be a cinnamon roll shaped like a dog. The woman who ran the library called to ask whether she could have twelve loaves for the reading group, and whether the bread would still be warm if she came at eleven. The woman who ran the paper shop called to say that she did not want bread, but she had a shelf in her window that was empty, and would Hannah like to fill it with a basket of rolls, with a sign that said *Dorothy's Recipe*, and would she please not tell anyone she had been crying about it.
 
 Hannah put the phone down, very carefully, and wiped her eyes on the back of her wrist.
 
@@ -2680,7 +2680,7 @@ Hannah put the phone down, very carefully, and wiped her eyes on the back of her
 
 "I've never been very good at being looked after."
 
-"I noticed." He crossed the kitchen in three long strides and put his arms round her from behind, resting his chin on her shoulder. He smelled of cold metal and wet concrete and the faintly sweet scent of the coffee she had burned that morning. "You're getting better, though."
+"I noticed." He crossed the kitchen in three long strides and put his arms around her from behind, resting his chin on her shoulder. He smelled of cold metal and wet concrete and the faintly sweet scent of the coffee she had burned that morning. "You're getting better, though."
 
 "Am I?"
 
@@ -2702,7 +2702,7 @@ The second, they sold out in twenty-five, and somebody from the regional paper c
 
 By the third Saturday, the Bread Club had two hundred and twelve members, a waiting list of forty-one, a monthly newsletter written by the vicar's wife, and a cinnamon roll shaped like a dog that Biscuit had tried to steal twice.
 
-Hannah had not expected any of it. She had expected a few neighbours, a few sympathetic customers, a handful of people who came in out of pity and left out of habit. She had not expected the bakery's back room to fill with the warm, noisy bustle of people carrying bags and boxes and asking after her grandmother, or the way the old men on the bench outside would tip their caps when she walked past, or the children who pressed their noses to the glass and begged for a glimpse of the enormous, golden-brown loaves on the racks.
+Hannah had not expected any of it. She had expected a few neighbors, a few sympathetic customers, a handful of people who came in out of pity and left out of habit. She had not expected the bakery's back room to fill with the warm, noisy bustle of people carrying bags and boxes and asking after her grandmother, or the way the old men on the bench outside would tip their caps when she walked past, or the children who pressed their noses to the glass and begged for a glimpse of the enormous, golden-brown loaves on the racks.
 
 She had not expected to feel, every single morning, that she was exactly where she was supposed to be.
 
@@ -2818,7 +2818,7 @@ The waitress came over with a pot of fresh coffee, and Pike poured a cup for Han
 
 "You had Bridget Sloane digging into the trust records."
 
-"I did. That was a mistake. I thought the easement was a technicality that a good lawyer could get round." He looked out of the window, at the frosted street and the bakery's gold-leaf letters glinting in the thin winter light. "Then I met your Mr. Dorsey, who has the most irritating courtroom manner I've ever encountered, and I realised that the easement was not a technicality at all. It was a promise. And your grandmother and Hollis Carver made it in blue ink, in front of witnesses, and they meant it."
+"I did. That was a mistake. I thought the easement was a technicality that a good lawyer could get around." He looked out of the window, at the frosted street and the bakery's faded red letters glinting in the thin winter light. "Then I met your Mr. Dorsey, who has the most irritating courtroom manner I've ever encountered, and I realized that the easement was not a technicality at all. It was a promise. And your grandmother and Hollis Carver made it in blue ink, in front of witnesses, and they meant it."
 
 "And the drill marks on the river wall?"
 
@@ -2862,7 +2862,7 @@ Pike was silent for a long time.
 
 Then he reached into the inside pocket of his camel coat and took out a folded sheet of paper, thin and yellowed and worn soft at the creases. He placed it on the table between them, carefully, the way he might have placed a card on a poker table.
 
-It was in her grandmother's handwriting. Hannah recognised it at once.
+It was in her grandmother's handwriting. Hannah recognized it at once.
 
 *Garrett,* it read. *You are not a bad man. You are a lonely one, which is worse, because it is so much easier to fix. Go home. Put down the spreadsheet. Ask somebody what they want for supper. And then, for heaven's sake, eat it. — D.B.*
 
@@ -2910,7 +2910,7 @@ The invitation came in Mrs. Ortiz's handwriting, on a card decorated with a smal
 
 The back room of the hardware store had been transformed. Someone, probably Mrs. Ortiz, had strung a line of fairy lights across the ceiling beams, and the old oak table had been dragged out from under a tower of paint tins and covered with a checked cloth. There were mismatched chairs from the diner, a bench from the library, and a stool that Walt had carried over in his arms with the air of a man bringing the Crown Jewels.
 
-At one o'clock precisely, Mrs. Ortiz arrived in a red coat, carrying a bottle of wine in each hand and a tray of enchiladas balanced on top of her handbag. She took one look at the kitchen, where Eli was standing over a roasting tin with a tea towel over one shoulder and a face of grim determination, and put both bottles down on the table with a heavy thump.
+At one o'clock precisely, Mrs. Ortiz arrived in a red coat, carrying a bottle of wine in each hand and a tray of enchiladas balanced on top of her handbag. She took one look at the kitchen, where Eli was standing over a roasting tin with a dish towels over one shoulder and a face of grim determination, and put both bottles down on the table with a heavy thump.
 
 "Well," she said. "It's on fire."
 
@@ -2932,13 +2932,13 @@ Eli opened the oven door, released a cloud of blue smoke that made everybody cou
 
 Walt arrived at quarter past one, with his pigeons, as he put it, although he had left them outside. He sat down at the table, took off his cap, and declared the smell of smoke to be the finest aroma he had encountered since the Winter Harvest of 1982.
 
-Edna Price came up the lane with a basket of winter greens from her allotment, and a jar of honey that she set on the table with an air of having been very generous and wanting it noticed. She looked at the roast, then at Eli, then at Hannah, and said, "You'll want to carve it thinly. It's the only way to hide the charcoal."
+Edna Price came up the lane with a basket of winter greens from her garden plot, and a jar of honey that she set on the table with an air of having been very generous and wanting it noticed. She looked at the roast, then at Eli, then at Hannah, and said, "You'll want to carve it thinly. It's the only way to hide the charcoal."
 
 "Thank you, Edna," said Eli, weakly.
 
 "You're welcome," said Edna. "I always said your father should have been a chef. He never had the patience."
 
-Tom Kowalski arrived with Biscuit, a tray of rolls, and a bottle of cider he had brewed himself in his garage and which he would not allow anyone to call anything but "a fine drink." The vicar came last, in his second-best jumper, carrying a box of mince pies and a bunch of holly that he had clearly stolen from the churchyard hedge.
+Tom Kowalski arrived with Biscuit, a tray of rolls, and a bottle of cider he had brewed himself in his garage and which he would not allow anyone to call anything but "a fine drink." The vicar came last, in his second-best sweater, carrying a box of mince pies and a bunch of holly that he had clearly stolen from the churchyard hedge.
 
 By half past one, the back room was full of noise and steam and laughter, and the roast, rescued from the worst of the smoke by a combination of Mrs. Ortiz's brisk supervision and Hannah's better knife skills, had been carved and arranged on a platter with enough greens and honey and rosemary to disguise a multitude of sins.
 
@@ -2960,7 +2960,7 @@ After the meal, when the plates had been cleared and the cider was flowing and t
 
 The room went quiet.
 
-Walt looked round at the faces gathered in the warm glow of the fairy lights: the vicar, Edna, Tom with the dog asleep at his feet, Mrs. Ortiz with her arms folded, Eli standing by the stove with his tea towel, Hannah beside him with her hand on his arm.
+Walt looked around at the faces gathered in the warm glow of the fairy lights: the vicar, Edna, Tom with the dog asleep at his feet, Mrs. Ortiz with her arms folded, Eli standing by the stove with his dish towels, Hannah beside him with her hand on his arm.
 
 "My wife Margaret," said Walt, "used to say that the best meals in the world were the ones where nobody could remember who cooked them, because everybody was too busy talking." He cleared his throat, a little gruffly. "I think that's what happened here today. Eli burned the fat. Hannah saved the roast. And the rest of us stopped being strangers somewhere between the honey and the second bottle of wine."
 
@@ -3020,7 +3020,7 @@ Eli was quiet for a moment.
 
 The woman from the Pike office was not Bridget Sloane.
 
-She was younger, with a neat grey coat, a leather portfolio tucked under one arm, and the bright, careful smile of someone who had been told to be charming and was not sure how much charm would be enough. She introduced herself as Caroline Wu, Associate Counsel, and she sat down at the corner table with the air of a woman who expected to be interrupted.
+She was younger, with a neat gray coat, a leather portfolio tucked under one arm, and the bright, careful smile of someone who had been told to be charming and was not sure how much charm would be enough. She introduced herself as Caroline Wu, Associate Counsel, and she sat down at the corner table with the air of a woman who expected to be interrupted.
 
 Mrs. Ortiz set a cup of coffee in front of her and said, "Drink that. It's terrible. You'll feel better for it."
 
@@ -3060,7 +3060,7 @@ Eli had not moved from the doorway. His jaw was tight, and his hands were clench
 
 "Mr. Pike is aware of the trust," said Caroline Wu. "He believes the easement can be resolved through negotiation. He'd prefer to avoid a public fight. It's expensive for everyone."
 
-"He knew about it in the summer," said Hannah. "He had the clerk check whether it still existed. He sent his assistants round the county records office to see if anybody had ever read the trust deed. He's been trying to get round it since before I came home."
+"He knew about it in the summer," said Hannah. "He had the clerk check whether it still existed. He sent his assistants around the county records office to see if anybody had ever read the trust deed. He's been trying to get around it since before I came home."
 
 "That's a matter for counsel," said Caroline Wu, very evenly.
 
@@ -3076,7 +3076,7 @@ Caroline Wu was silent for a moment. Then she gathered the document back into he
 
 "I've made plenty," said Hannah. "This one's mine."
 
-Caroline Wu stood up and buttoned her grey coat. At the door, she paused, with one gloved hand on the frame, and looked back over her shoulder at Hannah with an expression that was not quite pity and not quite warmth.
+Caroline Wu stood up and buttoned her gray coat. At the door, she paused, with one gloved hand on the frame, and looked back over her shoulder at Hannah with an expression that was not quite pity and not quite warmth.
 
 "Mr. Pike asked me to say one more thing," she said. "He said to tell you that your grandmother's last letter to him was the most honest thing anyone's ever written to him. He's kept it. He reads it on Sundays."
 
@@ -3096,7 +3096,7 @@ She read it again. Then she took a pen from the mug on the desk and, before she 
 
 She stared at the words for a long time.
 
-Then she folded the invoice in half, put it in an envelope, addressed it to Marian Lowell at the firm's Michigan Avenue office, and walked it down to the post box on the corner in the freezing dark, without telling a single soul.
+Then she folded the invoice in half, put it in an envelope, addressed it to Marian Lowell at the firm's Michigan Avenue office, and walked it down to the mailbox on the corner in the freezing dark, without telling a single soul.
 
 It was the first secret she had kept since she came home.
 
@@ -3114,7 +3114,7 @@ The phone rang at nine-fifteen on Monday morning, while Hannah was upstairs chan
 
 He picked it up on the fourth ring, wiping his hands on a rag. "Cutter Street Bakery."
 
-"Oh, good, I was hoping to catch someone," said a bright, cool voice that Eli did not recognise. "This is Marian Lowell, from Lowell & Pierce in Chicago. I'm calling for Hannah Brooks. Is she available?"
+"Oh, good, I was hoping to catch someone," said a bright, cool voice that Eli did not recognize. "This is Marian Lowell, from Lowell & Pierce in Chicago. I'm calling for Hannah Brooks. Is she available?"
 
 Eli stood very still, the rag pressed in one fist.
 
@@ -3186,7 +3186,7 @@ Hannah said nothing.
 
 "You don't understand what it's like—"
 
-"I understand exactly what it's like." His voice cracked on the last word, and he stopped, and pressed his fist against his mouth. When he took it away, his face was white. "I understand what it's like to watch someone you care about walk out the door and tell you it's temporary. My mother said that. *Just a few weeks, Eli, I'll be back before the spring.* She had a suitcase by the door when I came down for breakfast, and she'd put a note on the counter that said she was sorry about the wrist."
+"I understand exactly what it's like." His voice cracked on the last word, and he stopped, and pressed his fist against his mouth. When he took it away, his face was white. "I understand what it's like to watch someone you care about walk out the door and tell you it's temporary. My mother said that. *Just a few weeks, Eli, I'll be back before the spring.* She had a suitcase by the door when I came down for breakfast, and she'd left a note on the counter that said she was sorry."
 
 Hannah's throat tightened. "Eli—"
 
@@ -3216,7 +3216,7 @@ The kitchen was very quiet. Upstairs, a pipe knocked twice and went still.
 
 "Then tell me you'll think about it," he said. "Tell me it's not already done."
 
-She opened her mouth to answer. She thought of the envelope dropping through the post box slot, the soft, final sound it made. She thought of Marian's bright, cool voice on the phone, and the badge that would be ready in the second week, and the apartment in Chicago she had not yet given up, with its cold white tiles and its beautiful view of nothing at all.
+She opened her mouth to answer. She thought of the envelope dropping through the mailbox slot, the soft, final sound it made. She thought of Marian's bright, cool voice on the phone, and the badge that would be ready in the second week, and the apartment in Chicago she had not yet given up, with its cold white tiles and its beautiful view of nothing at all.
 
 She could not make herself say the words.
 
@@ -3236,7 +3236,7 @@ He paused on the threshold, one hand on the frame, the way he had on the first n
 
 Then the back door closed, and the bell over the front of the shop gave a faint, trembling ring, as if someone had moved too quickly past it on the way out.
 
-Hannah stood alone in the warm kitchen, with the towels on the table and the dough breathing softly under its cloth. She picked up the phone, looked at Marian's number on the screen, and then put it down again without dialling.
+Hannah stood alone in the warm kitchen, with the towels on the table and the dough breathing softly under its cloth. She picked up the phone, looked at Marian's number on the screen, and then put it down again without dialing.
 
 Biscuit came in from the front of the shop, looked at her, looked at the back door, and sat down heavily on her foot, as if to make sure she did not follow.
 
@@ -3250,7 +3250,7 @@ She had been trying to write to Marian Lowell for an hour.
 
 She had started three times. The first draft had been polite and businesslike, the sort of letter she had written a hundred times for the firm. *Dear Marian, thank you for your generous offer. Unfortunately, I have decided to remain in Ohio.* She had crossed it out before she reached the end of the first line, because it sounded like a rejection letter from a university.
 
-The second draft had been angry. *Marian, you should have asked me. You should have known. You knew me better than anyone, and you still thought I'd sell my grandmother's bakery to Garrett Pike for a relocation package.* She had torn that one into four pieces and dropped them into the bin.
+The second draft had been angry. *Marian, you should have asked me. You should have known. You knew me better than anyone, and you still thought I'd sell my grandmother's bakery to Garrett Pike for a relocation package.* She had torn that one into four pieces and dropped them into the trash can.
 
 The third draft had said nothing at all, except a single line in the middle of the page, written very small. *I'm sorry I didn't tell you the truth.* It was not to Marian. It was to herself.
 
@@ -3272,7 +3272,7 @@ Her phone buzzed on the table beside her. It was Jess.
 
 "Oh, God," said Jess. "Is it the one about the badge?"
 
-"It's the one about everything," said Hannah, and rubbed her eyes. "I told Eli. About the offer. About the letter I sent in October. I told him I was going to call Marian in the morning and tell her no. And then I didn't call her. I sat in this kitchen and I cried for an hour and then I went back to bed."
+"It's the one about everything," said Hannah, and rubbed her eyes. "I told Eli. About the offer. About the letter I sent last week. I told him I was going to call Marian in the morning and tell her no. And then I didn't call her. I sat in this kitchen and I cried for an hour and then I went back to bed."
 
 Jess was silent for a moment.
 
@@ -3310,7 +3310,7 @@ She picked up the pen again, and this time she did not try to make it sound like
 
 *I thought I was the only one who could save that place. I was wrong. The street saved me first.*
 
-*I don't expect you to understand. But you taught me, a long time ago, that the best thing you can do for someone is to tell them the truth. So here it is. I'm staying. I'm sorry I took so long to say it. I hope you find someone better than me to run your launch party. They will be very lucky, and they will probably be more organised than I ever was.*
+*I don't expect you to understand. But you taught me, a long time ago, that the best thing you can do for someone is to tell them the truth. So here it is. I'm staying. I'm sorry I took so long to say it. I hope you find someone better than me to run your launch party. They will be very lucky, and they will probably be more organized than I ever was.*
 
 *With love, and with more gratitude than I know how to say,*
 
@@ -3320,25 +3320,25 @@ She read it through once. Then she read it again. Her hands were shaking, and he
 
 It was not the letter she had wanted to write. It was the one she had been afraid to send.
 
-She folded it into an envelope, sealed it, and wrote Marian's name across the front in careful capitals. Then she sat for a long time with her hand resting on the envelope, listening to the freezer hum and the radiator tick and the first grey light beginning to creep up over the roofs of Cutter Street.
+She folded it into an envelope, sealed it, and wrote Marian's name across the front in careful capitals. Then she sat for a long time with her hand resting on the envelope, listening to the freezer hum and the radiator tick and the first gray light beginning to creep up over the roofs of Cutter Street.
 
 ::: {.scenebreak}
 \* \* \*
 :::
 
-At six o'clock, she went down the stairs in her coat, with the envelope in one hand and the dog's lead in the other, and walked out into the cold.
+At six o'clock, she went down the stairs in her coat, with the envelope in one hand and the dog's leash in the other, and walked out into the cold.
 
-Biscuit had been waiting for her by the door. He trotted beside her down the frosty pavement, his breath steaming in the air, and did not once try to sniff anything, which she took as a sign of genuine emotional crisis.
+Biscuit had been waiting for her by the door. He trotted beside her down the frosty sidewalk, his breath steaming in the air, and did not once try to sniff anything, which she took as a sign of genuine emotional crisis.
 
 She posted the letter in the box on the corner, and heard it land with a soft, final sound, and this time she did not feel the cold weight of a secret settling in her chest. She felt light, and clear, and strangely calm, as though she had finally put down something she had been carrying up a hill for a very long time.
 
 Across the road, the lights were already on in the back of the hardware store.
 
-Hannah stood on the pavement for a moment, looking at them. Then she pulled the dog's lead gently, and crossed the road, and went round to the back door, where she knew Eli would be standing with a mug of terrible coffee in his hand, staring at the freezer as though it had personally offended him.
+Hannah stood on the sidewalk for a moment, looking at them. Then she pulled the dog's leash gently, and crossed the road, and went around to the back door, where she knew Eli would be standing with a mug of terrible coffee in his hand, staring at the freezer as though it had personally offended him.
 
 She knocked twice.
 
-The door opened almost at once. He was wearing a red wool scarf over an old grey jumper, and his hair was sticking up at the back, and his face when he saw her was so open and so relieved that she forgot, for a moment, what she had come to say.
+The door opened almost at once. He was wearing a red wool scarf over an old gray sweater, and his hair was sticking up at the back, and his face when he saw her was so open and so relieved that she forgot, for a moment, what she had come to say.
 
 "You're up early," said Eli.
 
@@ -3354,13 +3354,13 @@ Eli stared at her for a long moment. Then he set down the coffee mug on the near
 
 "I'm staying," said Hannah, and the words came out clear and steady and entirely her own. "I'm staying, Eli. I'm staying with the bread and the dog and the freezer that you fix every week because you don't know how to stop. I'm staying with you."
 
-He crossed the yard in three long strides, and did not say anything at all. He simply took her face in both his hands, his palms cold and rough and shaking very slightly, and kissed her, under the grey dawn sky, in full view of the dog, the freezer, and the whole of Cutter Street waking slowly around them.
+He crossed the yard in three long strides, and did not say anything at all. He simply took her face in both his hands, his palms cold and rough and shaking very slightly, and kissed her, under the gray dawn sky, in full view of the dog, the freezer, and the whole of Cutter Street waking slowly around them.
 
 Biscuit sat down on Hannah's foot with a deep, satisfied sigh and looked up at them both, as if to say that he had known all along, and had been waiting very patiently for them to notice.
 
 # Chapter Thirty-Two: The Night of the Blackout
 
-The storm came in off the river on the Wednesday before Thanksgiving, and by nine o'clock that evening, Cutter Street had lost its power.
+The storm came in off the river on the Wednesday before Christmas, and by nine o'clock that evening, Cutter Street had lost its power.
 
 It went all at once. One moment the streetlamps were burning gold through the sleet, and the diner's neon sign was humming in the window, and Hannah was standing at the sink with her hands in cold water, thinking about nothing except how tired she was. The next, the kitchen went black. The fridges fell silent. The oven's pilot light gave a faint, lonely hiss and went out, and somewhere far off, a car alarm started up and then stopped, as if it had thought better of it.
 
@@ -3370,7 +3370,7 @@ It went all at once. One moment the streetlamps were burning gold through the sl
 
 "Is it the whole street?"
 
-Hannah walked to the window and looked out. Across the road, the hardware store was dark. The diner was dark. The church was dark. The only light on Cutter Street was the thin, flickering beam of a single torch, moving slowly down the middle of the road, and it belonged to a man in a yellow hard hat who was walking towards the river with a clipboard under one arm and his collar turned up against the sleet.
+Hannah walked to the window and looked out. Across the road, the hardware store was dark. The diner was dark. The church was dark. The only light on Cutter Street was the thin, flickering beam of a single flashlight, moving slowly down the middle of the road, and it belonged to a man in a yellow hard hat who was walking towards the river with a clipboard under one arm and his collar turned up against the sleet.
 
 "It's the whole street," said Hannah, and her stomach turned to ice. "And it's the river side."
 
@@ -3378,7 +3378,7 @@ Hannah walked to the window and looked out. Across the road, the hardware store 
 \* \* \*
 :::
 
-Eli got there twenty minutes later, soaked to the skin, with a head torch strapped over his beanie and a face like thunder.
+Eli got there twenty minutes later, soaked to the skin, with a headlamp strapped over his beanie and a face like thunder.
 
 "Pike's crew cut the feeder line," he said, shaking water from his hair. "They were boring under the back lot for the drainage survey. They didn't bother to check the map, or they checked it and didn't care. Half the grid's down from the bridge to the diner."
 
@@ -3410,7 +3410,7 @@ She stared at him.
 \* \* \*
 :::
 
-The hardware store was cold and smelled of oil and paint thinner and old brick. Eli had lit the generator in the back room, and it clattered and coughed like an old man clearing his throat, but the light it threw was steady and yellow. He had dragged a folding table into the centre of the floor and covered it with clean sheets. In the corner, under a dusty tarpaulin, was an enormous black iron oven with a cast-iron door, its brick chimney running up through the ceiling.
+The hardware store was cold and smelled of oil and paint thinner and old brick. Eli had lit the generator in the back room, and it clattered and coughed like an old man clearing his throat, but the light it threw was steady and yellow. He had dragged a folding table into the center of the floor and covered it with clean sheets. In the corner, under a dusty tarpaulin, was an enormous black iron oven with a cast-iron door, its brick chimney running up through the ceiling.
 
 "It's bigger than I remembered," said Hannah.
 
@@ -3446,11 +3446,11 @@ She drew a breath. The fire crackled. Somewhere far off, the sleet hammered agai
 
 Eli did not move.
 
-"I sent the letter to Marian," she said. "The one about January. I wrote it on the back of an invoice because I was too scared to write it on paper, and I posted it on the corner, and I didn't tell you, because I was afraid that if I did, you'd look at me the way you're looking at me now. And I'd have to admit I didn't trust myself." Her voice wobbled. "I'm sorry. I'm so sorry. I should have said it on the first night, or the second, or any night since. You were right. You were always right. And I've been running away from it since I got off that plane."
+"I told Marian I'm staying," she said. "I wrote it down and posted it on the corner, and I should have told you to your face before I did. I was afraid that if I said it out loud, you'd look at me the way you're looking at me now. I'm sorry. I'm so sorry. I should have said it on the first night, or the second, or any night since. You were right. You were always right. And I've been running away from it since I got off that plane."
 
 He let out a breath that was almost a sob.
 
-"I'm not going to Chicago," said Hannah. "I'm going to call Marian in the morning and tell her no. I'm going to tell Pike's counsel that the building isn't for sale. I'm going to keep the door shut, Eli. Because I don't want it open anymore."
+"I'm not going to Chicago," said Hannah. "I've already told Marian no, and I meant it. Now I'm going to tell Pike's counsel that the building isn't for sale. I'm going to keep the door shut, Eli. Because I don't want it open anymore."
 
 He crossed the floor in three steps and knelt in front of her, his hands on her knees, his face very close to hers. There was soot on his cheekbone and a smudge of ash on his chin, and his eyes were wet and fierce.
 
@@ -3458,7 +3458,7 @@ He crossed the floor in three steps and knelt in front of her, his hands on her 
 
 "I'm sure."
 
-"Because I'm not going to pretend I'm not terrified," he said, low and rough. "I'm going to have nightmares about the freezer and the boiler and the goddamned feeder line for the rest of my life. And I'm going to keep fixing things that don't need fixing, and I'm going to burn the toast every single morning, and I'm going to be stubborn about the oven and bossy about the dog and I'm going to make you cold on purpose just to watch you put on your second sweater."
+"Because I'm not going to pretend I'm not terrified," he said, low and rough. "I'm going to have nightmares about the freezer and the boiler and the wretched feeder line for the rest of my life. And I'm going to keep fixing things that don't need fixing, and I'm going to burn the toast every single morning, and I'm going to be stubborn about the oven and bossy about the dog and I'm going to make you cold on purpose just to watch you put on your second sweater."
 
 "I know," she said. "I'm counting on it."
 
@@ -3470,9 +3470,9 @@ He laughed, a broken, helpless sound, and then he kissed her, slowly and with gr
 
 They baked until four in the morning.
 
-They shaped the dough by lantern light, and the flour flew up in clouds that made them both cough. They slid trays into the old oven with a wooden paddle, and the heat hit their faces like a wave. Mrs. Ortiz arrived at midnight with a flask of coffee so strong it made Hannah's eyes water, and she took one look at the state of the hardware store and said, "Well, I never," and then rolled up her sleeves and started shaping loaves without another word. Tom Kowalski came at one with a box of eggs and a tray of rolls he had made himself, badly, and nobody had the heart to tell him so. The vicar came at two, carrying a stack of tea towels, and was made to wash every tray twice.
+They shaped the dough by lantern light, and the flour flew up in clouds that made them both cough. They slid trays into the old oven with a wooden paddle, and the heat hit their faces like a wave. Mrs. Ortiz arrived at midnight with a flask of coffee so strong it made Hannah's eyes water, and she took one look at the state of the hardware store and said, "Well, I never," and then rolled up her sleeves and started shaping loaves without another word. Tom Kowalski came at one with a box of eggs and a tray of rolls he had made himself, badly, and nobody had the heart to tell him so. The vicar came at two, carrying a stack of dish towels, and was made to wash every tray twice.
 
-By the time the first grey light crept through the high, dusty windows of the store, there were three hundred loaves cooling on the racks along the back wall, and the smell of baking bread had filled every corner of the building.
+By the time the first gray light crept through the high, dusty windows of the store, there were three hundred loaves cooling on the racks along the back wall, and the smell of baking bread had filled every corner of the building.
 
 Hannah sat down on the floor, with her back against the paint tins and her hands black with soot and flour, and laughed until she cried.
 
@@ -3484,7 +3484,7 @@ Eli sat down beside her and put his head on her shoulder.
 
 "Same thing," said Eli, and fell asleep.
 
-When the power came back at seven, with a soft electric hum and a hundred little lights flickering on across the street, the first thing Hannah saw was the Bread Club queue, already curling round the corner of the church in the frosted dawn, with the vicar's wife at the front holding a clipboard and Mrs. Ortiz at the back with her arms folded, glaring at anyone who tried to cut in.
+When the power came back at seven, with a soft electric hum and a hundred little lights flickering on across the street, the first thing Hannah saw was the Bread Club line, already curling around the corner of the church in the frosted dawn, with the vicar's wife at the front holding a clipboard and Mrs. Ortiz at the back with her arms folded, glaring at anyone who tried to cut in.
 
 And on the window of the bakery, somebody had taped a sheet of paper, written in careful capitals in a hand that Hannah knew was Eli's: *TONIGHT WE BAKED THREE HUNDRED LOAVES BY HAND. NOBODY LOOKED AT THE OVEN. THE DOG WAS PERSONALLY INSULTED.*
 
@@ -3496,7 +3496,7 @@ The council chamber was packed to the walls by six o'clock, and the radiators co
 
 People stood along the back and down both side aisles. The vicar had brought a folding chair from the church and was sitting in it with his coat buttoned to the neck. Mrs. Ortiz had claimed the front row for the diner and was guarding it with her handbag. Tom Kowalski had brought Biscuit, despite a sign on the door forbidding dogs, and had explained to the doorman that the dog was an emotional support animal for the entire town, which was technically true, and the doorman had given up.
 
-Hannah sat in the second row, with her hands in her lap and Jess's arm pressed firmly against hers. Her sister had driven down from Dayton that morning, with her husband and two sleepy children in the back seat, and had hugged Hannah in the car park for so long that Hannah's ribs still ached.
+Hannah sat in the second row, with her hands in her lap and Jess's arm pressed firmly against hers. Her sister had driven down from Dayton that morning, with her husband and two sleepy children in the back seat, and had hugged Hannah in the parking lot for so long that Hannah's ribs still ached.
 
 "You're going to be fine," Jess had whispered. "You're going to be terrifying."
 
@@ -3504,7 +3504,7 @@ Hannah sat in the second row, with her hands in her lap and Jess's arm pressed f
 
 "You're going to be magnificent. Eli's going to be sick. You're going to hold his hand and tell him he's magnificent too."
 
-Eli sat at the front of the room, at a long table beside Mr. Dorsey, with a stack of papers in front of him and a glass of water he had not touched. He wore a dark grey suit that Hannah had never seen before, and it fitted him slightly too well across the shoulders, as if somebody had altered it in a hurry. His hair was still damp from the shower, and he kept pushing it back off his forehead with one hand.
+Eli sat at the front of the room, at a long table beside Mr. Dorsey, with a stack of papers in front of him and a glass of water he had not touched. He wore a dark gray suit that Hannah had never seen before, and it fitted him slightly too well across the shoulders, as if somebody had altered it in a hurry. His hair was still damp from the shower, and he kept pushing it back off his forehead with one hand.
 
 Every few minutes, he glanced across the room at Hannah. And every time he did, he gave her a small, nervous, lopsided smile that made her want to climb over the chairs and hold him.
 
@@ -3514,11 +3514,11 @@ Across the aisle, Garrett Pike sat with his lawyers, looking immaculate. Beside 
 
 The room went very quiet.
 
-Garrett Pike's lawyer rose first, a tall, thin man in a navy tie who spoke as if he were reading a menu aloud. He argued that the trust was dormant, that its original trustee had died more than thirty years ago, and that its surviving seat had never been formally filled. He argued that the easement was an historical oddity, unenforceable in practice, and that Mr. Pike's amended plan preserved the building's facade and therefore honoured the spirit of the agreement. He argued for twelve minutes and sat down to a murmur of uneasy approval.
+Garrett Pike's lawyer rose first, a tall, thin man in a navy tie who spoke as if he were reading a menu aloud. He argued that the trust was dormant, that its original trustee had died more than thirty years ago, and that its surviving seat had never been formally filled. He argued that the easement was an historical oddity, unenforceable in practice, and that Mr. Pike's amended plan preserved the building's facade and therefore honored the spirit of the agreement. He argued for twelve minutes and sat down to a murmur of uneasy approval.
 
 Then Mr. Dorsey stood.
 
-"The trust is not dormant," he said, in his dry, precise voice. "The trust has had two trustees since 1990, and since the death of the second, it has had one. That trustee is present in this room." He turned, and every head in the chamber turned with him. "Mr. Eli Carver, son of the late Hollis Carver, was appointed under section six of the trust deed in October. The appointment was witnessed. The records are on file. I have copies for the council."
+"The trust is not dormant," he said, in his dry, precise voice. "The trust has had two trustees since 1990, and since the death of the second, it has had one. That trustee is present in this room." He turned, and every head in the chamber turned with him. "Mr. Eli Carver, son of the late Hollis Carver, was appointed under section six of the trust deed in December. The appointment was witnessed. The records are on file. I have copies for the council."
 
 He passed a stack of papers to the clerk. The clerk passed them to the mayor, who read the first page with a faint frown, as if he had been hoping very hard that it would not be true.
 
@@ -3582,7 +3582,7 @@ He sat down. The room was silent, and the mayor cleared his throat, and then, af
 \* \* \*
 :::
 
-They met afterwards in the car park, in the bitter cold, under a flickering lamp that buzzed like a trapped insect.
+They met afterwards in the parking lot, in the bitter cold, under a flickering lamp that buzzed like a trapped insect.
 
 Eli was still in his suit. He had loosened his tie and taken off his coat, and his shirt was damp at the collar, and he looked as if he had just run a marathon and then been asked to explain it.
 
@@ -3594,7 +3594,7 @@ Eli was still in his suit. He had loosened his tie and taken off his coat, and h
 
 "Then I'll hold your hair back," said Hannah, "and tell the mayor you're getting into character."
 
-He laughed, weakly, and then pulled her into his arms, right there in the middle of the car park, with the lamp buzzing overhead and Jess's car pulling out of the space beside them, and the sound of voices drifting from the steps of the council chamber. He held her tightly, his face buried in her hair.
+He laughed, weakly, and then pulled her into his arms, right there in the middle of the parking lot, with the lamp buzzing overhead and Jess's car pulling out of the space beside them, and the sound of voices drifting from the steps of the council chamber. He held her tightly, his face buried in her hair.
 
 "You were brilliant," she said, muffled against his shirt.
 
@@ -3614,7 +3614,7 @@ He pulled back, just enough to look at her. His eyes were red-rimmed and very br
 
 "What happens next?" he asked.
 
-"Jess is going to drive us to the diner," said Hannah, "and Mrs. Ortiz is going to buy us both a plate of chips and tell us we were terrible, and then we're going to go back to Cutter Street and sleep for twelve hours."
+"Jess is going to drive us to the diner," said Hannah, "and Mrs. Ortiz is going to buy us both a plate of fries and tell us we were terrible, and then we're going to go back to Cutter Street and sleep for twelve hours."
 
 "That sounds like a very good plan."
 
@@ -3642,7 +3642,7 @@ Bridget sat down heavily and set the folder on the table. It was worn at the cor
 
 "And did you?"
 
-"I made them feel nervous," said Bridget. "That was the part Pike liked best. He said nervous people sign things faster." She gave a short, bitter laugh. "I'm very good at it. I could make your grandmother's neighbours believe the water supply was going to be cut off if they didn't sell their houses by Easter. I did it in two other towns. I'm not proud of it."
+"I made them feel nervous," said Bridget. "That was the part Pike liked best. He said nervous people sign things faster." She gave a short, bitter laugh. "I'm very good at it. I could make your grandmother's neighbors believe the water supply was going to be cut off if they didn't sell their houses by Easter. I did it in two other towns. I'm not proud of it."
 
 The kettle began to whistle. Hannah poured the water into two mugs and set one in front of Bridget, who wrapped both hands around it without drinking.
 
@@ -3658,7 +3658,7 @@ Hannah froze.
 
 "No," said Bridget. "I'm here because of what was in the file."
 
-She opened the folder at last and turned it round so Hannah could see. The first page was a memorandum, typed on heavy paper, dated the previous March. It was headed *Cutter Street Acquisition — Strategy*, and beneath it were columns of figures, timelines, and names.
+She opened the folder at last and turned it around so Hannah could see. The first page was a memorandum, typed on heavy paper, dated the previous March. It was headed *Cutter Street Acquisition — Strategy*, and beneath it were columns of figures, timelines, and names.
 
 Hannah's eye went down the page, and stopped on a line near the bottom.
 
@@ -3666,7 +3666,7 @@ Hannah's eye went down the page, and stopped on a line near the bottom.
 
 "That's not what I think it is," said Hannah, very quietly.
 
-"It's exactly what it is," said Bridget. "Pike knew about the trust. He's known since before he bought the first building on the block. His father knew about it too. Hollis Carver's loan from 1989 was the first thing the Pike family ever tried to buy on Cutter Street. They bought the note from a bank in Columbus, hoping to foreclose on the store if the Brooks bakery defaulted. Hollis paid it off before they could. He paid it in cash, and he told the Pike lawyer to go to hell in writing."
+"It's exactly what it is," said Bridget. "Pike knew about the trust. He's known since before he bought the first building on the block. His father knew about it too. Hollis's 1989 loan to Dorothy was the first thing the Pike family ever tried to buy on Cutter Street. Pike's father bought the bakery's back debts from a bank in Columbus, hoping to foreclose if the Brooks bakery defaulted. Hollis paid them off before they could. He paid in cash, and he told the Pike lawyer to take a running jump in writing."
 
 Hannah stared at her.
 
@@ -3730,7 +3730,7 @@ When Eli came in through the back door an hour later, stamping snow off his boot
 
 "Bridget came," he said. It was not a question.
 
-"She brought the memo," said Hannah. "And the file. Pike's father bought Hollis's note in 1989. He tried to foreclose on Gran. Hollis paid it off in cash and told the Pike lawyer to go to hell."
+"She brought the memo," said Hannah. "And the file. Pike's father bought Gran's back debts in 1989. He tried to foreclose on her. Hollis paid them off in cash and told the Pike lawyer to take a running jump."
 
 Eli sat down slowly on the bench beside the door.
 
@@ -3748,7 +3748,7 @@ Eli laughed, the sound cracking a little at the edges, and reached for her hand 
 
 # Chapter Thirty-Five: Christmas Eve on Cutter Street
 
-Jess arrived on Christmas Eve with a car full of presents, two sleepy children in matching pyjamas, a husband named Dan who carried the turkey as if it were a baby, and an expression on her face that made Hannah suspect she had been crying in the car for most of the drive.
+Jess arrived on Christmas Eve with a car full of presents, two sleepy children in matching pajamas, a husband named Dan who carried the turkey as if it were a baby, and an expression on her face that made Hannah suspect she had been crying in the car for most of the drive.
 
 "Don't say anything," said Jess, and walked straight into the bakery and hugged her so hard that Biscuit barked in alarm and ran to hide behind the flour bins.
 
@@ -3762,7 +3762,7 @@ Jess arrived on Christmas Eve with a car full of presents, two sleepy children i
 
 The children, Lily and Sam, were already halfway across the shop, pressing their faces to the glass of the display case and shrieking at the gingerbread houses Hannah had built the night before. Eli had carved a tiny wooden sign for each one, shaped like a loaf of bread and painted in gold. Lily had read hers aloud twice and then declared that she was going to live in one when she grew up.
 
-"You can't," said Sam, with the scorn of a seven-year-old who had only just discovered that adults were not always right. "It's made of biscuit."
+"You can't," said Sam, with the scorn of a seven-year-old who had only just discovered that adults were not always right. "It's made of cookie."
 
 "It's made of gingerbread," said Hannah. "And it's not for living in. It's for eating. But you're welcome to try."
 
@@ -3786,7 +3786,7 @@ Eli looked at her across the room. He set the trays down on the counter very car
 \* \* \*
 :::
 
-They ate in the back room, at a long table pushed together from three smaller ones, with a checked cloth that Mrs. Ortiz had lent them and a row of candles that Hannah had lit against the grey afternoon light. Mrs. Ortiz came with a casserole and a bottle of sherry and the expression of a woman who had planned this dinner in great detail and was prepared to be disappointed by it. The vicar came for pudding. Tom Kowalski came with Biscuit's red ribbon freshly ironed and a plate of his very own sourdough rolls, which were slightly flattened on one side and which he presented with enormous pride. Everybody ate one. Nobody said a word about the flattened side.
+They ate in the back room, at a long table pushed together from three smaller ones, with a checked cloth that Mrs. Ortiz had lent them and a row of candles that Hannah had lit against the gray afternoon light. Mrs. Ortiz came with a casserole and a bottle of sherry and the expression of a woman who had planned this dinner in great detail and was prepared to be disappointed by it. The vicar came for dessert. Tom Kowalski came with Biscuit's red ribbon freshly ironed and a plate of his very own sourdough rolls, which were slightly flattened on one side and which he presented with enormous pride. Everybody ate one. Nobody said a word about the flattened side.
 
 It was loud and warm and a little bit chaotic. Dan told a long, rambling story about a Christmas in 2009 when the power went out and they ate a whole ham by candlelight, and Mrs. Ortiz contradicted every single detail. The vicar sang a verse of something off-key, and Lily stood on her chair and sang it back at him, louder. Sam fell asleep with his head on the table beside his plate, and nobody moved him.
 
@@ -3812,7 +3812,7 @@ Hannah's eyes stung. She looked down at her boots.
 
 Jess burst into tears.
 
-She did not sob. She simply stood on the back step of the bakery, with her hands over her face and her shoulders shaking, while the cold air curled around her in clouds of white breath. Hannah put her arms round her sister and held on, the way she had when they were small, when Jess had fallen off the swing and split her lip and Hannah had carried her home on her back all the way down Cutter Street, crying harder than she was.
+She did not sob. She simply stood on the back step of the bakery, with her hands over her face and her shoulders shaking, while the cold air curled around her in clouds of white breath. Hannah put her arms around her sister and held on, the way she had when they were small, when Jess had fallen off the swing and split her lip and Hannah had carried her home on her back all the way down Cutter Street, crying harder than she was.
 
 "You idiot," said Jess, muffled against her shoulder. "You absolute, stubborn, glorious idiot. I was going to be so smug."
 
@@ -3832,7 +3832,7 @@ She did not sob. She simply stood on the back step of the bakery, with her hands
 \* \* \*
 :::
 
-When they came back inside, the room had gone quiet. Dan was sitting in the corner with a glass of sherry, watching the children curled up on the bench with Biscuit's head on Lily's lap. Mrs. Ortiz was dozing over her pudding. The vicar had his eyes closed and was humming to himself.
+When they came back inside, the room had gone quiet. Dan was sitting in the corner with a glass of sherry, watching the children curled up on the bench with Biscuit's head on Lily's lap. Mrs. Ortiz was dozing over her dessert. The vicar had his eyes closed and was humming to himself.
 
 Eli was standing at the door to the kitchen with a box in his arms, wrapped in brown paper and tied with string. He looked at the two women coming in from the cold, and he looked at Jess's face, and something in his expression softened.
 
@@ -3844,7 +3844,7 @@ He came across the room and set the box on the table. It was heavier than it loo
 
 Inside was a wooden box, old and scuffed, with a brass latch and a faded label on the lid. Hannah knew the handwriting before she read the words. *For Dorothy. From Hollis. Keep it warm.*
 
-"It was in the back of the hardware store," said Eli. "Under the nail drawers, next to the safe. Dad must have put it there in 1990, after she paid him back. Mr. Dorsey found the receipt for it in the county files. It's been sitting there for thirty-five years, and nobody ever came to collect it."
+"It was in the back of the hardware store," said Eli. "Under the nail drawers, next to the safe. Dad must have put it there in 1990, after she paid him back. Mr. Dorsey found the receipt for it in the county files. It's been sitting there for thirty-six years, and nobody ever came to collect it."
 
 Hannah lifted the lid.
 
@@ -3890,7 +3890,7 @@ She turned it over.
 
 The message was short. It had been written in a hurry, the ink smudged in places, the letters sloping heavily to the right.
 
-*Eli. Sorry about the wrist. I was not brave enough to say it properly then. I am trying now. I have been sober for six years and I am living in a small flat near the water with a cat named Bruce who hates me. I know you don't want to hear from me. I know I don't deserve to be heard. But I wanted you to know that I think about the roof, and the tar, and your father carrying you home over his shoulder. I think about it every day. — Mum.*
+*Eli. Sorry about the wrist. I was not brave enough to say it properly then. I am trying now. I have been sober for six years and I am living in a small apartment near the water with a cat named Bruce who hates me. I know you don't want to hear from me. I know I don't deserve to be heard. But I wanted you to know that I think about the roof, and the tar, and your father carrying you home over his shoulder. I think about it every day. — Mom.*
 
 Hannah read it twice. Then she sat down on the step beside him and put her hand on his arm.
 
@@ -3938,11 +3938,11 @@ Eli thought about it, his thumb moving slowly over the edge of the postcard.
 
 That afternoon, Eli sat at his father's desk in the back office, with the postcard propped against a jar of pencils and a sheet of the store's cheapest notepaper in front of him. He had written the first line four times. The fifth one, he showed her, and she read it over his shoulder with her hand resting on his back.
 
-*Mum,*
+*Mom,*
 
 *I got your card. I didn't write back for a long time, because I was angry, and because I didn't want you to see that I still missed you. I did. I missed you every single day until I was twenty-two, and then I stopped letting myself miss you, because it was easier than hoping.*
 
-*I'm glad you're sober. I'm glad you have a flat near the water and a cat who hates you. I hope Bruce is kind to you when you're not looking.*
+*I'm glad you're sober. I'm glad you have an apartment near the water and a cat who hates you. I hope Bruce is kind to you when you're not looking.*
 
 *I'm not ready to forgive you yet. I don't know if I ever will. But I've been fixing the roof for twenty years, and I finally understand what Dad was telling me, every spring, when he handed me the tar and told me to stop complaining. He wasn't just fixing the building. He was waiting for somebody to come home and see that it was still standing.*
 
@@ -3970,7 +3970,7 @@ He posted it the following morning, on the corner by the bakery, in the same box
 
 "Done," said Hannah, and slipped her arm through his.
 
-They walked back down the frosty street together, past the diner and the library and the bench where Walt was sitting with his pigeons, and Mrs. Ortiz waved at them from the window with a tea towel in one hand and a look of enormous, unsubtle satisfaction on her face. At the bakery, the morning's first batch of rye was cooling on the racks, and the gold-leaf sign over the door caught the thin winter sun.
+They walked back down the frosty street together, past the diner and the library and the bench where Walt was sitting with his pigeons, and Mrs. Ortiz waved at them from the window with a dish towels in one hand and a look of enormous, unsubtle satisfaction on her face. At the bakery, the morning's first batch of rye was cooling on the racks, and the faded red sign over the door caught the thin winter sun.
 
 "You know what I'm going to do?" said Eli.
 
@@ -3986,7 +3986,7 @@ They walked back down the frosty street together, past the diner and the library
 
 "I know," said Eli. "I could see it in the window."
 
-He kissed her, quickly, on the pavement outside the bakery, and then went off across the road with the bucket on one arm and the dog trotting faithfully at his heels, whistling tunelessly, very badly, the way his father used to whistle on the roof.
+He kissed her, quickly, on the sidewalk outside the bakery, and then went off across the road with the bucket on one arm and the dog trotting faithfully at his heels, whistling tunelessly, very badly, the way his father used to whistle on the roof.
 
 # Chapter Thirty-Seven: The Name on the Glass
 
@@ -3994,7 +3994,7 @@ The sign-painter came on the second Tuesday in January, in a van with *Reid & Da
 
 "Old lettering," he said, peering up at the faded words on the glass. "Hand-painted, 1961. Nobody's touched it since. Your grandmother wouldn't let me." He sniffed. "She said she'd rather have a sign that looked tired than one that looked like a lie."
 
-"What's the lie?" asked Hannah, from the pavement below.
+"What's the lie?" asked Hannah, from the sidewalk below.
 
 "*Brooks & Sons*," said Reid. "There were never any sons."
 
@@ -4002,7 +4002,7 @@ The sign-painter came on the second Tuesday in January, in a van with *Reid & Da
 
 "She was right. It's a terrible name." He dipped his brush into the gold leaf and grinned down at her. "But I'll tell you what, miss. It's the best terrible name I've ever painted."
 
-Hannah stood on the cold pavement with her hands in her coat pockets and watched him work. The January sun was pale and thin, and the frost still lay in patches along the gutters, and across the road, the hardware store's windows had been freshly washed for the first time in months. In the middle of the window, a small, neat sign had been propped against a bucket of galvanised nails. It read, in Eli's careful capitals: *COMING SOON — DOROTHY'S ROOM. BREAD CLASSES, FRIDAYS, ALL WELCOME.*
+Hannah stood on the cold sidewalk with her hands in her coat pockets and watched him work. The January sun was pale and thin, and the frost still lay in patches along the gutters, and across the road, the hardware store's windows had been freshly washed for the first time in months. In the middle of the window, a small, neat sign had been propped against a bucket of galvanized nails. It read, in Eli's careful capitals: *COMING SOON — DOROTHY'S ROOM. BREAD CLASSES, FRIDAYS, ALL WELCOME.*
 
 Mrs. Ortiz had written the second line. She had also written, in very small letters underneath, *Free for bakers. Don't tell the vicar.*
 
@@ -4012,7 +4012,7 @@ Hannah looked up. He had stopped painting. He was staring at the lettering with 
 
 "What did you say?"
 
-"I said *Brooks and Carver*," said Reid, a little embarrassed. "That's what it says on the trust deed. Mr. Dorsey brought the design round on Friday. He wanted it done this week. He said it was a surprise, and I wasn't supposed to tell you." He scratched his jaw with the handle of his brush. "I thought he'd made a mistake, but he said it was supposed to be a joke. Something about two trustees and one dog."
+"I said *Brooks and Carver*," said Reid, a little embarrassed. "That's what it says on the trust deed. Mr. Dorsey brought the design around on Friday. He wanted it done this week. He said it was a surprise, and I wasn't supposed to tell you." He scratched his jaw with the handle of his brush. "I thought he'd made a mistake, but he said it was supposed to be a joke. Something about two trustees and one dog."
 
 Hannah laughed so suddenly that she had to lean against the lamppost.
 
@@ -4026,13 +4026,13 @@ Hannah laughed so suddenly that she had to lean against the lamppost.
 \* \* \*
 :::
 
-Eli was in the back office when she came in, on the phone to the county, with a pencil behind one ear and a stack of papers spread across the desk. He held up one finger without looking round, the way he did when he was concentrating, and Hannah stood in the doorway and watched him.
+Eli was in the back office when she came in, on the phone to the county, with a pencil behind one ear and a stack of papers spread across the desk. He held up one finger without looking around, the way he did when he was concentrating, and Hannah stood in the doorway and watched him.
 
 He had changed since October. She did not think anyone else could see it, not yet, but she could. He stood a little straighter now when people spoke to him. He laughed more, and more easily, and his shoulders no longer hunched when someone raised their voice across a room. He still burned the toast every morning, and he still fixed the walk-in door more often than was strictly necessary. But he had begun, in small, uncertain ways, to ask for help. He had asked Mrs. Ortiz to check his accounts, and Tom Kowalski to look over the wiring, and Mr. Dorsey to sit in on the trust meetings. He had asked her, one night in November, whether she thought he was doing a good job, and when she said yes, he had gone quiet and then said, very low, *Nobody's ever told me that before.*
 
 "Yes," said Eli into the phone. "The trust accepts. No, we don't need the full council to sign. The deed's clear on that. Thank you, Mr. Dorsey. Tell the clerk I said she's very welcome to call me herself next time."
 
-He hung up and swivelled round in his chair and looked at her, and she saw that he was trying not to smile.
+He hung up and swiveled around in his chair and looked at her, and she saw that he was trying not to smile.
 
 "Brooks and Carver," said Hannah.
 
@@ -4040,7 +4040,7 @@ He went red. "You saw it."
 
 "Reid told me. He was very confused. He thought it was a mistake."
 
-"It's not a mistake." Eli got up and came round the desk and took both her hands, very seriously, as if he were about to propose a business merger. "Mr. Dorsey says it's the only way to make the trust properly symbolic. Two trustees. Two names. One sign. And the dog gets a name on the deed too, which he says is an honour in the county and he's not going to argue about it."
+"It's not a mistake." Eli got up and came around the desk and took both her hands, very seriously, as if he were about to propose a business merger. "Mr. Dorsey says it's the only way to make the trust properly symbolic. Two trustees. Two names. One sign. And the dog gets a name on the deed too, which he says is an honors in the county and he's not going to argue about it."
 
 "The dog is not a trustee."
 
@@ -4068,7 +4068,7 @@ Hannah stared at him.
 
 "I can say it," said Eli, "because you're not going anywhere."
 
-She put her arms round his neck and kissed him, hard and fast, in the doorway of the back office with the window full of gold leaf and the sound of Reid's brushes tapping lightly against the glass outside.
+She put her arms around his neck and kissed him, hard and fast, in the doorway of the back office with the window full of gold leaf and the sound of Reid's brushes tapping lightly against the glass outside.
 
 "Yes," she said against his mouth. "The answer's yes. Ask me the other thing."
 
@@ -4094,7 +4094,7 @@ By noon, the sign was done.
 
 It stood over the bakery door in gold leaf on cream, the letters tall and slightly uneven, with the paint catching the thin January light. *BROOKS & CARVER*, it read, in old-fashioned serif capitals, and beneath it, in smaller letters, *Est. 1961. Bread for Cutter Street.*
 
-Mrs. Ortiz came out of the diner with her arms full of cinnamon rolls and stood on the pavement looking up at it for a long time, with her glasses pushed up on her forehead and her mouth working silently.
+Mrs. Ortiz came out of the diner with her arms full of cinnamon rolls and stood on the sidewalk looking up at it for a long time, with her glasses pushed up on her forehead and her mouth working silently.
 
 "It's perfect," she said finally, in a voice that wobbled. "Your grandmother would have hated it."
 
@@ -4114,11 +4114,11 @@ Eli came out of the back door, wiping his hands on a rag, and stopped beside her
 
 The first Friday of April, Dorothy's Room opened at the back of the hardware store, and by nine o'clock in the morning there were twenty-two people crowded into a space meant for six.
 
-They had come with flour on their sleeves and sceptical looks on their faces. There were schoolchildren from the primary across the river, herded by a harassed teacher who had promised them cinnamon rolls if they behaved. There were two retired nurses who wanted to learn how to make rye. There was a man from the county planning office who said he had come to check the fire exits and stayed to knead a loaf of soda bread so badly that Mrs. Ortiz took it away from him and fed it to Biscuit. There was the vicar, who had brought his own apron, and Tom Kowalski, who had brought his sourdough starter in a jar and insisted on introducing it to everybody.
+They had come with flour on their sleeves and skeptical looks on their faces. There were schoolchildren from the elementary school across the river, herded by a harassed teacher who had promised them cinnamon rolls if they behaved. There were two retired nurses who wanted to learn how to make rye. There was a man from the county planning office who said he had come to check the fire exits and stayed to knead a loaf of soda bread so badly that Mrs. Ortiz took it away from him and fed it to Biscuit. There was the vicar, who had brought his own apron, and Tom Kowalski, who had brought his sourdough starter in a jar and insisted on introducing it to everybody.
 
-"This is Mabel the third," he said, holding the jar up to the light like a proud father. "She's nine months old and she's very temperamental. Be gentle with her."
+"This is Mabel the third," he said, holding the jar up to the light like a proud father. "She's two months old and she's very temperamental. Be gentle with her."
 
-"That's the same Mabel," said Hannah, from the front of the room. "Mabel the second died in the spring. We had a funeral. There was cake."
+"That's the same Mabel," said Hannah, from the front of the room. "Mabel the second died in February. We had a funeral. There was cake."
 
 "This is a different Mabel," said Tom, unrepentant. "She has her own personality."
 
@@ -4136,7 +4136,7 @@ She took a breath.
 
 They made soda bread, rye, and a single, enormous sourdough loaf that the planning officer shaped with great seriousness and then sat on by accident. By eleven, the room smelled of warm bread and wood smoke and sugar, and the schoolchildren had flour in their hair and their mouths, and the retired nurses had declared rye to be the most satisfying thing they had done in years.
 
-At noon, Hannah took the old rolling pin from its box on the shelf. It was cast iron, scuffed and worn, its handle polished pale by three generations of hands. The children gathered round as she rolled out a sheet of dough, slowly and carefully, the way Gran had taught her.
+At noon, Hannah took the old rolling pin from its box on the shelf. It was cast iron, scuffed and worn, its handle polished pale by three generations of hands. The children gathered around as she rolled out a sheet of dough, slowly and carefully, the way Gran had taught her.
 
 "Who made that?" asked a girl with a missing front tooth.
 
@@ -4162,7 +4162,7 @@ Eli was waiting for her in the back of the store when the class ended, sitting o
 
 "A hammer," said Eli.
 
-She looked at the box. It was old, and dusty, and it had a red label on the side that read *Carver & Son — Est. 1948*. Inside, nested in a bed of straw, was a claw hammer with a worn wooden handle and a head that had been polished bright by years of use.
+She looked at the box. It was old, and dusty, and it had a red label on the side that read *Carver & Son — Est. 1978*. Inside, nested in a bed of straw, was a claw hammer with a worn wooden handle and a head that had been polished bright by years of use.
 
 "It was his," said Eli. "My father's. He bought it the year he took over the store. He used it to fix every shelf and every drawer and every door on this street, including the front of your grandmother's oven. He kept it in the safe, under the letter, because he said it was the most valuable thing he owned."
 
@@ -4214,7 +4214,7 @@ Eli came in from the front, carrying two mugs of coffee so bad it was almost a c
 
 "Terrible," agreed Hannah, and drank it anyway.
 
-He sat down beside her on the crate, and put his arm round her shoulders, and for a while they simply watched the lamp flicker and listened to the dog breathe.
+He sat down beside her on the crate, and put his arm around her shoulders, and for a while they simply watched the lamp flicker and listened to the dog breathe.
 
 "Do you ever miss it?" he asked eventually. "Chicago. The city. The person you were there."
 
@@ -4272,13 +4272,13 @@ Hannah waved back, and for a moment, she could not see him clearly for the warm,
 \* \* \*
 :::
 
-The line for the Winter Harvest opened at eight, and by nine it stretched past the church and round the corner onto Mill Lane. The Bread Club members had come first, of course, with their reusable bags and their monthly newsletters and their hopeful, slightly anxious faces, eager to see whether the cinnamon roll shaped like a dog had survived its move to the new season. Mrs. Ortiz had stationed herself at the front of the queue with a clipboard and a fierce expression, and was handing out tickets to anyone who looked like they might try to cut in line.
+The line for the Winter Harvest opened at eight, and by nine it stretched past the church and around the corner onto Mill Lane. The Bread Club members had come first, of course, with their reusable bags and their monthly newsletters and their hopeful, slightly anxious faces, eager to see whether the cinnamon roll shaped like a dog had survived its move to the new season. Mrs. Ortiz had stationed herself at the front of the line with a clipboard and a fierce expression, and was handing out tickets to anyone who looked like they might try to cut in line.
 
 "You can have a ticket," she said, to a man in a flat cap. "You cannot have two. Don't argue. I'm too old to argue, and you're too slow to win."
 
 The vicar's wife ran the cocoa stand on the corner, with a new red scarf and an enormous urn. Tom Kowalski had built a small wooden stage on the church steps, from which the high school brass band, now fifteen strong and considerably more in tune than they had been two years ago, was playing something cheerful and only slightly ragged. The children ran between the stalls in their mismatched mittens, their cheeks already red with cold, and the strings of white lights above the street flickered on as the afternoon began to darken.
 
-Jess arrived at ten, with a car full of cousins, a box of Christmas biscuits from her own kitchen, and a banner that read, in glittering purple letters, *I TOLD YOU SO*. She hung it across the front of the bakery window herself, standing on a stepladder in the snow, and when Hannah protested, she simply pointed at the crowd below and said, "They like it. Look at them."
+Jess arrived at ten, with a car full of cousins, a box of Christmas cookies from her own kitchen, and a banner that read, in glittering purple letters, *I TOLD YOU SO*. She hung it across the front of the bakery window herself, standing on a stepladder in the snow, and when Hannah protested, she simply pointed at the crowd below and said, "They like it. Look at them."
 
 They did. Half the town was pointing at the banner and laughing, and Mrs. Ortiz had taken a photograph of it with her phone and sent it to the regional paper with the caption *Cutter Street Stays Put*.
 
@@ -4292,7 +4292,7 @@ They did. Half the town was pointing at the banner and laughing, and Mrs. Ortiz 
 
 By the afternoon, the bakery had sold out of everything except the last tray of mince pies, which Hannah had set aside for a particular customer. She was waiting for him at the back door, in the warm, bright kitchen, with the snow still falling softly beyond the glass.
 
-Eli came in, stamping the snow from his boots, with a red wool scarf wound twice round his neck and two cups of coffee in his hands.
+Eli came in, stamping the snow from his boots, with a red wool scarf wound twice around his neck and two cups of coffee in his hands.
 
 "Terrible," he said, setting one in front of her.
 
@@ -4302,11 +4302,11 @@ Eli came in, stamping the snow from his boots, with a red wool scarf wound twice
 
 "It's true."
 
-He sat down on the stool beside her and put his arm round her shoulders, and she leaned into him, tired and warm and happier than she had ever been in her life. Biscuit, who had been lying under the table with his head on Eli's boot, lifted his head, looked at them both, and sighed the long, deep, contented sigh of a dog who had finally been proved right about everything.
+He sat down on the stool beside her and put his arm around her shoulders, and she leaned into him, tired and warm and happier than she had ever been in her life. Biscuit, who had been lying under the table with his head on Eli's boot, lifted his head, looked at them both, and sighed the long, deep, contented sigh of a dog who had finally been proved right about everything.
 
 "Hannah," said Eli quietly. "There's something in the post."
 
-She looked up. He was holding an envelope, cream-coloured and dusty, with a postmark she did not recognise and an address written across the front in a tight, careful hand that she knew, at once, belonged to her grandmother.
+She looked up. He was holding an envelope, cream-color and dusty, with a postmark she did not recognize and an address written across the front in a tight, careful hand that she knew, at once, belonged to her grandmother.
 
 *Hannah Brooks, The Bakery, Cutter Street — To be opened when she's home.*
 
@@ -4320,7 +4320,7 @@ Hannah took the envelope from his hand. It was thin, and light, and it rustled s
 
 She broke the seal with her thumb, and drew out a single sheet of paper, folded in half.
 
-*My darling girl,* it began, in the same looping, careful hand that had filled the ledgers and the recipe cards and the label on the rolling pin. *If you are reading this, then you came home. I knew you would. Eli will have made you a terrible cup of coffee and you will have decided to forgive him. Good.*
+*My darling girl,* it began, in the same looping, careful hand that had filled the ledgers and the recipe cards. *If you are reading this, then you came home. I knew you would. Eli will have made you a terrible cup of coffee and you will have decided to forgive him. Good.*
 
 *I have one more thing to tell you, and you must not tell Eli until he has fixed the boiler, or he will want to fix it first. There is a second building. Mill House, on Ashby Road, across the river, the old cider press with the blue door. Your grandfather bought it in 1958 with money he never told anyone about, and he left it to me, and I never told a soul. It has been empty for thirty years. It needs a roof, a new floor, and a great deal of nerve.*
 
@@ -4370,7 +4370,7 @@ She thought of her grandmother, standing at this window on a winter morning sixt
 
 She thought of Hollis Carver, writing a card for a rolling pin he had made with his own hands, sure that one day someone would come home to use it.
 
-She thought of Eli, kneeling on the floor of a hardware store with a safe open beside him, and the letter that had taken him thirty years to read.
+She thought of Eli, kneeling on the floor of a hardware store with a safe open beside him, and the letter that had taken him years to read.
 
 And she thought, with a small, warm, startled delight, that there was a blue door across the river, and a roof that needed mending, and a building that had been waiting all this time to be saved.
 
