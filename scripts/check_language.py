@@ -42,6 +42,10 @@ WEIGHT_WORDS = r"(?:of|bag|bags|flour|sugar|butter|cake|dog|cat|weight|weigh|wei
 STERLING = re.compile(r"\bpounds? sterling\b|\bpounds? \d", re.I)   # always fails
 BARE_POUNDS = re.compile(r"\b\d[\d,]*\s?pounds?\b(?!\s+" + WEIGHT_WORDS + r"\b)", re.I)  # review only: may be weight
 CURRENCY = re.compile(r"£|€")
+# Exchange rates used for the USD equivalent in each report. Update the rate and its date together.
+RATES = {"EUR": (1.1537, "euro reference rate, 16 September 2026, Bank of Italy")}
+EURO_AMOUNT = re.compile(r"€\s?(\d[\d,]*(?:\.\d+)?)(?:\s+(million|billion|thousand))?", re.I)
+SCALE = {"thousand": 1e3, "million": 1e6, "billion": 1e9}
 
 
 def strip_markdown(text):
@@ -64,7 +68,14 @@ def scan(text, label, issues):
         issues.append({"where": label, "line": line, "found": m.group(0), "use": "check: $ if money, pounds if weight", "kind": "review"})
     for m in CURRENCY.finditer(text):
         line = text.count("\n", 0, m.start()) + 1
-        issues.append({"where": label, "line": line, "found": m.group(0), "use": "$ (US dollars)"})
+        use = "$ (US dollars)"
+        amount = EURO_AMOUNT.match(text, m.start())
+        if amount:
+            rate, source = RATES["EUR"]
+            scale = SCALE.get((amount.group(2) or "").lower(), 1)
+            usd = float(amount.group(1).replace(",", "")) * rate * scale
+            use = f"about ${usd:,.2f} USD (EUR at {rate} USD per EUR, {source})"
+        issues.append({"where": label, "line": line, "found": m.group(0), "use": use, "kind": "fail"})
 
 
 def text_values(obj):
