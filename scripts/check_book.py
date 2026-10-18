@@ -117,7 +117,7 @@ def main():
     pool = {c["category"]: c for c in json.load(open(os.path.join(REPO, "ebook-topics", "category-pool.json"), encoding="utf-8"))["categories"]}
     for cat in cats[:2]:
         entry = pool.get(cat)
-        add(f"category in pool and confirmed: {cat[-40:]}", bool(entry and entry.get("confirmed")),
+        add(f"category in pool and confirmed: {cat}",bool(entry and entry.get("confirmed")),
             "not in pool" if not entry else ("confirmed" if entry.get("confirmed") else "owner has not confirmed this path yet"))
     ks = str(m.get("kdp_select", "")).strip().lower()
     want_ks = "enroll for 90 days" if m.get("series") else "no"
