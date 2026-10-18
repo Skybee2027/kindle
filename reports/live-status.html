@@ -1,0 +1,439 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="claude:viewport-fit-sides" content="cover">
+<title>Kindle Live Operations</title>
+<style>
+/* Layout: summary strip, pipeline, robot health, 14-day activity, alerts, then searchable book and run tables. */
+:root {
+  --bg: #f6f5f1; --panel: #ffffff; --fg: #1d1f1b; --muted: #6b6f66; --line: #e2e0d8; --soft: #efeee8;
+  --ok: #2f7d4f; --warn: #b26a00; --bad: #b3261e; --info: #2e5aa8; --accent: #2e5aa8;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15171a; --panel: #1f2226; --fg: #eceee9; --muted: #9ba09a; --line: #2e3238; --soft: #262a2f;
+    --ok: #6cc38e; --warn: #e6a64a; --bad: #f07a70; --info: #8fb0ea; --accent: #8fb0ea;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #15171a; --panel: #1f2226; --fg: #eceee9; --muted: #9ba09a; --line: #2e3238; --soft: #262a2f;
+  --ok: #6cc38e; --warn: #e6a64a; --bad: #f07a70; --info: #8fb0ea; --accent: #8fb0ea;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg);
+  font: 14px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 20px 48px;
+}
+main { max-width: 1100px; margin: 0 auto; }
+h1 { font-size: 24px; margin: 0; text-wrap: balance; }
+h2 { font-size: 16px; margin: 28px 0 10px; }
+.top { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: baseline; justify-content: space-between; }
+.live { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--muted); margin-right: 6px; vertical-align: middle; }
+.dot.on { background: var(--ok); }
+.grid { display: grid; gap: 12px; }
+.kpis { grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); margin-top: 16px; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; min-width: 0; }
+.label { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .05em; }
+.value { font-size: 22px; font-weight: 600; font-variant-numeric: tabular-nums; margin-top: 2px; }
+.sub { color: var(--muted); font-size: 12px; }
+.two { grid-template-columns: 1fr; }
+@media (min-width: 760px) { .two { grid-template-columns: 1fr 1fr; } }
+.stages { display: flex; flex-wrap: wrap; gap: 8px; }
+.stage { flex: 1 1 130px; background: var(--soft); border-radius: 8px; padding: 10px 12px; min-width: 0; }
+.stage .n { font-size: 20px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.robots { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); }
+.robot .name { font-weight: 600; }
+.badge { display: inline-block; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 999px; border: 1px solid currentColor; white-space: nowrap; }
+.s-ok { color: var(--ok); } .s-idle { color: var(--muted); } .s-attention { color: var(--warn); } .s-failed { color: var(--bad); } .s-info { color: var(--info); }
+.bars { display: flex; align-items: flex-end; gap: 6px; height: 140px; padding-top: 8px; border-bottom: 1px solid var(--line); }
+.bar { flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: flex-end; height: 100%; }
+.bar .stack { display: flex; flex-direction: column-reverse; width: 100%; }
+.bar .seg { width: 100%; }
+.bar .day { font-size: 11px; color: var(--muted); text-align: center; margin-top: 4px; white-space: nowrap; }
+.legend { display: flex; flex-wrap: wrap; gap: 12px; font-size: 12px; color: var(--muted); margin-top: 8px; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 5px; vertical-align: middle; }
+.alerts { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.alerts li { background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--warn); border-radius: 8px; padding: 10px 12px; }
+.alerts li.failed { border-left-color: var(--bad); }
+.alerts li.info { border-left-color: var(--info); }
+.alerts .t { font-weight: 600; }
+.alerts .d { color: var(--muted); font-size: 13px; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0; align-items: center; }
+input, select, button {
+  font: inherit; color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 7px 10px; min-width: 0;
+}
+input { flex: 1 1 200px; }
+button { cursor: pointer; }
+button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+button:disabled { opacity: .5; cursor: default; }
+.wrap { overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; }
+table { width: 100%; border-collapse: collapse; min-width: 560px; }
+th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); font-weight: 600; }
+tr:last-child td { border-bottom: 0; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+.day-row td { background: var(--soft); font-weight: 600; font-size: 13px; }
+.pager { display: flex; gap: 8px; align-items: center; justify-content: center; margin-top: 10px; color: var(--muted); font-size: 13px; }
+.empty { color: var(--muted); padding: 18px; text-align: center; }
+.note { color: var(--muted); font-size: 12px; margin-top: 8px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="top">
+    <h1>Kindle Live Operations</h1>
+    <div class="live" id="live"><span class="dot" id="dot"></span><span id="liveText">Connecting...</span></div>
+  </div>
+
+  <section class="grid kpis" aria-label="Summary">
+    <div class="card"><div class="label">Books tracked</div><div class="value" id="kTotal">0</div><div class="sub" id="kTotalSub">&nbsp;</div></div>
+    <div class="card"><div class="label">In the pipeline</div><div class="value" id="kPipe">0</div><div class="sub">Not yet on KDP</div></div>
+    <div class="card"><div class="label">Ready for KDP</div><div class="value" id="kReady">0</div><div class="sub">Approved, awaiting draft</div></div>
+    <div class="card"><div class="label">Runs today</div><div class="value" id="kRuns">0</div><div class="sub" id="kRunsSub">&nbsp;</div></div>
+    <div class="card"><div class="label">Open alerts</div><div class="value" id="kAlerts">0</div><div class="sub">Need your attention</div></div>
+    <div class="card"><div class="label">Sent to Amazon</div><div class="value" id="kPub">0</div><div class="sub">Published by you</div></div>
+  </section>
+
+  <h2>Book pipeline</h2>
+  <div class="stages" id="stages"></div>
+
+  <h2>Robot health</h2>
+  <div class="robots" id="robots"></div>
+
+  <div class="grid two" style="margin-top:0">
+    <div>
+      <h2>Last 14 days</h2>
+      <div class="card">
+        <div class="bars" id="bars" role="img" aria-label="Runs per day by result"></div>
+        <div class="legend">
+          <span><i style="background:var(--ok)"></i>Done</span>
+          <span><i style="background:var(--warn)"></i>Needs check</span>
+          <span><i style="background:var(--bad)"></i>Failed</span>
+          <span><i style="background:var(--muted)"></i>Idle</span>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h2>Needs your attention</h2>
+      <ul class="alerts" id="alerts"></ul>
+    </div>
+  </div>
+
+  <h2>Books</h2>
+  <div class="toolbar">
+    <input type="search" id="bookSearch" placeholder="Search title or category" aria-label="Search books">
+    <select id="bookStatus" aria-label="Filter by status">
+      <option value="">All statuses</option>
+      <option value="topic">Topic chosen</option>
+      <option value="written">Written</option>
+      <option value="approved">Approved</option>
+      <option value="kdp_draft">KDP draft</option>
+      <option value="published">Published</option>
+    </select>
+  </div>
+  <div class="wrap">
+    <table>
+      <thead><tr><th>Title</th><th>Category</th><th>Status</th><th class="num">Words</th><th>Last update</th></tr></thead>
+      <tbody id="bookRows"></tbody>
+    </table>
+  </div>
+  <div class="pager"><button id="bPrev">Previous</button><span id="bPage"></span><button id="bNext">Next</button></div>
+
+  <h2>Activity log</h2>
+  <div class="toolbar">
+    <select id="runRobot" aria-label="Filter by robot">
+      <option value="">All robots</option>
+      <option>Kindle-1</option><option>Kindle-2</option><option>Kindle-3</option><option>Kindle-4</option><option>Owner</option>
+    </select>
+    <select id="runResult" aria-label="Filter by result">
+      <option value="">All results</option>
+      <option value="ok">Done</option>
+      <option value="attention">Needs check</option>
+      <option value="failed">Failed</option>
+      <option value="idle">Idle</option>
+    </select>
+  </div>
+  <div class="wrap">
+    <table>
+      <thead><tr><th>Time (NY)</th><th>Robot</th><th>What it did</th><th>Status</th></tr></thead>
+      <tbody id="runRows"></tbody>
+    </table>
+  </div>
+  <div class="pager"><button id="moreRuns">Show older</button></div>
+
+  <h2>Next scheduled runs</h2>
+  <div class="wrap" id="schedule"></div>
+  <p class="note">Live from the shared store. Updates appear here as the robots report. Times are New York local.</p>
+</main>
+
+<script>
+(function () {
+  "use strict";
+
+  var ROBOTS = ["Kindle-1", "Kindle-2", "Kindle-3", "Kindle-4", "Owner"];
+  var ROBOT_ROLE = { "Kindle-1": "Research", "Kindle-2": "Writer", "Kindle-3": "Reviewer", "Kindle-4": "Publisher", "Owner": "Manual" };
+  var RESULT = {
+    ok: { label: "Done", cls: "s-ok" },
+    attention: { label: "Needs check", cls: "s-attention" },
+    failed: { label: "Failed", cls: "s-failed" },
+    idle: { label: "Idle", cls: "s-idle" },
+    info: { label: "Info", cls: "s-info" }
+  };
+  var STAGES = [
+    { key: "topic", label: "Topic chosen" },
+    { key: "written", label: "Written" },
+    { key: "approved", label: "Approved" },
+    { key: "kdp_draft", label: "KDP draft" },
+    { key: "published", label: "Published" }
+  ];
+  var PAGE = 50;
+  var RUN_STEP = 60;
+
+  var books = [], runs = [], alerts = [], schedule = [];
+  var bookPage = 0, runLimit = RUN_STEP;
+  var db = null;
+
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function $(id) { return document.getElementById(id); }
+  function badge(result) {
+    var r = RESULT[result] || RESULT.idle;
+    return '<span class="badge ' + r.cls + '">' + r.label + '</span>';
+  }
+  function nyTime(iso) {
+    try {
+      var d = new Date(iso);
+      return d.toLocaleString("en-US", { timeZone: "America/New_York", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
+    } catch (e) { return String(iso || ""); }
+  }
+  function nyDay(iso) {
+    try { return new Date(iso).toLocaleDateString("en-CA", { timeZone: "America/New_York" }); }
+    catch (e) { return String(iso || "").slice(0, 10); }
+  }
+  function todayNY() { return new Date().toLocaleDateString("en-CA", { timeZone: "America/New_York" }); }
+  function fmt(n) { return (Number(n) || 0).toLocaleString("en-US"); }
+  function setLive(on, text) {
+    $("dot").className = "dot" + (on ? " on" : "");
+    $("liveText").textContent = text;
+  }
+
+  function render() {
+    renderKpis();
+    renderStages();
+    renderRobots();
+    renderBars();
+    renderAlerts();
+    renderBooks();
+    renderRuns();
+    renderSchedule();
+  }
+
+  function renderKpis() {
+    var today = todayNY();
+    var published = books.filter(function (b) { return b.status === "published"; }).length;
+    var ready = books.filter(function (b) { return b.status === "approved"; }).length;
+    var pipe = books.filter(function (b) { return b.status !== "published"; }).length;
+    var todays = runs.filter(function (r) { return nyDay(r.ts) === today; });
+    var bad = todays.filter(function (r) { return r.result === "failed" || r.result === "attention"; }).length;
+    $("kTotal").textContent = fmt(books.length);
+    $("kTotalSub").textContent = fmt(published) + " published";
+    $("kPipe").textContent = fmt(pipe);
+    $("kReady").textContent = fmt(ready);
+    $("kRuns").textContent = fmt(todays.length);
+    $("kRunsSub").textContent = bad ? fmt(bad) + " need a check" : "No issues";
+    $("kAlerts").textContent = fmt(alerts.filter(function (a) { return a.open; }).length);
+    $("kPub").textContent = fmt(published);
+  }
+
+  function renderStages() {
+    var counts = {};
+    books.forEach(function (b) { counts[b.status] = (counts[b.status] || 0) + 1; });
+    $("stages").innerHTML = STAGES.map(function (s) {
+      return '<div class="stage"><div class="label">' + esc(s.label) + '</div><div class="n">' + fmt(counts[s.key] || 0) + '</div></div>';
+    }).join("");
+  }
+
+  function renderRobots() {
+    $("robots").innerHTML = ROBOTS.map(function (name) {
+      var mine = runs.filter(function (r) { return r.robot === name; });
+      var last = mine[0];
+      var weekAgo = Date.now() - 7 * 86400000;
+      var week = mine.filter(function (r) { return new Date(r.ts).getTime() >= weekAgo; });
+      var good = week.filter(function (r) { return r.result === "ok" || r.result === "idle"; }).length;
+      var rate = week.length ? Math.round(100 * good / week.length) + "%" : "No runs";
+      var lastLine = last
+        ? esc(last.summary) + '<div class="sub">' + esc(nyTime(last.ts)) + '</div>'
+        : '<div class="sub">No runs recorded yet</div>';
+      return '<div class="card robot"><div class="name">' + esc(name) + ' <span class="sub">' + esc(ROBOT_ROLE[name]) + '</span></div>'
+        + '<div style="margin:6px 0">' + (last ? badge(last.result) : '') + '</div>'
+        + '<div>' + lastLine + '</div>'
+        + '<div class="sub" style="margin-top:6px">7-day success: ' + esc(rate) + '</div></div>';
+    }).join("");
+  }
+
+  function renderBars() {
+    var days = [];
+    for (var i = 13; i >= 0; i--) {
+      var d = new Date(Date.now() - i * 86400000);
+      days.push(d.toLocaleDateString("en-CA", { timeZone: "America/New_York" }));
+    }
+    var max = 1;
+    var data = days.map(function (day) {
+      var c = { ok: 0, attention: 0, failed: 0, idle: 0 };
+      runs.forEach(function (r) {
+        if (nyDay(r.ts) === day && c[r.result] !== undefined) c[r.result]++;
+      });
+      var total = c.ok + c.attention + c.failed + c.idle;
+      if (total > max) max = total;
+      return { day: day, c: c, total: total };
+    });
+    var colors = { ok: "var(--ok)", attention: "var(--warn)", failed: "var(--bad)", idle: "var(--muted)" };
+    $("bars").innerHTML = data.map(function (x) {
+      var segs = ["ok", "attention", "failed", "idle"].map(function (k) {
+        var h = x.c[k] ? Math.max(3, Math.round(100 * x.c[k] / max)) : 0;
+        return h ? '<div class="seg" style="height:' + h + '%;background:' + colors[k] + '" title="' + esc(RESULT[k].label) + ': ' + x.c[k] + '"></div>' : '';
+      }).join("");
+      var label = x.day.slice(5).replace("-", "/");
+      return '<div class="bar" title="' + esc(x.day) + ': ' + x.total + ' runs"><div class="stack" style="flex:1">' + segs + '</div><div class="day">' + esc(label) + '</div></div>';
+    }).join("");
+  }
+
+  function renderAlerts() {
+    var open = alerts.filter(function (a) { return a.open; });
+    if (!open.length) { $("alerts").innerHTML = '<li class="info"><span class="t">Nothing needs attention</span><div class="d">All robots are on track.</div></li>'; return; }
+    $("alerts").innerHTML = open.map(function (a) {
+      return '<li class="' + esc(a.level || "attention") + '"><div class="t">' + esc(a.title) + '</div><div class="d">' + esc(a.detail || "") + '</div></li>';
+    }).join("");
+  }
+
+  function renderBooks() {
+    var q = $("bookSearch").value.trim().toLowerCase();
+    var st = $("bookStatus").value;
+    var list = books.filter(function (b) {
+      if (st && b.status !== st) return false;
+      if (!q) return true;
+      return (String(b.title || "") + " " + String(b.category || "")).toLowerCase().indexOf(q) !== -1;
+    });
+    var pages = Math.max(1, Math.ceil(list.length / PAGE));
+    if (bookPage >= pages) bookPage = pages - 1;
+    var slice = list.slice(bookPage * PAGE, bookPage * PAGE + PAGE);
+    var label = STAGES.filter(function (s) { return s.key; }).reduce(function (m, s) { m[s.key] = s.label; return m; }, {});
+    $("bookRows").innerHTML = slice.length ? slice.map(function (b) {
+      return '<tr><td>' + esc(b.title) + '</td><td>' + esc(b.category || "") + '</td><td>' + esc(label[b.status] || b.status) + '</td><td class="num">' + fmt(b.words) + '</td><td>' + esc(nyTime(b.updated)) + '</td></tr>';
+    }).join("") : '<tr><td colspan="5" class="empty">No books match.</td></tr>';
+    $("bPage").textContent = list.length ? "Page " + (bookPage + 1) + " of " + pages + " · " + fmt(list.length) + " books" : "";
+    $("bPrev").disabled = bookPage <= 0;
+    $("bNext").disabled = bookPage >= pages - 1;
+  }
+
+  function renderRuns() {
+    var robot = $("runRobot").value;
+    var result = $("runResult").value;
+    var list = runs.filter(function (r) {
+      return (!robot || r.robot === robot) && (!result || r.result === result);
+    });
+    var shown = list.slice(0, runLimit);
+    var html = "", lastDay = "";
+    shown.forEach(function (r) {
+      var day = nyDay(r.ts);
+      if (day !== lastDay) {
+        html += '<tr class="day-row"><td colspan="4">' + esc(new Date(r.ts).toLocaleDateString("en-US", { timeZone: "America/New_York", weekday: "short", month: "short", day: "numeric", year: "numeric" })) + '</td></tr>';
+        lastDay = day;
+      }
+      var time = new Date(r.ts).toLocaleTimeString("en-US", { timeZone: "America/New_York", hour: "numeric", minute: "2-digit" });
+      html += '<tr><td class="num" style="text-align:left">' + esc(time) + '</td><td>' + esc(r.robot) + '</td><td>' + esc(r.summary) + '</td><td>' + badge(r.result) + '</td></tr>';
+    });
+    $("runRows").innerHTML = html || '<tr><td colspan="4" class="empty">No runs match.</td></tr>';
+    $("moreRuns").disabled = list.length <= runLimit;
+    $("moreRuns").textContent = list.length > runLimit ? "Show older (" + fmt(list.length - runLimit) + " more)" : "No older runs";
+  }
+
+  function renderSchedule() {
+    if (!schedule.length) { $("schedule").innerHTML = '<div class="empty">No schedule published yet.</div>'; return; }
+    $("schedule").innerHTML = '<div class="wrap"><table><thead><tr><th>Time (NY)</th><th>Robot</th><th>Job</th></tr></thead><tbody>'
+      + schedule.map(function (s) {
+          return '<tr><td>' + esc(s.time) + '</td><td>' + esc(s.robot) + '</td><td>' + esc(s.job) + '</td></tr>';
+        }).join("") + '</tbody></table></div>';
+  }
+
+  function sortByTs(a, b) { return String(b.ts || "").localeCompare(String(a.ts || "")); }
+
+  function docToRow(snap, extra) {
+    var d = snap.data() || {};
+    d.id = snap.id;
+    return d;
+  }
+
+  function subscribe() {
+    var booksQ = db.collection("books").orderBy("title", "asc").limit(1000);
+    var runsQ = db.collection("runs").orderBy("ts", "desc").limit(1000);
+    var alertsQ = db.collection("alerts").limit(200);
+    var schedDoc = db.doc("meta/schedule");
+
+    booksQ.onSnapshot(function (snap) {
+      books = snap.docs.filter(function (d) { return d.exists; }).map(function (d) { return docToRow(d); });
+      render();
+      setLive(true, "Live · updated " + new Date().toLocaleTimeString("en-US", { timeZone: "America/New_York", hour: "numeric", minute: "2-digit", second: "2-digit" }));
+    }, onErr);
+
+    runsQ.onSnapshot(function (snap) {
+      runs = snap.docs.filter(function (d) { return d.exists; }).map(function (d) { return docToRow(d); }).sort(sortByTs);
+      render();
+    }, onErr);
+
+    alertsQ.onSnapshot(function (snap) {
+      alerts = snap.docs.filter(function (d) { return d.exists; }).map(function (d) { return docToRow(d); });
+      render();
+    }, onErr);
+
+    schedDoc.onSnapshot(function (snap) {
+      var d = snap.exists ? (snap.data() || {}) : {};
+      schedule = Array.isArray(d.rows) ? d.rows : [];
+      renderSchedule();
+    }, onErr);
+  }
+
+  var errShown = false;
+  function onErr(e) {
+    if (errShown) return;
+    errShown = true;
+    setLive(false, "Live updates paused. Showing the last data.");
+  }
+
+  $("bookSearch").addEventListener("input", function () { bookPage = 0; renderBooks(); });
+  $("bookStatus").addEventListener("change", function () { bookPage = 0; renderBooks(); });
+  $("bPrev").addEventListener("click", function () { bookPage--; renderBooks(); });
+  $("bNext").addEventListener("click", function () { bookPage++; renderBooks(); });
+  $("runRobot").addEventListener("change", function () { runLimit = RUN_STEP; renderRuns(); });
+  $("runResult").addEventListener("change", function () { runLimit = RUN_STEP; renderRuns(); });
+  $("moreRuns").addEventListener("click", function () { runLimit += RUN_STEP; renderRuns(); });
+
+  setLive(false, "Connecting...");
+  render();
+
+  if (!window.claude || typeof window.claude.use !== "function") {
+    setLive(false, "Live data is not available in this view.");
+    return;
+  }
+  window.claude.use("db").then(function (namespace) {
+    if (!namespace) { setLive(false, "Live data is not available in this view."); return; }
+    db = namespace;
+    try { subscribe(); }
+    catch (e) { setLive(false, "Could not connect to the live store."); }
+  }, function () { setLive(false, "Could not connect to the live store."); });
+})();
+</script>
+</body>
+</html>
