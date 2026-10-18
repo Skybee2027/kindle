@@ -100,6 +100,10 @@ def main():
         entry = pool.get(cat)
         add(f"category in pool and confirmed: {cat[-40:]}", bool(entry and entry.get("confirmed")),
             "not in pool" if not entry else ("confirmed" if entry.get("confirmed") else "owner has not confirmed this path yet"))
+    ks = str(m.get("kdp_select", "")).strip().lower()
+    want_ks = "enroll for 90 days" if m.get("series") else "no"
+    add("KDP Select matches series rule", ks == want_ks,
+        f"kdp_select '{m.get('kdp_select')}'; series {'yes' if m.get('series') else 'no'} needs '{want_ks}' (guide section 9)")
     age = str(m.get("reading_age", ""))
     if age:
         import subprocess as sp

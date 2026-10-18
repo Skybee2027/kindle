@@ -63,7 +63,7 @@ def main():
         f"- **Territories:** Worldwide",
         f"- **Price (USD):** {m.get('price_usd', '')}",
         f"- **Royalty:** {m.get('royalty_tier', '')}",
-        "- **KDP Select (enrol):** Check metadata.json and the topic plan before enrolling. Default: yes, 90 days",
+        f"- **KDP Select (enrol):** {m.get('kdp_select') or 'MISSING: set kdp_select in metadata.json (guide section 9)'}",
         "- **Lending:** Enabled",
         "",
         "## Files to upload",

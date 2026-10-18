@@ -45,12 +45,14 @@ def main():
     if os.path.exists(cover):
         cmd += ["--epub-cover-image", "cover-ebook.jpg"]
 
-    for old in glob.glob(os.path.join(folder, "*.epub")):
-        os.remove(old)
+    # Build first, then remove other EPUBs, so a failed build never leaves a folder with no EPUB.
     r = subprocess.run(cmd, cwd=folder, capture_output=True, text=True)
     if r.returncode != 0:
         print(r.stderr, file=sys.stderr)
         return 1
+    for old in glob.glob(os.path.join(folder, "*.epub")):
+        if os.path.basename(old) != out_name:
+            os.remove(old)
     print(json.dumps({"built": os.path.join(folder, out_name), "fonts_embedded": len(fonts), "cover": os.path.exists(cover)}))
     return 0
 
