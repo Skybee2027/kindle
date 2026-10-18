@@ -32,3 +32,11 @@ Cover: created in Canva (design DAHYZj0dpJ8, https://canva.link/b2hhonvsog6szdn)
 - The 30-chapter structure and the expanded beats should be confirmed as the template for future Lantern Bay books.
 - Length is near the top of the allowed range; trimming is an option if the owner wants more margin.
 - The final chapter introduces a new thread (a login from the old clerk credentials on the night of July 14). The owner may want to confirm it for Book 2.
+
+## Guide conformance pass (book creating guide, version 2.1)
+- Section 5: body text changed from justified to left-aligned, ragged right. First-line indent kept for the novel. One font family (EB Garamond), licence saved in fonts/.
+- Section 8: title page now reads "By Skybee" under the subtitle. Copyright, fiction disclaimer, and AI disclosure use the exact wording.
+- Section 11: metadata.json now includes word_count, chapters, format, price_usd, royalty_tier, content_warnings, files, and the cover string.
+- Section 14: manuscript.docx regenerated from the updated manuscript; KDP-FORM-ANSWERS.md regenerated from metadata.json.
+- Checks run after these changes: build_epub.py (cover true, 3 fonts embedded); epubcheck (0 errors, 0 warnings); check_book.py (all checks pass).
+- Open item for owner: the approved cover shows a small series line and a small tagline. Section 6 says no small text except the author name. Owner to decide whether to keep the cover as approved or ask for a revision.

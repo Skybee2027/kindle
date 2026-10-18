@@ -2,7 +2,7 @@
 
 ## A Lantern Bay Cozy Mystery, Book 1
 
-### Skybee
+### By Skybee
 
 Copyright © 2026 Skybee. All rights reserved.
 

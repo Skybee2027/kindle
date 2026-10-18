@@ -31,20 +31,20 @@ _Description length: 237 words (KDP allows up to 4,000 characters)._
 - Check each path in the KDP category picker. KDP needs two.
 
 ## Content
-- **Content warnings:** None
+- **Content warnings:** A death on the page after a struggle on concrete steps; no explicit content; no graphic violence.
 - **AI-generated content:** This book was created with the assistance of artificial intelligence tools. All content was reviewed and edited by the publisher.
 - **Public domain:** No
 
 ## Pricing and rights
 - **Territories:** Worldwide
-- **Price (USD):** 
-- **Royalty:** 
+- **Price (USD):** 3.99
+- **Royalty:** 70% (US list price between $2.99 and $9.99)
 - **KDP Select (enroll):** enroll for 90 days
 - **Lending:** Enabled
 
 ## Files to upload
-- **Manuscript:** 
-- **Cover:** cover-ebook.jpg, to be created by Kindle-3 from the cover brief
+- **Manuscript:** shorthand-for-murder.epub
+- **Cover:** cover-ebook.jpg (1600 x 2560 RGB JPEG)
 
 ## Before you press Publish
 - Check the cover, title, and author on the KDP preview.

@@ -23,5 +23,19 @@
   "kdp_select": "enroll for 90 days",
   "ai_disclosure": "This book was created with the assistance of artificial intelligence tools. All content was reviewed and edited by the publisher.",
   "sources": [],
-  "cover": "cover-ebook.jpg, to be created by Kindle-3 from the cover brief"
+  "cover": "cover-ebook.jpg (1600 x 2560 RGB JPEG)",
+  "word_count": 65557,
+  "chapters": 30,
+  "format": "text-only EPUB, reflowable",
+  "price_usd": "3.99",
+  "royalty_tier": "70% (US list price between $2.99 and $9.99)",
+  "content_warnings": "A death on the page after a struggle on concrete steps; no explicit content; no graphic violence.",
+  "files": {
+    "epub": "shorthand-for-murder.epub",
+    "cover": "cover-ebook.jpg",
+    "manuscript_md": "manuscript.md",
+    "manuscript_docx": "manuscript.docx",
+    "stylesheet": "style.css",
+    "fonts": "fonts/"
+  }
 }
