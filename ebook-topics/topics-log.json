@@ -202,5 +202,78 @@
         "reason_rejected": "Large and steady, but factual claims need expert checks, and nonfiction risks overlap with medical, financial, and legal advice."
       }
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "source": "Owner request, 2026-10-18: one more adult, text-only fiction topic, added by hand. Not from a Kindle-1 research run; no new demand data was collected for it.",
+    "trends": [],
+    "selected_topic": {
+      "topic_name": "The Bakery on Cutter Street, Book 1: Flour, Frost and a Second Chance",
+      "category": "Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town (verify the exact browse node in the KDP category picker; not confirmed).",
+      "description": "Hannah Brooks has just returned to Cutter Street, the small Ohio town she left at eighteen, to take over her late grandmother's bakery. The shop is in debt, the oven is temperamental, and the one person who can fix the ovens is Eli Carver, the town's grumpy contractor who was her first crush and her grandmother's favorite fixer of everything. As they rebuild the bakery together, Hannah has to decide whether to sell the shop to a developer who has made a generous offer or keep it and the life she is starting to like. Eli has his own reasons for staying out of town politics. The story is warm, funny and romantic, with a close-knit cast of bakers, regulars and a dog who visits the shop every morning. It has no explicit sexual content, no profanity and no on-page violence. It ends with the bakery open, the developer defeated by the town and a hook for Book 2.",
+      "target_reader": "Adult readers of sweet small-town romance who read on Kindle Unlimited, mostly women 30 to 60. They want a comforting love story with a clear happy ending and a strong sense of place.",
+      "format": "Text-only ebook, reflowable. Series: yes, planned as a 3 to 4 book series set on Cutter Street with a recurring cast.",
+      "price_usd": 3.99,
+      "royalty_tier": "70% tier (list price between $2.99 and $9.99). About $2.79 per sale before any delivery fee, which is negligible for a text-only file.",
+      "page_count": "about 180 to 200 pages",
+      "word_count": "50,000 to 55,000 words",
+      "chapter_outline": [
+        "1. Opening Day: Hannah returns to the bakery and finds the oven dead and the cash box nearly empty.",
+        "2. The Man With the Wrench: Eli Carver arrives, unwilling, to look at the oven, and they clash over the repair bill.",
+        "3. Sourdough and Old Promises: Hannah finds her grandmother's notes and the history between her and Eli.",
+        "4. The Developer's Offer: a generous offer arrives, and the town begins to take sides.",
+        "5. Saturday Market: the bakery's first market stall brings regulars back and a new complication.",
+        "6. Late Nights in the Kitchen: Hannah and Eli work late, and the tension turns into friendship.",
+        "7. The Town Meeting: Eli is asked to speak against the developer, and he refuses.",
+        "8. The Winter Harvest: a storm damages the shop, and the town helps rebuild it.",
+        "9. A Letter From the Past: Hannah learns why her grandmother never sold the shop.",
+        "10. Open for Business: Hannah chooses the bakery and tells Eli how she feels.",
+        "11. Epilogue: First Snow: the shop is full, and a new visitor sets up Book 2."
+      ],
+      "tone_and_style": "Warm, funny and cozy, with a light, observant voice. Close third person, past tense, alternating lightly between Hannah and Eli. Plain, concrete sentences, lots of food and place detail, and short chapters of about 2,500 words.",
+      "title_options": [
+        "The Bakery on Cutter Street",
+        "Flour, Frost and a Second Chance",
+        "Sourdough on Cutter Street"
+      ],
+      "keywords": [
+        "small town romance",
+        "bakery romance",
+        "sweet romance series",
+        "contemporary romance kindle unlimited",
+        "clean romance adult"
+      ],
+      "sales_estimate": {
+        "label": "ESTIMATE. No sales data was verified. These are planning assumptions, not sourced figures. Price and royalty come from the plan; the per-page KENP rate is a third-party estimate.",
+        "reasoning": "A new small-town romance with no reviews is assumed to sell slowly. Sales are expected to rise as Books 2 and 3 publish and Kindle Unlimited reads build. Monthly revenue = sales x $2.79 + KENP pages x $0.00482. The category is crowded, so the conservative case is the planning case.",
+        "scenarios": [
+          {
+            "case": "Conservative",
+            "sales_per_month": 10,
+            "kenp_pages_per_month": 1500,
+            "estimated_monthly_revenue_usd": 35
+          },
+          {
+            "case": "Mid",
+            "sales_per_month": 25,
+            "kenp_pages_per_month": 6000,
+            "estimated_monthly_revenue_usd": 99
+          },
+          {
+            "case": "Optimistic (series of 3+ books)",
+            "sales_per_month": 60,
+            "kenp_pages_per_month": 15000,
+            "estimated_monthly_revenue_usd": 240
+          }
+        ],
+        "revenue_formula": "sales x $2.79 + KENP pages x $0.00482"
+      },
+      "risks_and_mitigation": [
+        "Crowded category with large publishers: differentiate with the bakery setting, a clear series hook and a strong cover.",
+        "AI-drafted romance can read flat: the manuscript needs a human editor focused on dialogue and chemistry before upload.",
+        "Category and keyword choices are not verified in the KDP picker: check before publishing.",
+        "No demand data: run a small test with a single Book 1 price before committing to Book 2."
+      ]
+    }
   }
 ]
