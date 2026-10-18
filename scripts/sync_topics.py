@@ -78,6 +78,13 @@ def main():
             if key in existing or key in holds or key in used or slug(name) in folders:
                 print(f"skip: {name[:60]}", file=sys.stderr)
                 continue
+            # New rows must be buildable now (guide section 3): text-only or workbook, reading age 6-9 only.
+            fmt = str(t.get("format", "")).strip().lower()
+            age = str(t.get("reading_age", "") or "").strip()
+            if fmt not in ("text-only", "workbook") or age not in ("", "6-9"):
+                errors += 1
+                print(f"ERROR, not added: {name[:60]} (format must be text-only or workbook and reading_age 6-9 or empty; got format '{fmt}', reading_age '{age}'; fixed-layout is paused)", file=sys.stderr)
+                continue
             values = {
                 "No.": next_no,
                 "Date": entry.get("date", ""),
