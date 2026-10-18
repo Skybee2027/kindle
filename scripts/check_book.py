@@ -13,6 +13,7 @@ import subprocess
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+REPO = os.path.dirname(HERE)
 
 AI_LINE = ("This book was created with the assistance of artificial intelligence tools. "
            "All content was reviewed and edited by the publisher.")
@@ -27,7 +28,7 @@ def words_in_range(text):
 def topic_for(folder):
     """Find the topic whose slug matches the book folder name (the picker's rule)."""
     base = os.path.basename(os.path.normpath(folder))
-    with open("ebook-topics/topics-log.json", encoding="utf-8") as f:
+    with open(os.path.join(REPO, "ebook-topics", "topics-log.json"), encoding="utf-8") as f:
         for entry in json.load(f):
             topics = ([entry["selected_topic"]] if entry.get("selected_topic") else []) + (entry.get("selected_topics") or [])
             for t in topics:
@@ -123,7 +124,7 @@ def main():
     if not has_cover:
         cov_json = {"checks": []}
     else:
-        cov = subprocess.run([sys.executable, os.path.join(HERE, "check_cover.py"), os.path.join(folder, "cover-ebook.jpg"), "ebooks-Final"],
+        cov = subprocess.run([sys.executable, os.path.join(HERE, "check_cover.py"), os.path.join(folder, "cover-ebook.jpg"), os.path.join(REPO, "ebooks-Final")],
                              capture_output=True, text=True)
         cov_json = json.loads(cov.stdout)
     for c in cov_json["checks"]:
