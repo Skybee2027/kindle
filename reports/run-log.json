@@ -82,5 +82,12 @@
     "status": "done",
     "book": "ebooks-Final/shorthand-for-murder-a-lantern-bay-cozy-mystery-book-1",
     "detail": "Shorthand for Murder, Book 1: text-only EPUB built (30 chapters, about 65,500 words incl. front and back matter, EB Garamond embedded, OFL license saved). epubcheck 0 errors 0 warnings. check_book.py: all non-cover checks pass; failing items are cover-only (cover-ebook.jpg and cover-brief.json, Kindle-3). Names fixed for look-alike pairs; language check 0 issues. Finish: used-topics, topics-log used_on, topics-list Status Used - 2026-10-18, pick_topic now returns Study Smarter. Nothing uploaded to Amazon. Cover pending for Kindle-3. Word count is near the top of the allowed range."
+  },
+  {
+    "at": "2026-10-18 18:56",
+    "robot": "Kindle-4",
+    "status": "idle",
+    "book": "",
+    "detail": "no new book to hand off"
   }
 ]
