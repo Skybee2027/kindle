@@ -40,3 +40,25 @@ Cover: created in Canva (design DAHYZj0dpJ8, https://canva.link/b2hhonvsog6szdn)
 - Section 14: manuscript.docx regenerated from the updated manuscript; KDP-FORM-ANSWERS.md regenerated from metadata.json.
 - Checks run after these changes: build_epub.py (cover true, 3 fonts embedded); epubcheck (0 errors, 0 warnings); check_book.py (all checks pass).
 - Open item for owner: the approved cover shows a small series line and a small tagline. Section 6 says no small text except the author name. Owner to decide whether to keep the cover as approved or ask for a revision.
+
+## Cover review (Kindle-3, 2026-10-19)
+- Designs made in this run: 0 (cover-ebook.jpg already present and owner-approved; no redesign).
+- Scripts: check_cover_brief.py pass (11 checks); check_cover.py pass (12 checks); check_language.py pass (0 issues).
+- Visual review at full size:
+  - Title lines "Shorthand" / "for Murder": present, largest element, readable. Pass.
+  - Subtitle "A Lantern Bay Cozy Mystery, Book 1": present, spelled as metadata. Pass.
+  - Author "Skybee": present at bottom, spelled correctly. Pass.
+  - Series line "LANTERN BAY COZY MYSTERY": present and spelled as brief. Pass (small text; see open item).
+  - Tagline "Every word on the record.": present and spelled as brief. Pass (small text; see open item).
+  - Badge: none (rule for Women Sleuths is "none"). Pass.
+  - Genre and look: a woman seen from behind at a lit typewriter in a window over a river town at dusk, with a steno-tape ribbon. Matches the profile's look (one sleuth figure, clue motif, quiet town, elegant serif title in cream on deep colour).
+  - Avoid list (bright cartoon colours, romance-cover poses, gore): none present.
+  - Palette: deep plum, amber, cream as briefed.
+- Open item: the series line and tagline are small. The cover guide section 5 asks for the series line and tagline to be short, and the owner noted this before. Owner to confirm the cover as approved.
+- Why it suits the book: the steno tape running from a lit window over a lake town shows the court-reporter clue and the cozy, moody tone of the mystery.
+
+## Kindle-3 run status (2026-10-19)
+- Cover checks: pass. EPUB rebuilt with cover; epubcheck 0 errors, 0 warnings.
+- check_book.py: pass (54 checks).
+- KDP-FORM-ANSWERS.md regenerated from metadata.json.
+- Not completed: full judgement read of manuscript.md (guide step 7, 65,511 words). Only the mechanical checks and earlier continuity notes above were confirmed in this run. Not approved into "Ready to publish/".
