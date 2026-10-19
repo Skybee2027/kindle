@@ -18,7 +18,7 @@ She set up at the end of the second table, the way she always did. Her machine s
 
 Judge had not come with her. The gray cat had considered the matter at breakfast and decided that a council meeting was a poor use of a sunny afternoon, and he had spent the evening asleep on the bench of her steno notes in the spare room, which was where he preferred to be whenever she was working. She had named him for his judicial habits, and he had never once disappointed her.
 
-At six fifty-two, the room was filling. Ruth Kalinowski, the council chair, was sorting papers at the head of the long table under the tall windows. Through the glass behind her, the bay had turned the flat silver it took on in the evenings of a hot July, and the masts in the marina below Front Street stood very still against it. Ed Matlin and Carla Sayer sat together on the left side of the dais, talking in low voices and laughing at something on Carla's phone. Lorraine Haskins sat at the far end of the dais with a ball of blue yarn in her lap and her needles going, as she had done at every meeting since the nineties. Ted Vance, who had not yet decided how he would vote on anything since he was elected, was rearranging his pens for the third time.
+At six fifty-two, the room was filling. Ruth Kalinowski, the council chair, was sorting papers at the head of the long table under the tall windows. Through the glass behind her, the bay had turned the flat silver it took on in the evenings of a hot July, and the masts in the marina below Front Street stood very still against it. Ed Matlin and Carla Sayer sat together on the left side of the dais, talking in low voices and laughing at something on Carla's phone. Lorraine Haskins sat at the far end of the dais with a ball of blue yarn in her lap and her needles going, as she had done at every meeting since the nineties. Ted Vance, who had not decided how he would vote on anything since he was elected, was rearranging his pens for the third time.
 
 Dale Whitcomb took the chair nearest the aisle without speaking to anyone. He was seventy-one years old, lean in the way of men who had spent their lives hauling coils of rope and outboard motors, and he wore the same navy windbreaker he had worn to every meeting for as long as Greta had been covering them. He owned Whitcomb Marine Supply on Front Street. He had been a harbor commissioner for nine years. He had buried a wife, raised a son who now lived in Chicago and rarely called, and he had a small brown pill bottle that rode in the breast pocket of that windbreaker. Greta had seen him take one of the pills once, quickly, with his back to the room, and had decided not to notice.
 
@@ -114,7 +114,7 @@ He turned and went down the stairs without waiting for an answer. Greta listened
 
 She put her hand on the canvas bag. Under the cloth she could feel the stiff edge of the folded tape, the record of everything anyone had said in that room that night, including the things they had not meant the room to hear.
 
-It was the last full sentence Dale Whitcomb ever spoke in her hearing.
+It was the last thing Dale Whitcomb ever said to her face.
 
 ## Chapter 2: Judge on the Notes
 
@@ -174,7 +174,7 @@ She had turned it to silent before the meeting, and she had forgotten it entirel
 
 Under it, in a second line she had not expected, a voicemail icon.
 
-She sat down again and looked at the screen for a long moment. It was ten thirty-two in the evening. Dale had called her at nine forty-one, while she was still in the hall with her bag over her shoulder, watching the last of the council members leave. He had not called her in the eight years she had known him. The town had a number for transcripts, and a number for the Gazette, and a number for her email. Dale had always preferred to shout across a room.
+She sat down again and looked at the screen for a long moment. It was ten thirty-two in the evening. Dale had called her at nine forty-one, while she was driving home with the radio off and the window down, and she had not heard the phone over the wind. He had not called her in the eight years she had known him. The town had a number for transcripts, and a number for the Gazette, and a number for her email. Dale had always preferred to shout across a room.
 
 She pressed play.
 
@@ -190,7 +190,7 @@ The message ended.
 
 Greta played it again. Then a third time, with her eyes closed, the way she had once listened to a witness's testimony on a bad recording to find the word that had been swallowed. *Somebody at the back.* Her mind filled the room with faces. Gordon in the front row. Tessa beside him with the folder. Walt under the portrait. Helen with her hand on the laptop. Priya in the gallery. Ed and Carla on the dais. And in the back row, beside Walt, the bangles glinting in the fluorescent light as Bernice Oakes reached for her notebook.
 
-Half of the room had been at the back of the room at one point or another that night. Dale had not said who. He had only said that someone had said it, and that he had heard.
+Half the room had drifted toward the back at one point or another that night. Dale had not said who. He had only said that someone had said it, and that he had heard.
 
 She typed a reply with her thumb: *Seven. I'll be there. I'll bring the tape.* She sent it, and watched the small word *Delivered* appear beneath it, and then, after a moment, the phone lit up again with a single line in reply.
 
@@ -268,7 +268,7 @@ Sam's face changed. He looked at her for a long moment, and she saw him decide s
 
 At the foot of the stairs, a blue tarp had been laid over something on the concrete. It was neatly arranged, as if whoever had placed it had wanted to be careful. Beside it stood a pair of rubber boots, the kind a man wore to go down a boat ramp. Greta did not look at the tarp for very long. She looked at the boots.
 
-"Dale fell," Sam said quietly. "From the landing to the bottom of the stairs. It looks like his heart went first. We found his pills in his shirt pocket, the ones he has for his angina, and the bottle was half empty. Lyle thinks he was coming down to check the ramp lines before the morning tide. The dock's wet from the rain last night and the bottom step is slick. It's a bad fall, Greta. I'm sorry."
+"Dale fell," Sam said quietly. "From the landing to the bottom of the stairs. It looks like his heart went first. We found his pills in his shirt pocket, the ones he has for his angina, and the bottle was half-empty. Lyle thinks he was coming down to check the ramp lines before the morning tide. The dock's wet from the rain last night and the bottom step is slick. It's a bad fall, Greta. I'm sorry."
 
 Greta's throat felt tight. She could not look away from the boots.
 
@@ -321,7 +321,7 @@ The county medical examiner's investigator arrived at eight-twenty in a silver m
 
 While she waited, Greta looked at the lot.
 
-It was a plain stretch of gravel and crushed shell that ran from the front of the Harbor Office down along the side of the building to the back, where the commission's trucks were parked and where a single tall light pole stood over a cluster of old oil drums. Beyond the drums, a row of cedar hedging hid the fuel tanks from the marina road. The back door stood open. The concrete landing outside it was about five feet deep and had a rusted iron railing along one side. From the landing, a flight of fourteen concrete steps ran down to the boat ramp, which sloped into the water and had a wooden walkway along its north edge where the dock lines were tied.
+It was a plain stretch of gravel and crushed shell that ran from the front of the Harbor Office down along the side of the building to the back, where the commission's trucks were parked and where a single tall light pole stood over a cluster of old oil drums. Beyond the drums, a row of cedar hedging hid the fuel tanks from the marina road. The back door stood open. The concrete landing outside it was about five feet deep and had a rusted iron railing along one side. From the landing, a flight of thirteen concrete steps ran down to the boat ramp, which sloped into the water and had a wooden walkway along its north edge where the dock lines were tied.
 
 Greta counted the steps from the top, the way she counted everything. Thirteen. She could see the bottom one, slick with a dull dark sheen that might have been water or might have been something else, and she could see that the railing on the lower half of the flight had a bright new scrape along its middle bar, as though someone had caught it with a shoe or a hip and slid.
 
@@ -555,7 +555,7 @@ Greta read the line once. Then she read it again. Then she put her hand flat on 
 
 The council had been in recess at eight fifty-two. Everyone had been in the lobby. Ruth had said *ten minutes* and walked out to the hall. Ed and Carla had gone to the stairs. Helen had gone after them with her laptop under her arm. Greta had sat at her table with her hands in her lap and watched the door swing shut, and she had seen Dale go into the lobby with Gordon Strand behind him, and she had heard no word from either of them.
 
-No words had been recorded. The tape had been silent for fourteen minutes. She had marked it herself, with her own time-key: *8:50, recess. 9:05, resumed.* Between those two lines there was nothing but the faint hum of the fluorescent lights and the distant gurgle of the coffee urn. There was no statement. There was no motion. There was no sentence about the survey, and no withdrawal.
+No words had been recorded. The tape had been silent for fifteen minutes. She had marked it herself, with her own time-key: *8:50, recess. 9:05, resumed.* Between those two lines there was nothing but the faint hum of the fluorescent lights and the distant gurgle of the coffee urn. There was no statement. There was no motion. There was no sentence about the survey, and no withdrawal.
 
 And Dale had not come back into the room until nine-oh-nine. Greta knew that because she had looked up from her tape at the sound of the door. He had walked in with his jaw set and his hands in his pockets, and he had sat down in his chair without saying a word, and he had folded his hands on the table in front of him like a man trying not to fidget. He had said nothing for the rest of the meeting. Not one word.
 
@@ -587,7 +587,7 @@ Greta stared at the number.
 
 Her tape said nine-fourteen. She had typed the time herself, at the bottom of the page, when Ruth said *we're adjourned* and Dale Whitcomb had walked out the door without looking back at Gordon Strand. She had written *9:14, adjourned*, and she had underlined it twice, the way she underlined anything that might later have to be read aloud in a room full of people who did not trust her.
 
-It was worse than the number. The same page had the council reconvening at 9:05, and then, a few lines lower, adjourning at 8:58, eight minutes before it had come back into session. Nobody could adjourn a meeting before it resumed, and the clerk who had typed that line had not noticed that it contradicted the line above it. 16 minutes. 16 minutes in which the record of the evening had been cut short, and a vote had been added, and a sentence had been put into the mouth of a man who had been sitting silently in his chair.
+It was worse than the number. The same page had the council reconvening at 9:05, and then, a few lines lower, adjourning at 8:58, seven minutes before it had come back into session. Nobody could adjourn a meeting before it resumed, and the clerk who had typed that line had not noticed that it contradicted the line above it. Sixteen minutes. 16 minutes in which the record of the evening had been cut short, and a vote had been added, and a sentence had been put into the mouth of a man who had been sitting silently in his chair.
 
 She sat back. The tilting chair creaked beneath her, and the library's ceiling fan turned slowly overhead, pushing the warm air in lazy circles. Somewhere behind her a child was reading aloud in a careful, halting voice. A printer clattered. Joan Cho laughed at something on the phone at the front desk.
 
@@ -690,7 +690,7 @@ Greta leaned in. "Where's the fourteenth?"
 
 Helen stared at the screen. Her lips moved silently. She scrolled down, then back up, then clicked the column heading to sort the list by date, and then by name, and then by size. The file was not there.
 
-"It should be here," she said. Her voice had gone thin. "I put it on the drive myself on Tuesday night. 10:40, I think, I came back from the Center and I uploaded it from my laptop before I went home. I remember because I was so tired I had to type my password twice." She clicked again. "Greta, it's not here. It's gone. It was here Tuesday night. Bernice's service picks up the audio from this folder for the transcripts. That's how the system works. Nobody else has the login."
+"It should be here," she said. Her voice had gone thin. "I put it on the drive myself on Tuesday night. 10:40, I think, from my laptop at the kitchen table, before Bernice's text came in. I remember because I was so tired I had to type my password twice." She clicked again. "Greta, it's not here. It's gone. It was here Tuesday night. Bernice's service picks up the audio from this folder for the transcripts. That's how the system works. Nobody else has the login."
 
 "Nobody else?" Greta asked.
 
@@ -744,7 +744,7 @@ Sam was quiet for a long moment. He looked at the sign-in sheet on the nail, and
 
 Greta looked at him, surprised. He did not look away.
 
-"The clipboard," she said quietly. "Tessa Quill signed in last night at twenty-five to ten."
+"The clipboard," she said quietly. "Tessa Quill signed in on Tuesday night at twenty-five to ten."
 
 "I saw," Sam said. "I'll speak to her. Today."
 
@@ -768,7 +768,7 @@ Helen stood up slowly. At the door, she paused and looked back at the cabinet wi
 
 "Greta," she said. "Who would want a recording gone?"
 
-Greta thought about the tape folded into her canvas bag, and the bangles on a wrist that had been held in a fist at the foot of the Harbor Office steps, and a man in a tan linen jacket walking beside a coffee urn with his head bent low.
+Greta thought about the tape folded into her canvas bag, and the bangles Bernice Oakes had held in her fist at the foot of the Harbor Office steps, and a man in a tan linen jacket walking beside a coffee urn with his head bent low.
 
 "Someone who wanted it to say something different," she said.
 
@@ -924,7 +924,7 @@ Greta said nothing. She let the silence sit between them, the way she had in a h
 
 "And then?"
 
-"I drove here," Tessa said. "It was after ten. I gave Gordon the folder in his office. He didn't look at it. He just said, *Good girl*, and put it in his desk drawer, and then he went out to the lobby, where Bernice was waiting for him. Her white car was parked behind the building. I could see them through the glass." She pressed her lips together. "I didn't hear what they said. But I saw her laugh."
+"I drove here," Tessa said. "It was after ten. I gave Gordon the folder in his office, all of it except the one page I had folded into my own green folder. He didn't look at it. He just said, *Good girl*, and put it in his desk drawer, and then he went out to the lobby, where Bernice was waiting for him. Her white car was parked behind the building. I could see them through the glass." She pressed her lips together. "I didn't hear what they said. But I saw her laugh."
 
 Greta looked out the windshield at the long white building and the tall windows, and the shadow of the hedge falling across the shell. She thought about a woman with bangles on her wrist, laughing in a lobby.
 
@@ -972,7 +972,7 @@ Greta looked at the young woman beside her, with her cardigan too big across the
 
 "I won't tell him," she said. "But Tessa, you have to tell the truth to Sam. All of it. Including the envelope, and the laugh in the lobby, and the folder in the drawer. He's going to ask you the same questions I asked, and he's going to write down the answers, and then those answers are going to matter a great deal more than your job."
 
-Tessa nodded slowly. Then she looked down at the green folder under her hand, opened the clasp, and lifted out a single sheet of paper. It was the original survey plat, with its real stamp and its real date. She had kept it in the folder all along, folded in quarters. She held it out to Greta with both hands, as carefully as if it were a letter from someone who had died.
+Tessa nodded slowly. Then she looked down at the green folder under her hand, opened the clasp, and lifted out a single sheet of paper. It was the original survey plat, with its real stamp and its real date. She had kept it apart from the rest all along, folded in quarters. She held it out to Greta with both hands, as carefully as if it were a letter from someone who had died.
 
 "Take it," Tessa said. "Take it to the deputy. Please. I'm so tired of holding it."
 
@@ -1005,7 +1005,7 @@ Greta gave Sam the photographs that evening, on the porch of the lake house, wit
 
 "I'm coming out," he had said. "Don't go anywhere."
 
-He arrived at a quarter to eight in his own pickup, not the county car, and sat on the top step beside her with a can of root beer he did not open. He looked at the photographs on his phone for a long time without speaking. He looked at the one of the survey plat with its July stamp, and then the one of the email with the June stamp, and then the one with the timestamp in the corner, *7/14 9:22 PM*.
+He arrived at a quarter to eight in his own pickup, not the county car, and sat on the top step beside her with a can of root beer he did not open. He looked at the photographs on his phone for a long time without speaking. He looked at the one of the survey plat with its July stamp, and then the one of the email with the June stamp, and then the one with the timestamp in the corner, *7/14 9:52 PM*.
 
 "She was in the Harbor Office at nine-thirty-five," he said finally.
 
@@ -1057,7 +1057,7 @@ Greta read the words aloud, quietly, in the empty room. They sounded exactly lik
 
 She turned the page. The recess was in the middle of it, the gap in the stroke-marks where the room had emptied out and the coffee urn had gurgled and the people had gone out to the lobby. Her own time mark sat there, in the margin. *8:50.* And below it, nothing.
 
-She had typed no word between 8:50 and 9:05. She had typed no word because nothing had been said in the room to type. She knew that, and she had known it at the table, and she had known it again when she read the minutes at the library. But the tape gave her the thing the minutes could not. It gave her the blank space itself, a stretch of paper a little more than fourteen minutes long, with nothing on it at all, like a page left open on purpose.
+She had typed no word between 8:50 and 9:05. She had typed no word because nothing had been said in the room to type. She knew that, and she had known it at the table, and she had known it again when she read the minutes at the library. But the tape gave her the thing the minutes could not. It gave her the blank space itself, a stretch of paper fifteen minutes long, with nothing on it at all, like a page left open on purpose.
 
 The minutes had filled that space. They had put a sentence into the gap, at eight fifty-two, in Dale's name, in a voice that was not his.
 
@@ -1111,7 +1111,7 @@ Priya's face went soft and sad. "He would ask that," she said quietly. "He used 
 
 They were silent for a while. Outside, a pair of ravens landed on the railing of the porch, pecked at each other briefly, and flew off again toward the bluff.
 
-Greta stood up and went to the bookshelf beside the fireplace. The shelf held the paperbacks she could never bear to give away, and behind them, in a flat cardboard box that had once held a box of legal pads, she kept a stack of old transcripts from the Carrow County courthouse. Most of them were from her own years at the bench, but a few were from before her time, copies that a retired judge had given her as a kind of wedding gift when she first started. She pulled out a bundle of them, held together with a red rubber band, and carried it back to the table.
+Greta stood up and went to the bookshelf beside the fireplace. The shelf held the paperbacks she could never bear to give away, and behind them, in a flat cardboard box that had once held a box of legal pads, she kept a stack of old transcripts from the Carrow County courthouse. Most of them were from her own years at the bench, but a few were from before her time, copies that a retired judge had given her as a kind of welcome gift when she first started on the bench. She pulled out a bundle of them, held together with a red rubber band, and carried it back to the table.
 
 "These are from the old courthouse," she said. "Other reporters' work. Some of it is very good. Some of it is not."
 
@@ -1131,7 +1131,7 @@ Priya stared at the page. Then she looked back at the draft.
 
 "It's the same person," she said, very quietly.
 
-"It's the same habit," Greta said. "That's not proof. A court can't convict on a verbal tic. But Greta Lowe can write down what she heard, and what she heard was a man saying things in his own voice, and what the clerk typed was a voice that wasn't his, in a sentence Bernice Oakes would have written." She sat down again. "And there's something else."
+"It's the same habit," Greta said. "That's not proof. A court can't convict on a verbal tic. But I can write down what I heard, and what I heard was a man saying things in his own voice, and what the clerk typed was a voice that wasn't his, in a sentence Bernice Oakes would have written." She sat down again. "And there's something else."
 
 "What?"
 
@@ -1219,7 +1219,7 @@ Sam was silent for a moment. Then he said, in a voice that was much gentler than
 
 She ended the call and sat looking at the sign in the hardware store window across the street, with its cheerful, bitter words. *WE WILL MISS YOUR TEMPER.* Somewhere beyond the harbor a horn sounded twice, long and low, and a gull answered it.
 
-Her phone buzzed again, a few minutes later, while she was still sitting in the car. This time it was an email, from an address she knew well, though she had not seen it in nearly two years. It came from a domain she recognized at once, the small private firm in Fennick Falls that had been, for the better part of a decade, her most dogged professional rival.
+Her phone buzzed again, a few minutes later, while she was still sitting in the car. This time it was an email, from an address she knew well, though she had not seen it in nearly two years. It came from a domain she recognized at once: Oakes Transcription, in Fennick Falls, the firm of a woman she had once sat beside for years in the courthouse.
 
 *Dear Ms. Lowe,*
 
@@ -1307,7 +1307,7 @@ Helen opened her handbag and took out a folded sheet of printer paper. She held 
 
 Greta read the lines twice.
 
-"I printed that on Friday, in the library, after you'd gone," Helen said. "I got it from the town's document system. I'm the administrator, so I can see what the file history says. I've never looked at it before. Nobody does, really. You just click *approve* and go to bed." She swallowed. "Greta, the draft was created at ten fifty-eight on Tuesday night. Two hours after Ruth gaveled the meeting closed. And Bernice sent me the link at eleven-thirty, and I approved it at eleven fifty-two, and it had been changed at eleven forty-one, after I'd already looked at it on my phone."
+"I printed that on Friday, in the library, after you'd gone," Helen said. "I got it from the town's document system. I'm the administrator, so I can see what the file history says. I've never looked at it before. Nobody does, really. You just click *approve* and go to bed." She swallowed. "Greta, the draft was created at ten fifty-eight on Tuesday night. An hour and forty minutes after Ruth gaveled the meeting closed. And Bernice sent me the link at eleven-thirty, and I approved it at eleven fifty-two, and it had been changed at eleven forty-one, after I'd already looked at it on my phone."
 
 "Changed how?"
 
@@ -1405,7 +1405,7 @@ The entries were dated, but not always neatly. Some of them had only a day. Some
 
 *Tues. 8:50. Recess. Lobby. Gordon + B.O. at the urn. Heard it plain: "Have it cleaned up by morning, before she approves it." Clean up WHAT? I was on my feet.*
 
-*Tues. 9:02. Back in the room. Remained there like a fool with my hands on the table, not trusting my mouth. Walked out at 9:14. Called G.L. Steno. Seven a.m.*
+*Tues. 9:09. Back in the room. Remained there like a fool with my hands on the table, not trusting my mouth. Walked out at 9:14. Called G.L. Steno. Seven a.m.*
 
 Greta stopped reading and looked at the words for a long time. Then she moved on.
 
@@ -1415,7 +1415,7 @@ Greta stopped reading and looked at the words for a long time. Then she moved on
 
 *Tessa Q. Scared. Good kid. Ask her about the survey. Ask her who gave her the July stamp.*
 
-*Survey signed 7/2. Comment closed 6/30. Thirteen words of law and a stamp. That's all they need.*
+*Survey signed 7/2. Comment closed 6/30. A signature and a stamp. That's all they need.*
 
 *Wednesday. 6 a.m. Harbor. Pull the audio off that drive myself if I have to. Check the back stairs. Rail's loose at the bottom. Tell Lyle.*
 
@@ -1565,7 +1565,7 @@ For the first time, Bernice's eyes flickered. It was barely a movement. A slight
 
 "You said you left at quarter past eight," Greta said. "To Sam. To me, in the lot."
 
-"I said I was home by nine-thirty," Bernice said. "I left the meeting early. I did leave early. I had a client to think about, and a long drive. I went out the back way while the council was still talking, and I didn't come back until the next morning, when Helen called me." She spread her hands on the table. "If you want to ask me whether I stood by the urn for ninety seconds on Tuesday night, the answer is yes. I did. It's the most ordinary thing in the world. Ask anyone who was in that lobby."
+"I said I was home by nine-thirty," Bernice said. "I left the meeting early. I did leave early. I had a client to think about, and a long drive. I went out the back way while the council was still talking, and I came back in only long enough to collect my notebook." She spread her hands on the table. "If you want to ask me whether I stood by the urn for ninety seconds on Tuesday night, the answer is yes. I did. It's the most ordinary thing in the world. Ask anyone who was in that lobby."
 
 "I'm asking you," Greta said.
 
@@ -1573,7 +1573,7 @@ For the first time, Bernice's eyes flickered. It was barely a movement. A slight
 
 Priya stirred beside her, and Greta felt her friend's hand touch her elbow, lightly, a warning or a question.
 
-"Dale came to your office in June," Greta said. "Did not he?"
+"Dale came to your office in June," Greta said. "Didn't he?"
 
 Bernice blinked. "Yes."
 
@@ -1607,11 +1607,11 @@ Priya did not say anything until they had reached the van and climbed inside and
 
 "She knew you'd come," Priya said. "She had the whole thing set up for you. The monitor, the laptop, the coffee, the binder with the blue cover. She wanted you to see the gap and think it was a dropout."
 
-"She wanted me to hear it," Greta said. "And to know she could say what she liked about it, and nobody would be able to prove her wrong, because the only other copy was in a house that had been emptied out." She looked back at the Victorian, with its clean windows and trimmed lawn and its brass plate beside the door. "But she made one mistake."
+"She wanted me to hear it," Greta said. "And to know she could say what she liked about it, and nobody would be able to prove her wrong, because the only other copy had been swept out of a trash bin by a scheduled task." She looked back at the Victorian, with its clean windows and trimmed lawn and its brass plate beside the door. "But she made one mistake."
 
 "What?"
 
-"She told me the dropout was a gain event," Greta said. "But a gain event on one channel doesn't stop a coffee urn in the lobby, and it doesn't stop a refrigerator on the other side of a wall. The urn kept gurgling through every other second of that recess, and it stopped with everything else at eight fifty-two. Whoever cut that file cut the whole building out, Priya, not one microphone."
+"She told me the dropout was a gain event," Greta said. "But a gain event on one channel doesn't stop a coffee urn in the lobby, and it doesn't stop a refrigerator on the other side of a wall. The urn kept gurgling through the rest of that recess, and it stopped with everything else at eight fifty-two. Whoever cut that file cut the whole building out, Priya, not one microphone."
 
 Priya turned and stared at her. Then, slowly, she smiled.
 
@@ -1660,7 +1660,7 @@ Greta wrote *T.V. out 8:20 (sick?). Walked home.* She underlined *sick?* and the
 
 "And Tessa?"
 
-"Tessa stayed in her seat," Greta said. "She never left the room. She sat with that green folder on her knees for the whole meeting, and she didn't take a single note after Dale spoke about the survey. She was looking at the folder as if it might bite her." She wrote *T.Q. stayed in room. Folder.* "And after the vote, she left through the front with Gordon's jacket over her arm. I saw her go down the stairs at nine-fifteen. Or thereabouts."
+"Tessa stayed in her seat," Greta said. "She never left the room during the recess. She sat with that green folder on her knees for the whole meeting, and she didn't take a single note after Dale spoke about the survey. She was looking at the folder as if it might bite her." She wrote *T.Q. stayed in room. Folder.* "And after the vote, she left through the front with Gordon's jacket over her arm. I saw her go down the stairs at nine-fifteen. Or thereabouts."
 
 "She signed the back door sheet at nine-thirty-five," Priya said. "Sam told me. Sam tells me everything when he's been up for twenty hours and forgets I'm not a deputy."
 
@@ -1698,7 +1698,7 @@ Greta's pencil stopped.
 
 "What time?" she asked.
 
-"Nine-fifty," Priya said. "Maybe nine-forty-eight. I looked at the clock on the register because I was waiting for the book club's last check. It was going north, toward the harbor. Toward Pier Street." She swallowed. "I didn't think anything of it. I thought it was some tourist who'd got lost on the way to the lake. Then I saw the car again on Monday, when you and I drove out of Fennick Falls and it was sitting in the gravel lot behind that house. I didn't say anything. It was none of my business."
+"Nine-fifty," Priya said. "Maybe nine-forty-eight. I looked at the clock on the register because I was waiting for the book club's last check. It was going north, toward the harbor. Toward Pier Street." She swallowed. "I didn't think anything of it. I thought it was some tourist who'd got lost on the way to the lake. Then I saw the car again on Monday, when you and I drove out of Fennick Falls and it was sitting in the gravel lot behind that house. I didn't say anything until we got there. It was none of my business."
 
 "You didn't tell me."
 
@@ -1772,7 +1772,7 @@ Bo laughed, a short, hard sound. "I was in my truck. Tuesday night. I was drinki
 
 "For now," Greta said.
 
-He snorted. "That's what the sheriff said, too. He was up here on Thursday asking the same questions. He wrote it all down in a little book and told me not to leave town."
+He snorted. "That's what the sheriff said, too. He was up here last Thursday asking the same questions. He wrote it all down in a little book and told me not to leave town."
 
 Greta looked at him for a long moment. He was not a clever man, she thought, and he was not a gentle one, but he was not hiding anything large. His hands were shaking. His eyes kept going back to the shed, where a rusted metal sign still hung on the door. *FUEL — NO SMOKING — DALE WHITCOMB, MANAGER.*
 
@@ -1780,7 +1780,7 @@ Greta looked at him for a long moment. He was not a clever man, she thought, and
 
 Bo's face went blank. "Yeah?"
 
-"He wrote your initials in it. *B.L.* On a page with the date in June, and the words *can't spell lease*. Do you know what he meant by that?"
+"He wrote your name in it. *Bo L.* On a page with the date in June, and the words *can't spell lease*. Do you know what he meant by that?"
 
 Bo laughed again, but this time there was something different in it, something almost sad. "He meant I can't spell. Which is true. He used to stand over me in the fuel shed and spell words out for me, like I was a kid. *L-E-A-S-E.* As if it were a school test." He looked down at the gravel. "He was a mean old buzzard, Dale. But he never once pretended he was something he wasn't. You had to respect that."
 
@@ -1953,7 +1953,7 @@ He turned the sheet of paper around on the table and slid it across to her. Gret
 
 Greta looked up from the page. Walt's face was turned toward the portholes, where the first thin light of the morning was creeping over the water.
 
-"I didn't go in," he said quietly. "That's what it says, Greta. Four times. I wrote it four times, like a schoolboy doing punishment lines. I didn't go in."
+"I didn't go in," he said quietly. "That's what it says, Greta. Three times. I wrote it three times, like a schoolboy doing punishment lines. I didn't go in."
 
 "Walt," Greta said gently.
 
@@ -1993,7 +1993,7 @@ Walt was silent for a long moment.
 
 "You saw her face?"
 
-"Only for a second," Walt said. "She turned her head toward the water, and I saw her profile through the windshield. Gray cardigan. Hair pinned up at the back. And the bangles on her left wrist, flashing in the sun when she moved her hand away from her cheek. I'd know that sound anywhere. I sat next to it for three hours on Tuesday night." He looked down at the table. "I'm sorry, Greta. I should have said so on Wednesday. I should have said so to Sam when he came around asking who'd been on the shore road."
+"Only for a second," Walt said. "She turned her head toward the water, and I saw her profile through the windshield. Gray cardigan. Hair pinned up at the back. And the bangles on her left wrist, flashing in the sun when she moved her hand away from her cheek. I'd know that sound anywhere. I sat next to it for two hours on Tuesday night." He looked down at the table. "I'm sorry, Greta. I should have said so on Wednesday. I should have said so to Sam when he came around asking who'd been on the shore road."
 
 "You didn't know what you'd seen," Greta said.
 
@@ -2007,7 +2007,7 @@ He stood up slowly, bent almost double under the low cabin roof, and took the co
 
 Walt nodded slowly. "He didn't wait for either of us," he said. "He was never any good at waiting."
 
-They sat in silence for a while. The cabin was warm now, and the coffee was bitter and strong. Greta looked at the sheet of paper on the table, with its four careful lines of *didn't go in*, and thought of a clerk who had typed a sentence she did not understand, and a man who had walked up Pier Street with his hands in his pockets, looking like a man on the way to a fight.
+They sat in silence for a while. The cabin was warm now, and the coffee was bitter and strong. Greta looked at the sheet of paper on the table, with its three careful lines of *did not go in*, and thought of a clerk who had typed a sentence she did not understand, and a man who had walked up Pier Street with his hands in his pockets, looking like a man on the way to a fight.
 
 "Walt," she said. "Will you say this to Sam? Today?"
 
@@ -2019,7 +2019,7 @@ They sat in silence for a while. The cabin was warm now, and the coffee was bitt
 
 Outside, the first boat of the morning was starting its engine at the fuel dock, a steady, rising rumble that carried across the water. The light had turned gold on the breakwater. Greta drank her coffee slowly, and then she stood up, her head bent under the cabin roof, and went up the companionway into the morning.
 
-Walt did not follow her. He sat on the bench in the warm cabin with his hands folded on the table, looking at the lake chart on the wall, and she heard him say, very quietly, to no one at all, "Four times. I wrote it four times."
+Walt did not follow her. He sat on the bench in the warm cabin with his hands folded on the table, looking at the lake chart on the wall, and she heard him say, very quietly, to no one at all, "Three times. I wrote it three times."
 
 ## Chapter 20: The Silver Link
 
@@ -2107,7 +2107,7 @@ Greta thought of a woman in a dark blue blouse, sitting at the head of a round t
 
 "Sam," she said quietly. "The judge will need more than a code and a bangle."
 
-"I know," Sam said. "I'm going to Judge Vickers on Sunday afternoon, with everything I've got. The logs. The bangle. Walt's four lines. Tessa's photographs. Ted's statement, which he's giving me this afternoon. Helen's approval time, and the invoice, and the purchase order that says *per G. Strand*." He tucked his hands into his back pockets. "It's not enough to arrest anybody. But it might be enough to look in a trunk."
+"I know," Sam said. "I'm going to Judge Vickers on Sunday afternoon, with everything I've got. The logs. The bangle. Walt's three lines. Tessa's photographs. Ted's statement, which he's giving me this afternoon. Helen's approval time, and the invoice, and the purchase order that says *per G. Strand*." He tucked his hands into his back pockets. "It's not enough to arrest anybody. But it might be enough to look in a trunk."
 
 "Corliss?"
 
@@ -2183,9 +2183,9 @@ Sam stood up, stretching his back until something clicked.
 
 Greta took the phone and looked at the screen.
 
-It was a long, dense table of rows, each one with a time stamp and an action. Most of the entries were routine: a file uploaded, a file opened, a file closed. Helen's name appeared several times in the early evening of Tuesday, July 14, each time with the single word *uploaded* beside a recording name. Then the rows continued, past midnight, and the names changed.
+It was a long, dense table of rows, each one with a time stamp and an action. Most of the entries were routine: a file uploaded, a file opened, a file closed. Helen's name appeared several times in the late evening of Tuesday, July 14, each time with the single word *uploaded* beside a recording name. Then the rows continued, past midnight, and the names changed.
 
-*07/14/2026 11:47:02 PM — oakes-tx — Opened — CC_0714_Regular.wav — Workstation: OT-03.*
+*07/14/2026 11:36:02 PM — oakes-tx — Opened — CC_0714_Regular.wav — Workstation: OT-03.*
 
 *07/14/2026 11:52:19 PM — oakes-tx — Saved — CC_0714_Regular_WORKING.wav — Workstation: OT-03.*
 
@@ -2209,7 +2209,7 @@ Greta read the last line twice. Then she read the whole block again, slowly, wit
 
 "So the town's recording is gone," Greta said, "and the only copy is the one that Bernice Oakes has been editing for a week, with her own splice in the middle, and a dropout she calls a gain event." She handed the phone back to him, carefully. "And she thought nobody would ever be able to prove she'd been in that building at six thirty-one on Wednesday morning, because the keypad only records entries."
 
-"Except the keypad recorded her at five fifty-eight," Sam said. "And the log recorded her at six thirty-one. And a fisherman saw her car at six-twelve, and a woman saw her sitting in it on Pier Street at six-forty, with her hand pressed to her face." He put the phone back into his pocket. "It's a lot of people who saw her, Greta. For a woman who's always so calm."
+"Except the keypad recorded her at five fifty-eight," Sam said. "And the log recorded her at six thirty-one. And a fisherman saw her car at six-twelve, and Walt Brandt watched her drive away at six-forty with her hand pressed to her face." He put the phone back into his pocket. "It's a lot of people who saw her, Greta. For a woman who's always so calm."
 
 "She didn't think anybody was watching," Greta said. "She's used to being the one who writes things down."
 
@@ -2248,7 +2248,7 @@ She stood at the post with the envelope in her hand and did not open it right aw
 
 Then she opened the envelope with her thumbnail, the way she had been taught never to open anything in a hurry.
 
-Inside was a single card, heavy and cream-colored, with a deckled edge. She knew the stock at once. She had seen it on Tuesday in a bunch of white lilies on a casket, tucked into the arrangement with a card that said *With deepest respect*. This card said nothing as elaborate. It had been typed on the same kind of paper, and in the same clean serif font that had appeared on every page of the draft minutes, and on the transcription firm's invoice that Helen Marsh had shown her in the minivan.
+Inside was a single card, heavy and cream-colored, with a deckled edge. She knew the stock at once. She had seen it on Saturday in a bunch of white lilies on a casket, tucked into the arrangement with a card that said *With deepest respect*. This card said nothing as elaborate. It had been typed on the same kind of paper, and in the same clean serif font that had appeared on every page of the draft minutes, and on the transcription firm's invoice that Helen Marsh had shown her in the minivan.
 
 *Leave the minutes alone, Greta. The record is settled. You have been kind to this town for a long time. Don't let it be unkind to you.*
 
@@ -2402,7 +2402,7 @@ Greta thought for a moment. "Priya," she said. "You. Me. The paper was on the be
 
 "Did anybody come into this house in the last week?"
 
-"Tessa Quill, once, in the afternoon, with a box of lemon bars from Priya," Greta said slowly. "Ted Vance, last Thursday, on foot, after dark. Priya, most days. You, on Saturday, with the bad coffee." She paused. "And Eleanor Strand, at the church door on Saturday, not in the house at all. She asked whether I'd take a cup of tea in the parish hall after the service. I said no. She stood there a long time after that, looking at my face."
+"Tessa Quill, once, in the afternoon, with a box of lemon bars from Priya," Greta said slowly. "Ted Vance, last Thursday, on foot, after dark. Priya, most days." She paused. "And Eleanor Strand, at the church door on Saturday, not in the house at all. She asked whether I'd take a cup of tea in the parish hall after the service. I said no. She stood there a long time after that, looking at my face."
 
 Sam was silent. Then he took out his notebook and wrote the names down, one under another, in his careful capitals.
 
@@ -2567,7 +2567,7 @@ Priya's van pulled into the gravel at five past five, its engine rattling, and P
 
 "I know," Greta said.
 
-She picked up her canvas bag from the hall chair, checked the zip, and felt the stiff edge of the tape folded inside it, and the photocopy of Dale Whitcomb's notebook, and the typed transcript she had finished at four o'clock that morning, after Sam's call. She set the bag on her shoulder. Then she knelt on the rug and rubbed Judge's ears one last time, and he tolerated it with his eyes half closed.
+She picked up her canvas bag from the hall chair, checked the zip, and felt the stiff edge of the tape folded inside it, and the photocopy of Dale Whitcomb's notebook, and the typed transcript she had finished at noon, after Sam's eight o'clock call. She set the bag on her shoulder. Then she knelt on the rug and rubbed Judge's ears one last time, and he tolerated it with his eyes half closed.
 
 "Be good," she told him. "Don't sleep on anything important."
 
@@ -2617,11 +2617,11 @@ Sam tapped it.
 
 The room was silent. Greta could hear the faint tick of the clock above the door and the distant, muffled sound of voices from the council chamber on the other side of the wall, where the crowd was beginning to gather for the session. Walt had stopped touching his tie. Helen had put her hand over her mouth.
 
-*Harbor. July 15, 2026. 6:33 AM. Duration 6:45.*
+*Harbor. July 15, 2026. 6:33 AM. Duration 4:52.*
 
 Sam turned up the volume on the phone and set it on the table in the middle of the circle of lamplight, and pressed play.
 
-For the first few seconds there was only the hiss of a small microphone in a room with a high ceiling, and the faint, distant clatter of an old radiator. Then came a sound that Greta knew at once, though it had been ten days since she had last heard it: the heavy metal scrape of a door opening on a hinge that needed oil.
+For the first few seconds there was only the hiss of a small microphone in a room with a high ceiling, and the faint, distant clatter of an old radiator. Then came a sound that Greta knew at once, though it had been twelve days since she had last heard it: the heavy metal scrape of a door opening on a hinge that needed oil.
 
 A man's voice, very close, hoarse and breathing hard.
 
@@ -2897,7 +2897,7 @@ She looked up, across the room, at the front row.
 
 Greta closed the transcript. Her hands were steady. The room was perfectly silent, so silent that she could hear, very faintly, the rustle of Bernice Oakes's notebook as its owner's cuffed hands moved over its cover.
 
-"That is the record of the fourteenth of July," Greta said. "No motion was made to approve the lease. No vote was taken on it. The minutes prepared from the audio were altered after the meeting. The statement attributed to Commissioner Whitcomb during the recess was not made in this room, and the reporter did not hear it. The tape shows a silence of fourteen minutes and eleven seconds." She paused. "The reporter has signed the transcript, and she will swear to it."
+"That is the record of the fourteenth of July," Greta said. "No motion was made to approve the lease. No vote was taken on it. The minutes prepared from the audio were altered after the meeting. The statement attributed to Commissioner Whitcomb during the recess was not made in this room, and the reporter did not hear it. The tape shows a silence of fifteen minutes." She paused. "The reporter has signed the transcript, and she will swear to it."
 
 She sat down.
 
@@ -3005,7 +3005,7 @@ Ruth took off her glasses and set them on the table.
 
 Helen read the tally from the screen, and her voice cracked on the last word.
 
-"The motion to approve the lease," she said, "fails. One for. Four against."
+"The motion to approve the lease," she said, "fails. None for. Five against."
 
 No one cheered. The room did not make a sound. But somewhere near the back, Frances Dunn let out a long, shuddering breath, and Lyle Kemp put his cap back on his head for the first time all evening, and Denise Park began to cry quietly into her daughter's hair.
 
@@ -3126,7 +3126,7 @@ Sam glanced at Greta. Greta said nothing. She had been in enough rooms to know t
 
 She turned to Sam. "Ask, then, Deputy. I'll answer, and then you'll know what kind of woman you've been sitting across from for the last week, and you can tell the county whatever you like."
 
-Sam started with the easy things, because he was a careful man. Her name, her date of birth, her address on Juniper Lane, which was rented, and her employer, which was Bernice Oakes Court Reporting, LLC, one employee, two laptops, and a shared office on Front Street that had once belonged to her late husband's insurance agency. She answered in a clear voice, without hesitation. Greta typed every word, and the machine chattered softly in the close little room, and the fan turned its useless circles.
+Sam started with the easy things, because he was a careful man. Her name, her date of birth, her address on Cutter Street, which was rented, and her employer, which was Oakes Transcription, LLC, one employee, two laptops, and a second-floor room on Front Street in Lantern Bay that she rented for the council work. She answered in a clear voice, without hesitation. Greta typed every word, and the machine chattered softly in the close little room, and the fan turned its useless circles.
 
 Then Sam asked about the fourteenth of July.
 
@@ -3148,7 +3148,7 @@ Then Sam asked about the fourteenth of July.
 
 Sam's pen moved on the pad. "The survey."
 
-"Tessa Quill was the one who had to swap it," Bernice said. "She's a child, Deputy, and I'll say that without any contempt at all. She was frightened of Gordon, and she was very good at her work, and he knew she would do what she was told. I arranged for the surveyor's office to send a second copy, dated June, to the clerk's inbox on the thirteenth. Gordon had the original shredded. Tessa took the one she was given and put it in the file. That's how a comment period closed on the thirtieth of June, in the eyes of the state, for a survey that was signed on the second of July." She shrugged, very slightly. "It's not clever. It doesn't have to be. Nobody in a county office ever reads the stamps."
+"Tessa Quill was the one who had to swap it," Bernice said. "She's a child, Deputy, and I'll say that without any contempt at all. She was frightened of Gordon, and she was very good at her work, and he knew she would do what she was told. I arranged for the surveyor's office to send a second copy, dated June, to Mr. Strand's inbox on the thirteenth. Tessa was supposed to swap it into the commission's file and shred the original. She kept the original instead. That's how a comment period closed on the thirtieth of June, in the eyes of the state, for a survey that was signed on the second of July." She shrugged, very slightly. "It's not clever. It doesn't have to be. Nobody in a county office ever reads the stamps."
 
 "And the minutes."
 
@@ -3160,7 +3160,7 @@ She was silent for a moment, and when she spoke again, her voice had changed. It
 
 "You prepared the draft."
 
-"I prepared the draft from the audio, at my office, on the night of the fourteenth, at ten fifty-eight. I finished the first version by eleven. Then I got a text from Helen at eleven-thirty, with the link, and she was wanting to approve it before she went to bed. So I did something I'd promised myself I would never do in my life. I changed a record after it was made, and I put a sentence in the mouth of a man who had said nothing of the kind." Her hands tightened, very slightly, in her lap. "At eleven forty-one, I added the paragraph. *Commissioner Whitcomb stated for the record: 'The survey satisfies my concerns. I withdraw my objection.'* I changed the vote as well. I wrote 'carried, three to two,' because it had to be carried by three, and the two who would vote no would be the ones Dale didn't trust. I did it all very quickly. I was very good at it, and I hated myself the whole time, and at eleven fifty-two, Helen pressed the button on her phone and went to bed."
+"I prepared the draft from the audio, at my office, on the night of the fourteenth, at ten fifty-eight. I finished the first version by eleven. Then I sent Helen a text at eleven-thirty, with the link, because she wanted to approve it before she went to bed. So I did something I'd promised myself I would never do in my life. I changed a record after it was made, and I put a sentence in the mouth of a man who had said nothing of the kind." Her hands tightened, very slightly, in her lap. "At eleven forty-one, I added the paragraph. *Commissioner Whitcomb stated for the record: 'The survey satisfies my concerns. I withdraw my objection.'* I changed the vote as well. I wrote 'carried, three to two,' because it had to be carried by three, and the two who would vote no would be the ones Dale didn't trust. I did it all very quickly. I was very good at it, and I hated myself the whole time, and at eleven fifty-two, Helen pressed the button on her phone and went to bed."
 
 "Mrs. Oakes," Sam said quietly, "why did you make the change?"
 
@@ -3170,35 +3170,35 @@ Greta typed it down exactly like that. Her fingers did not stop, and her face di
 
 "The second payment," Sam said. "July fifteenth."
 
-"Four thousand five hundred dollars," Bernice said. "In a brown envelope, on the morning of the fifteenth, in his office. Tessa saw it. Gordon told her I would do it, and then he sent me a text saying the job was finished, and I went home and cried at my kitchen table." She closed her eyes for a moment. "And then I went to the Harbor Office and I met Dale Whitcomb, and I told myself I was only going to ask him to be reasonable."
+"Four thousand five hundred dollars," Bernice said. "In a brown envelope, on the morning of the fourteenth, in his office. Tessa saw it. Gordon told her I would do it, and then he sent me a text saying the job was finished, and I went home and cried at my kitchen table." She closed her eyes for a moment. "And then I went to the Harbor Office and I met Dale Whitcomb, and I told myself I was only going to ask him to be reasonable."
 
 "Tell me about the Harbor Office."
 
-She opened her eyes. "I had a code. Denise Park gave it to me on the Tuesday, at the Center, when I asked her to set up an after-hours card for the office computers. She's trusting, Denise. She didn't ask why I needed it. I told her the county had asked for the transcripts to be kept in the harbor records, which was a lie, but she believed it." Bernice's mouth thinned. "I used the code at five-fifty-eight on Wednesday morning, and I went in the back door, and I sat down at the workstation in the back office. Then I logged into the county's recording account, which Gordon's people had given me access to, and I found the file from the fourteenth. The audio. The original. The one that would have shown everyone exactly what I'd done to the minutes."
+She opened her eyes. "I had a code. Denise Park gave it to me on the Tuesday afternoon, at the office, when I asked her for the after-hours card. She's trusting, Denise. She didn't ask why I needed it. I told her the county had asked for the transcripts to be kept in the harbor records, which was a lie, but she believed it." Bernice's mouth thinned. "I used the code at five-fifty-eight on Wednesday morning, and I went in the back door, and I sat down at the workstation in the back office. Then I logged into the county's recording account, which Gordon's people had given me access to, and I found the file from the fourteenth. The audio. The original. The one that would have shown everyone exactly what I'd done to the minutes."
 
 "And?"
 
-"I turned off the trash, so it couldn't be recovered. And I deleted it." Her voice did not waver. "At six thirty-one. I remember because the clock on the wall was just over the monitor, and I watched the number change while my finger was on the key. I had been waiting in that chair since before six, listening to the water against the ramp, thinking about what I was going to say to him. And when I'd finished, I logged out, and I went to the back steps, and I waited for him to come up from the boat yard. He'd said he'd come by himself, at half past six, and he'd always been a punctual man."
+"I turned off the trash, so it couldn't be recovered. I had copied the file to a flash drive first, the way I copy everything. Then I deleted the original." Her voice did not waver. "At six thirty-one. I remember because the clock on the wall was just over the monitor, and I watched the number change while my finger was on the key. I had been waiting in that chair since before six, listening to the water against the ramp, thinking about what I was going to say to him. And when I'd finished, I logged out, and I went out onto the landing to wait for him. He had told Helen he would come by himself, and he had always been a punctual man."
 
-Sam stopped writing. "He had a drive."
+Sam stopped writing. "You had a drive."
 
-"He had a flash drive," Bernice said. "A copy of the audio, made from the office server on the night of the fourteenth. He'd made it himself, before the minutes were changed, because he had a suspicious mind and a good memory for the sound of a clock. He'd been carrying it around in his shirt pocket for three weeks. He told Walt Brandt about it at the bait shop, and Walt told Frances Dunn, and I believe the whole harbor knew by Tuesday that Dale had something he wasn't going to give up."
+"A flash drive," Bernice said. "A copy of the original audio, which I had made before I deleted the file, because I wanted to be able to prove later exactly what I had destroyed. I had it in my hand on the landing. I believe someone had told Dale it existed. I never learned who."
 
 "And on Wednesday morning he came to the steps."
 
-"He came up the back stairs at six thirty-three, a little out of breath, with his phone in his hand," Bernice said. "He was filming me before he'd even reached the top. He said, *You're early.* I didn't say anything for a while. Then I said, *It's the town's record, Dale.* And then he said I could put the drive down, and I realized he was asking me to put down the drive he was holding, the one he'd made, and I was so tired by then that I simply couldn't bear it any longer."
+"He had come in through the front at a quarter past six, and he walked the length of the building looking for me. He came out onto the landing at six thirty-three, a little out of breath, with his phone in his hand," Bernice said. "He was filming me before he'd even reached the top. I said, *You're early, Dale.* I didn't say anything else for a while. Then I said, *It's the town's record, Dale.* And then he told me to put the drive down, and I was so tired by then that I simply couldn't bear it any longer."
 
 "Tell me what happened on the stairs, Mrs. Oakes."
 
 For the first time, Bernice did not answer at once. She looked at her hands, at the thin plastic restraint across her wrists, and then at the glass of water on the table, which had begun to sweat in the close air.
 
-"I took the drive out of his hand," she said finally. "He wouldn't let go of it, and I didn't let go of his wrist, and we were both pulling and shouting. Then he let go of the drive, all at once, the way a man does when he's surprised, and he stepped back to get his balance, and his heel caught on the top step. The one with the crack in it. He went down, Deputy. Backward. He went down the concrete stairs, and I still had his wrist in my hand, and the bangle on my own arm caught his cuff and snapped, and I heard it go. I heard it go like a glass in a sink." She swallowed. "I was holding his wrist when he went. I let go of it at the bottom, or he pulled it out of my hand. I don't know which. I've tried to remember, every night for a week, and I can't."
+"He took hold of my wrist," she said finally. "I still had the drive in my other hand, and I wouldn't let go of it, and we were both pulling and shouting. Then the bangle on my arm caught on his cuff and snapped, and I heard it go, like a glass in a sink. The drive skittered across the landing. He let go of me all at once, the way a man does when he's surprised, and he stepped back to get his balance, and his heel caught on the top step. The one with the crack in it. He went down, Deputy. Backward. He went down the concrete stairs." She swallowed. "I was holding his wrist when he went. I let go of it at the bottom, or he pulled it out of my hand. I don't know which. I've tried to remember, every night for a week, and I can't."
 
 "You said you didn't push him," Sam said.
 
 "I didn't push him," Bernice said. "I want that written down. I was holding on to him, the way you'd hold on to a rope you didn't want to see go. I didn't push him."
 
-Greta's fingers moved steadily over the keys. She did not look up. She had known for a long time that this was what the bruises on the wrist would say, and that this was what the railing bolt would say, and that the people who had seen Bernice Oakes walking up the boat ramp that morning with her hand over her face would not be able to say anything different. She did not feel better for knowing it. She only felt the weight of the sentence settle across her shoulders, the way a record did once it was finally complete.
+Greta's fingers moved steadily over the keys. She did not look up. She had known for a long time that this was what the bruises on the wrist would say, and that this was what the railing bolt would say, and that the people who had seen Bernice Oakes's car leave the Harbor Office that morning, with her hand over her face, would not be able to say anything different. She did not feel better for knowing it. She only felt the weight of the sentence settle across her shoulders, the way a record did once it was finally complete.
 
 "What did you do then, Mrs. Oakes?"
 
@@ -3212,13 +3212,13 @@ Sam set down his pen. He looked, for the first time since they had walked in, li
 
 "Where is the drive now, Mrs. Oakes?"
 
-"In the water, off the boat ramp," Bernice said. "I threw it from the top of the stairs, when I came back up the first time. I don't know why I came back. I think I wanted to see if he was still breathing. He wasn't moving, and I didn't go down." She paused. "My own drive is the one in the grocery bag, in the car. I broke it open at home on Wednesday, with a hammer, on my kitchen floor. I cut my hand doing it. The fragments are wrapped in a towel. I couldn't put them in the lake, either. I'm sorry, Deputy. I seem to have kept a great many things I should have thrown away."
+"In the water, off the boat ramp," Bernice said. "I threw it from the top of the stairs, when I came back up the first time. I don't know why I came back. I think I wanted to see if he was still breathing. He wasn't moving, and I didn't go down." She paused. "My own drive is the one in the grocery bag, in the car. I broke it open at the office this morning, with a hammer, before I drove north. The fragments are wrapped in a towel. I couldn't put them in the lake, either. I'm sorry, Deputy. I seem to have kept a great many things I should have thrown away."
 
 "And the phone?"
 
 "I wrapped it in Frances Dunn's dish towel," Bernice said. "I picked it up off the concrete beside him, after I'd tapped it off, because I thought the police would find it and I didn't want them to hear what it said. And then I put it under the spare tire in my trunk, because I couldn't bring myself to drop it in the bay and I couldn't bear to have it near me in the car." She looked at Greta, very directly, for the first time since the interview had begun. "I was going to throw it away. Every day since. I never did."
 
-Greta stopped typing. She had reached the end of a page, and the machine's paper tape had run out a few inches past the edge of the table, and she did not reach for the next fan-fold. She sat with her hands on the cold keys and looked at the woman across the table, who had taught her half of what she knew about the proper form of a transcript, who had once told a judge in Carrow City that a reporter who could not keep her face still had no business in a courtroom, and who had killed a man on the steps of a boat ramp and then sat in the back row of his town's council chamber and taken its minutes for a week.
+Greta stopped typing. She had reached the end of a page, and the machine's paper tape had run out a few inches past the edge of the table, and she did not reach for the next fan-fold. She sat with her hands on the cold keys and looked at the woman across the table, who had taught her half of what she knew about the proper form of a transcript, who had once told a judge in Carrow City that a reporter who could not keep her face still had no business in a courtroom, and who had been on those steps when a man died, and then sat in the back row of his town's council chamber and taken its minutes for a week.
 
 "Greta," Bernice said softly. "Continue typing, please. You've stopped."
 
@@ -3254,15 +3254,15 @@ The Lantern Bay Town Council met again on Wednesday evening, at seven o'clock, i
 
 Greta sat at the clerk's table with a cup of cold coffee, a legal pad, and a fresh fan-fold in the steno machine that she had not yet needed to use. Ruth had asked her to attend as the council's independent reporter, and to take down whatever was said, and she had agreed without having to think about it. She had not slept more than four hours since Monday. Priya had brought her a sandwich at noon, and she had eaten half of it standing up, in the lobby, between phone calls.
 
-Helen Marsh had resigned as clerk on Monday night, as she had said she would, and the council had accepted the resignation by a vote of five to nothing, with Helen abstaining from her own motion, which she had insisted upon. Her laptop sat closed at the far end of the clerk's table, beside a neat stack of printed agendas. Frank Marsh had brought her a thermos of tea. She had not touched it.
+Helen Marsh had resigned as clerk on Monday night, as she had said she would, and the council had accepted the resignation by a vote of five to nothing. Her laptop sat closed at the far end of the clerk's table, beside a neat stack of printed agendas. Frank Marsh had brought her a thermos of tea. She had not touched it.
 
 Ruth opened the session at seven-oh-two. She did not use the gavel.
 
 "The Lantern Bay Town Council will come to order," she said. "This is the regular session. The first item on the agenda is the record of the July fourteenth meeting. The council has before it a motion, which has been circulated since Monday, to adopt the transcript prepared by this council's independent reporter as the official record of that meeting, and to strike the draft minutes prepared from the audio as altogether unreliable. I've asked Ms. Lowe to confirm the record, and then the council will vote."
 
-Greta stood and read the confirmation in a clear voice. She had read it aloud on Monday, but this was the formal version, the one that would go into the town book and the county archive. She had spent the afternoon on the phone with the state records office in Carrow City, a woman named Joan Cho who had been courteous and exact and very fond of the word *verbatim*. Joan had told her that the transcript would be accepted, provided the reporter signed it, which Greta had already done, in her own handwriting, at the bottom of every page.
+Greta stood and read the confirmation in a clear voice. She had read it aloud on Monday, but this was the formal version, the one that would go into the town book and the county archive. She had spent the afternoon on the phone with the state records office in Carrow City, a woman named Irene Lasko who had been courteous and exact and very fond of the word *verbatim*. Joan had told her that the transcript would be accepted, provided the reporter signed it, which Greta had already done, in her own handwriting, at the bottom of every page.
 
-"The transcript of the July fourteenth meeting of the Lantern Bay Town Council," Greta read, "prepared from the official audio recording and the reporter's notes, is accurate to the best of my knowledge and belief. The draft minutes dated July fourteenth, filed at eleven fifty-two p.m. that evening, contain statements not made in the meeting and a vote not taken. The draft was altered after its creation. The reporter has no knowledge of any such statement being made by any member of the council or any member of the public during the recess of that meeting." She turned the page. "The tape shows a silence of fourteen minutes and eleven seconds during the recess. Greta Lowe, certified reporter."
+"The transcript of the July fourteenth meeting of the Lantern Bay Town Council," Greta read, "prepared from the official audio recording and the reporter's notes, is accurate to the best of my knowledge and belief. The draft minutes dated July fourteenth, filed at eleven fifty-two p.m. that evening, contain statements not made in the meeting and a vote not taken. The draft was altered after its creation. The reporter has no knowledge of any such statement being made by any member of the council or any member of the public during the recess of that meeting." She turned the page. "The tape shows a silence of fifteen minutes during the recess. Greta Lowe, certified reporter."
 
 She sat down.
 
@@ -3330,7 +3330,7 @@ Priya came down the stone wall with two coffees and sat beside her, her bare fee
 
 Priya laughed and handed her a coffee. "Is that the transcript from the Carrow hearing? I thought you were done with that."
 
-"It's the review hearing from last week," Greta said. "The state reviewers' session on the north basin paperwork. Joan Cho sent me the audio on Thursday, for the record." She turned the thermos over in her hand and did not open it. "It's nothing. The usual. A councilor coughing. A chair scraping. Somebody in the back row whispering about lunch."
+"It's the review hearing from last week," Greta said. "The state reviewers' session on the north basin paperwork. Irene Lasko sent me the audio on Thursday, for the record." She turned the thermos over in her hand and did not open it. "It's nothing. The usual. A councilor coughing. A chair scraping. Somebody in the back row whispering about lunch."
 
 "And?"
 
@@ -3364,7 +3364,7 @@ Bernice had written to Greta once. The letter had come in a plain white envelope
 
 *Greta,* it said. *Please see that the record is accurate in every line. I trust you. You always did. The reporter always got it right. B.O.*
 
-Greta had read it at the kitchen table and then put it in the drawer where she kept the things that mattered, beside her old steno notebooks from the courthouse in Fennick Falls. She had not answered it. She had not known how.
+Greta had read it at the kitchen table and then put it in the drawer where she kept the things that mattered, beside her old steno notebooks from the courthouse in Carrow City. She had not answered it. She had not known how.
 
 Gordon Strand had been charged on the thirtieth of July with conspiracy to falsify a public record, bribery of a public official, and tampering with evidence. His wife Eleanor had given a statement to Sheriff Corliss three days later, in a small room at the county building, with a folder of bank statements on the table between them. The folder had included the carbon copies of two checks, a ledger listing payments to *document services* in June and July, and a handwritten note in Gordon's crisp, confident script that said only, *Bernice will take care of the minutes. Don't ask.* Eleanor had not asked him anything. She had simply packed a suitcase, moved into her sister's house in Carrow City, and filed for a divorce that nobody in Lantern Bay had been surprised to hear about.
 
@@ -3372,7 +3372,7 @@ Malcolm Pryce had withdrawn from the case the same week. He had sent the county 
 
 Helen Marsh had moved to her sister's place by the lake in Carrow City, and she came back to Lantern Bay only on Sundays, to walk along the breakwater with Frank and to visit the grave at the top of the hill above the marina. Greta had gone with her once, in early August, and they had stood for a long time in the wind without speaking. Helen had said only, at the very end, *I should have read it, Greta. Every word.* And Greta had said, *Yes, you should have,* and then they had walked back down the hill together, slowly, because neither of them was in a hurry to go home.
 
-Dale Whitcomb's boat was still in its slip. His name was still painted across the transom in careful black letters, and nobody had touched it. A memorial for Dale had been held on the water on the first Saturday in August, because Ryan had said his father would have hated a church full of people talking about the weather. The whole fleet had come. Eleven boats had sailed out past the breakwater at noon, in a single slow line, with their horns sounding. Walt had been the last to pass, at the tiller of his old blue trawler, with his hat in his hand and his face wet, and the sound of his horn had carried all the way across the bay, where Ryan stood at the stern of Dale's boat with his father's keys in his hand.
+Dale Whitcomb's boat was still in its slip. His name was still painted across the transom in careful black letters, and nobody had touched it. A memorial for Dale had been held on the water on the first Saturday in August, because Ryan had said his father would have hated a church full of people talking about the weather. The whole fleet had come. Eleven boats had sailed out past the breakwater at noon, in a single slow line, with their horns sounding. Walt had been the last to pass, at the tiller of the *Mabel Rose*, with his hat in his hand and his face wet, and the sound of his horn had carried all the way across the bay, where Ryan stood at the stern of Dale's boat with his father's keys in his hand.
 
 Greta looked out at the lighthouse. It was almost noon now. In a few minutes the lamp would be lit for the first time since the winter, and the light would sweep slowly across the bay, a long, pale, steady beam that would reach past the breakwater and the marina and the empty chair at the back of the council chamber, out across the water to the open lake. It would not make anything right. But it would be there, every night, where anyone could see it.
 
@@ -3382,19 +3382,19 @@ Judge stood up, stretched, and walked the length of the breakwater to the edge o
 
 He did not look around.
 
-Greta picked up the thermos, unscrewed the cap, and poured herself a cup of coffee that had gone lukewarm in the sun. She drank it slowly. Then she took out her phone and opened the email from Joan Cho in Carrow City, which she had read four times that morning and had not yet answered. The attachment was a single spreadsheet, a copy of the county's audit log for the TownShare account used by the Lantern Bay clerk's office, pulled for the state review of the July fourteenth minutes, with every login, every file access, and every deletion marked in neat columns of gray type.
+Greta picked up the thermos, unscrewed the cap, and poured herself a cup of coffee that had gone lukewarm in the sun. She drank it slowly. Then she took out her phone and opened the email from Irene Lasko in Carrow City, which she had read four times that morning and had not yet answered. The attachment was a single spreadsheet, a copy of the county's audit log for the TownShare account used by the Lantern Bay clerk's office, pulled for the state review of the July fourteenth minutes, with every login, every file access, and every deletion marked in neat columns of gray type.
 
-Most of it she already knew. The login at five fifty-eight on Wednesday morning, from the back office workstation, under Denise Park's after-hours code. The trash purge disabled at six twenty-nine. The deletion of the July fourteenth audio at six thirty-one. The logout at six thirty-one and forty-four seconds. Bernice Oakes had told the truth about every one of them, down to the second.
+Most of it she already knew. The login at five fifty-eight on Wednesday morning, from the back office workstation, under the after-hours code Denise Park had reissued. The trash purge disabled at six twenty-nine. The deletion of the July fourteenth audio at six thirty-one. The logout at six thirty-one and forty-four seconds. Bernice Oakes had told the truth about every one of them, down to the second.
 
-But there was one line on the second page that Greta had not expected, and she had read it three times before she was certain of what it meant. It was dated Tuesday night, the fourteenth of July, at eleven twenty-six p.m. It showed a login to the same account, from a device registered to the Lantern Bay clerk's office, under the old clerk credentials that had been deactivated in June, when Helen Marsh had changed the password for the first time in eleven years. The session had lasted nine minutes. It had opened the draft minutes file, read it through, and closed again without making any change at all, fifteen minutes before the paragraph about Dale was added.
+But there was one line on the second page that Greta had not expected, and she had read it three times before she was certain of what it meant. It was dated Tuesday night, the fourteenth of July, at eleven twenty-six p.m. It showed a login to the same account, from a device registered to the Lantern Bay clerk's office, under the old clerk credentials that had been deactivated in June, when Helen Marsh had changed the password for the first time in eleven years. The session had lasted nine minutes. It had opened the draft minutes file, read it through, and closed again without making any change at all, six minutes before the paragraph about Dale was added.
 
 Greta sat very still on the warm stone. The lighthouse lamp flashed once above her, a bright white spark in the sun, and then went dark. Judge turned his head and looked at her, and for a moment his green eyes seemed to hold the same question she was asking herself.
 
 Someone else had read the draft that night, between its first version and the change that made it a lie. Someone who had known the old password, and had sat in front of the file for nine minutes, and had left without changing a word.
 
-She looked up, across the bay, toward the lighthouse, and then toward the lane that ran up the hill behind the marina. Then she picked up her phone and began, very carefully, to type a reply to Joan Cho.
+She looked up, across the bay, toward the lighthouse, and then toward the lane that ran up the hill behind the marina. Then she picked up her phone and began, very carefully, to type a reply to Irene Lasko.
 
-*Please send me the full session record for the ten-fourteen login,* she wrote, *with the device ID and the IP address, and do not let anyone tell you it was a mistake. The reporter always gets it right. Somebody has to hear the rest of it.*
+*Please send me the full session record for the eleven twenty-six login,* she wrote, *with the device ID and the IP address, and do not let anyone tell you it was a mistake. The reporter always gets it right. Somebody has to hear the rest of it.*
 
 She read it over once, changed nothing, and pressed send.
 

@@ -7,7 +7,7 @@ Series status: Book 1 written ("Shorthand for Murder"), cover pending (Kindle-3)
 
 ## Recurring characters
 - Greta Lowe: semi-retired court reporter, narrator's point of view.
-- Judge: her white cat.
+- Judge: her gray tabby cat.
 - Priya Rao: her friend.
 - Sam Ortiz: deputy.
 - Sheriff Corliss.
