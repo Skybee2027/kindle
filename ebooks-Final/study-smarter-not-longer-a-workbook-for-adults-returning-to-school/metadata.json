@@ -1,0 +1,49 @@
+{
+  "title": "Study Smarter, Not Longer",
+  "subtitle": "A Workbook for Adults Returning to School",
+  "author": "Skybee",
+  "description": "Going back to school as an adult means balancing work, family, and a brain that has not studied in years. Study Smarter, Not Longer is a practical workbook for adults who are returning to community college, certificate programs, online courses, or professional exams and want to study well without studying endlessly. Over nine chapters and thirty days, you will learn the study methods that researchers have rated most useful: retrieval practice, spaced practice, interleaving, purposeful reading, and notes that ask questions. Each chapter explains one method in plain language, follows a returning student through a realistic week, and ends with prompts you answer in your own words. You will map your schedule around real obligations, build protected study blocks with a buffer for bad weeks, and design a review routine built on your own mistakes. Along the way you will write a personal weekly study plan, a note-taking system, a test-review routine, and a 30-day habit tracker you can reuse for any course. No learning-style myths, no shortcuts that do not work, and no promises about grades. Just clear steps, honest evidence, and room to write. Whether you are finishing a degree, preparing for a licensing exam, or taking your first online course in years, this workbook will help you study with more focus and less panic. Pick up a pen, set your first block on the calendar, and begin.",
+  "keywords": [
+    "study skills workbook adults",
+    "returning to school adult learner",
+    "study techniques for college",
+    "adult learner study guide",
+    "spaced repetition practice workbook",
+    "study habits planner for students",
+    "online course study workbook"
+  ],
+  "kdp_categories": [
+    "Kindle Store > Kindle eBooks > Education & Teaching",
+    "Kindle Store > Kindle eBooks > Self-Help > Personal Transformation"
+  ],
+  "language": "en-US",
+  "ai_disclosure": "This book was created with the assistance of artificial intelligence tools. All content was reviewed and edited by the publisher.",
+  "content_warnings": "None. General study guidance for adults; no medical, financial, or legal advice.",
+  "price_usd": 4.99,
+  "royalty_tier": "70% (US list price between $2.99 and $9.99)",
+  "kdp_select": "no",
+  "series": null,
+  "series_number": null,
+  "word_count": 16092,
+  "chapters": 9,
+  "format": "workbook, text-only EPUB, reflowable",
+  "sources": [
+    "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. Psychological Bulletin, 132(3), 354-380.",
+    "Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. Psychological Science, 19(11), 1095-1102.",
+    "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. Psychological Science in the Public Interest, 14(1), 4-58.",
+    "Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. American Psychologist, 54(7), 493-503.",
+    "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. Psychological Science in the Public Interest, 9(3), 105-119.",
+    "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249-255.",
+    "Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. Instructional Science, 35(6), 481-498."
+  ],
+  "cover": "cover-ebook.jpg (1600 x 2560 RGB JPEG)",
+  "files": {
+    "epub": "study-smarter-not-longer.epub",
+    "cover": "cover-ebook.jpg",
+    "manuscript_md": "manuscript.md",
+    "manuscript_docx": "manuscript.docx",
+    "stylesheet": "style.css",
+    "fonts": "fonts/"
+  },
+  "guide_version": "2.1"
+}
