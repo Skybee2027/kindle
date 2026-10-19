@@ -89,5 +89,12 @@
     "status": "idle",
     "book": "",
     "detail": "no new book to hand off"
+  },
+  {
+    "at": "2026-10-19 15:29",
+    "robot": "Kindle-1",
+    "status": "done",
+    "book": "",
+    "detail": "Two topics for 2026-10-19. (1) Staged for Love: A Larkspur Lake Romantic Comedy, Book 1: score 19/25, categories Romance Contemporary Romantic Comedy and Romance Contemporary Small Town (both confirmed), text-only, $3.99, about 230 to 250 pages. (2) Ten Stitches, Thirty Days: A Beginner's Hand Embroidery Guide: score 17/25, categories Crafts Hobbies and Home Crafts and Self-Help Personal Transformation (both confirmed), text-only, $4.99, about 65 to 75 pages. Rows added: 2 (sync errors 0). Rule exceptions: Small Town and Personal Transformation were used by a topic selected in the last 7 days; romance has no other valid category pair, and crafts needed a second category. The two topics are in different top-level categories. No category is waiting for confirmation. Spelling and pound-sign check done on all new text. pick_topic would pick Study Smarter, Not Longer next (already queued from 2026-10-18)."
   }
 ]

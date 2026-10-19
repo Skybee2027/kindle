@@ -207,5 +207,126 @@
         "cover_idea": "Clean, bright educational look: an open notebook, a pencil and a simple weekly study calendar on a sunlit desk beside a coffee mug. Palette: sky blue, warm yellow and white with a navy title band. The focal element is one open notebook with a checklist."
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "source": "Kindle-1 research run, 2026-10-19. Sources: KDP royalty article, inkfluenceai.com/blog/kdp-royalties-2026 (fetched 2026-10-19; one third-party source, confirm on KDP); inkfluenceai.com romance page (fetched 2026-10-19; vendor data); Written Word Media KENP estimate as cited there (August 2026); asinsight.com beginner-embroidery report (data week of June 28 to July 4, 2026; estimates); ebook-topics/category-pool.json (selfpublishing.com and inkfluenceai.com, as cited there).",
+    "trends": [
+      "KDP (via inkfluenceai.com, fetched 2026-10-19): on 7 July 2026 the 70% band ceiling on Amazon.com rose from $9.99 to $12.99; delivery fee $0.15 per MB. One third-party source, not verified on KDP.",
+      "Written Word Media (via inkfluenceai.com): KENP estimate $0.00517 per page for August 2026, $0.004221 for July 2026. Third-party estimate, not an Amazon figure.",
+      "inkfluenceai.com romance briefs (vendor data, 1 Feb to 23 Sep 2026): small-town and sports trail the leading subgenres, with no romantic-comedy figure given. No sales data.",
+      "asinsight.com (vendor estimate, data week of 28 June to 4 July 2026): 129 beginner embroidery products tracked; the only book in the top 10 was a stitch guide estimated at about 1,000 units a month.",
+      "Pool (selfpublishing.com, 2026): romance is the top-grossing fiction genre (estimate). Crafts momentum 1.22 (inkfluenceai.com, vendor data)."
+    ],
+    "selected_topics": [
+      {
+        "topic_name": "Staged for Love: A Larkspur Lake Romantic Comedy, Book 1",
+        "categories": [
+          "Kindle Store > Kindle eBooks > Romance > Contemporary > Romantic Comedy",
+          "Kindle Store > Kindle eBooks > Romance > Contemporary > Small Town"
+        ],
+        "score": 19,
+        "score_reason": "Demand 4: romance is the top-grossing fiction genre (pool, selfpublishing.com estimate); no romantic-comedy-specific sales figure was found. Revenue 4: a novel at $3.99 on the 70% band, with Kindle Unlimited page reads. Competition 2: the romance shelf is crowded. Feasibility 4: 55,000 to 62,000 words is achievable, but AI romance dialogue needs a human edit. Fit 5: a lake-town cast with recurring neighbors supports a series.",
+        "description": "Tessa Marsh inherits her late uncle's home-staging business in Larkspur Lake, Wisconsin, a small resort town that comes alive every summer when the lake cottages go on the market. On the first morning, she pulls into the Birch Street cottage and finds a rival stager already unloading a cream sofa on the lawn, the same sofa she has brought for the same open house. The rival is Owen Reyes, a local realtor who has been quietly using her uncle's old props in his own listings. The two agree to split the Birch Street job and immediately start to bicker over every lamp, rug and throw pillow. As the summer goes on, their rivalry turns into a partnership, and then into something neither of them planned. Tessa has to decide whether to sell the business and go back to Chicago or to stay and build something of her own. The story is witty, warm and romantic, with a close-knit lake-town cast, a family dog and a clear happy ending. It has no explicit sexual content, no profanity and no on-page violence.",
+        "target_reader": "Adult readers of contemporary romantic comedy, mostly women 28 to 55, who read on Kindle Unlimited and want a witty, warm love story with a clear happy ending and a strong sense of place.",
+        "format": "text-only",
+        "price_usd": 3.99,
+        "royalty_tier": "70% (US list price between $2.99 and $12.99). About $2.69 per sale after the delivery fee (estimate: a 1 MB file at $0.15 per MB).",
+        "page_count": "about 230 to 250 pages (estimate)",
+        "word_count": "55,000 to 62,000 words",
+        "chapter_outline": [
+          "Moving Day: Tessa Marsh arrives in Larkspur Lake to run her late uncle's staging business and finds a rival's truck in the drive.",
+          "The Sofa Standoff: Tessa and Owen Reyes both show up at the Birch Street cottage with the same cream sofa.",
+          "Terms of Truce: they agree to split the Birch Street listing and argue over every lamp and rug.",
+          "Open House Disaster: a staging mishap in front of buyers forces them to work together in public.",
+          "Borrowed Lamps: Tessa finds her uncle's old props in Owen's storage unit and asks why.",
+          "Dock Lights: a late-night talk on the public pier changes the tone between them.",
+          "The Competing Listing: a buyer chooses between their two proposals, and the stakes rise.",
+          "Rain Day: a storm leaks through the cottage roof, and they spend a long night fixing the living room.",
+          "Her Uncle's Ledger: Tessa reads the notebook he left behind and learns that Owen was his partner.",
+          "Summer Fair: the whole town takes sides, and Tessa has to stand up for the business she has built.",
+          "Closing Day and the Epilogue: Tessa chooses Larkspur Lake and tells Owen the truth, and the last scene sets up Book 2."
+        ],
+        "tone_and_style": "Witty, warm and quick. Close third person, past tense, one point of view (Tessa) throughout. Banter comes from character, not cruelty. No explicit sexual content, no profanity and no on-page violence. Every chapter opens with a hook and ends with a reason to keep reading. Names of cottages, streets and neighbors are checked for similarity.",
+        "title_options": [
+          "Staged for Love\nA Larkspur Lake Romantic Comedy, Book 1",
+          "Closing Day at Larkspur Lake\nA Romantic Comedy",
+          "The Sofa Standoff\nA Small-Town Romantic Comedy"
+        ],
+        "kdp_keywords": [
+          "romantic comedy novel",
+          "contemporary romantic comedy",
+          "lake town romance novel",
+          "home staging romantic comedy",
+          "rival romance kindle unlimited",
+          "clean romantic comedy for adults",
+          "romantic comedy book 1 series"
+        ],
+        "risks": [
+          "Crowded romance shelf: differentiate with the home-staging business, the rival setup and a strong cover.",
+          "AI-drafted romance can read flat: a human editor must work on dialogue and chemistry before upload.",
+          "Small Town is the same subgenre as The Bakery on Cutter Street (used 2026-10-18). The premise, setting, business and cast must stay clearly different.",
+          "Small Town was used by a topic selected in the last 7 days. Romance has no other valid pair of pool categories, so it is used here (rule exception, recorded in the run log).",
+          "The 70% band ceiling ($12.99) and the $0.15 per MB delivery fee come from one third-party source. Confirm both on KDP's site before pricing.",
+          "The KENP per-page rate is a third-party estimate ($0.00517 for August 2026). Confirm it before forecasting page reads.",
+          "The title may collide with existing books. Check the KDP search before upload.",
+          "The book is AI-written text and must be disclosed to KDP as AI-generated content."
+        ],
+        "sales_estimate": "ESTIMATE. No sales data was verified. These are planning assumptions, not sourced figures.\nPrice $3.99. The 70% royalty is about $2.69 per sale (0.70 x ($3.99 minus about $0.15 delivery fee for a 1 MB file)).\nKENP is about $0.00517 per page read (August 2026, third-party estimate, not an Amazon figure).\nConservative: 8 sales and 1,500 KENP pages a month, about $29 a month. Mid: 25 sales and 6,000 pages, about $98. Optimistic (3 or more books in the series): 60 sales and 15,000 pages, about $239.\nFormula: sales x $2.69 + KENP pages x $0.00517.",
+        "cover_idea": "Romantic comedy look with a warm peach and lake-blue palette and cream accents, showing a cream sofa on a lakefront lawn with two staging trucks parked nose to nose and the rival pair glimpsed in the cottage doorway."
+      },
+      {
+        "topic_name": "Ten Stitches, Thirty Days: A Beginner's Hand Embroidery Guide",
+        "categories": [
+          "Kindle Store > Kindle eBooks > Crafts, Hobbies & Home > Crafts",
+          "Kindle Store > Kindle eBooks > Self-Help > Personal Transformation"
+        ],
+        "score": 17,
+        "score_reason": "Demand 3: a stitch guide is the only book in the top 10 of Amazon's July 2026 beginner embroidery results, estimated at about 1,000 units a month (asinsight, third-party estimate); crafts momentum 1.22 (pool, vendor data). Revenue 3: a practical guide at $4.99 that sells outright, with no KENP income. Competition 3: stitch books exist, but a 30-day, ten-stitch structure is a clear angle. Feasibility 4: stitch steps can be checked against named references. Fit 4: a second book on advanced stitches would follow naturally.",
+        "description": "Ten Stitches, Thirty Days teaches adults who are new to hand embroidery one stitch at a time. Readers learn which tools and fabrics to buy, how to transfer a design onto fabric, and ten core stitches: running, backstitch, straight, stem, split, chain, satin, French knot, lazy daisy and blanket stitch. Each stitch has numbered steps, a short list of common mistakes and a 15-minute practice session in a thirty-day schedule that builds gradually. The book ends with a hoop sampler that uses all ten stitches as a finished project. The self-help angle is steady, low-pressure practice and a routine that fits a busy week. It makes no health or mood promises. This is general craft instruction, not professional advice, and every stitch name and step is checked against a named source.",
+        "target_reader": "Adults 25 to 65 who want a calm, hands-on hobby, gift makers, and people who tried embroidery once and want a clear, patient starting point.",
+        "format": "text-only",
+        "price_usd": 4.99,
+        "royalty_tier": "70% (US list price between $2.99 and $12.99). About $3.39 per sale after the delivery fee (estimate: a 1 MB file at $0.15 per MB).",
+        "page_count": "about 65 to 75 pages (estimate)",
+        "word_count": "14,000 to 17,000 words",
+        "chapter_outline": [
+          "Before the Needle: the tools, fabrics, hoops and threads a beginner needs.",
+          "Transferring a Design: tracing methods, water-soluble markers and choosing fabric.",
+          "Running, Backstitch and Straight Stitch: the basic lines and how to keep them even.",
+          "Stem, Split and Chain: curves, outlines and textured lines.",
+          "Satin and Long-and-Short: filling shapes smoothly.",
+          "French Knots, Lazy Daisy and Blanket Stitch: dots, petals and finished edges.",
+          "Fixing Mistakes Without Tears: unpicking, tension and puckering.",
+          "Thirty Days of Practice: the daily schedule, with one short session per day.",
+          "The Hoop Sampler: a finished project that uses all ten stitches."
+        ],
+        "tone_and_style": "Clear, encouraging and practical. Second person (you), present tense, one point of view throughout. Short numbered steps in plain language. Every stitch name, step and tool description is checked against a named source during drafting. Includes the non-fiction general-information disclaimer. No health, mood or stress-relief claims unless sourced.",
+        "title_options": [
+          "Ten Stitches, Thirty Days\nA Beginner's Hand Embroidery Guide",
+          "Stitch by Stitch\nThirty Days of Beginner Hand Embroidery",
+          "The Hoop Sampler\nTen Core Stitches for Beginners"
+        ],
+        "kdp_keywords": [
+          "beginner hand embroidery guide",
+          "embroidery stitches for beginners",
+          "hand embroidery book for adults",
+          "embroidery stitch guide 30 days",
+          "learn embroidery at home",
+          "embroidery hoop sampler project",
+          "beginner embroidery stitch book"
+        ],
+        "risks": [
+          "Stitch instructions must be checked against named references while drafting. Errors would be obvious to experienced stitchers.",
+          "Crowded stitch-book market: the 30-day structure and the hoop sampler project are the differentiators.",
+          "The self-help angle must not make health, mood or stress-relief claims unless a source supports them.",
+          "Personal Transformation was used by a topic selected in the last 7 days. Crafts needs a second category from the pool, so it is used here (rule exception, recorded in the run log).",
+          "The title may collide with existing books. Check the KDP search before upload.",
+          "The book is AI-written text and must be disclosed to KDP as AI-generated content."
+        ],
+        "sales_estimate": "ESTIMATE. No sales data was verified. These are planning assumptions, not sourced figures.\nThe only book in the top 10 of Amazon's July 2026 beginner embroidery results was estimated at about 1,000 units a month (asinsight, third-party estimate, not Amazon data).\nPrice $4.99. The 70% royalty is about $3.39 per sale (0.70 x ($4.99 minus about $0.15 delivery fee for a 1 MB file)).\nPractical guides usually sell outright, so KENP is not counted.\nConservative: 8 sales a month, about $27. Mid: 20 sales, about $68. Optimistic (a series of 3 or more): 45 sales, about $153.\nFormula: sales x $3.39.",
+        "cover_idea": "Cozy craft look with a cream linen and warm mustard palette, showing a wooden embroidery hoop holding a half-finished ten-stitch sampler, with a thread spool and needle in the foreground and no people."
+      }
+    ]
   }
 ]
