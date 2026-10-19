@@ -110,5 +110,12 @@
     "status": "blocked",
     "book": "ebooks-Final/shorthand-for-murder-a-lantern-bay-cozy-mystery-book-1",
     "detail": "full manuscript read (step 7) not completed in this run; cover, EPUB and mechanical checks pass; owner to confirm small series line and tagline on cover"
+  },
+  {
+    "at": "2026-10-19 18:56",
+    "robot": "Kindle-4",
+    "status": "stopped",
+    "book": "ebooks-Final/shorthand-for-murder-a-lantern-bay-cozy-mystery-book-1",
+    "detail": "not staged in Ready to publish/ (folder missing); judgement read of manuscript not completed and book not approved into Ready to publish (per review-notes.md); open owner item on cover series line and tagline"
   }
 ]
