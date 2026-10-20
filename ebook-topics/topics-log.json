@@ -329,5 +329,120 @@
         "cover_idea": "Cozy craft look with a cream linen and warm mustard palette, showing a wooden embroidery hoop holding a half-finished ten-stitch sampler, with a thread spool and needle in the foreground and no people."
       }
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "source": "Kindle-1 research run, 2026-10-20 (first run of the day; the 18 October extra-run rule does not apply). Sources: KDPEasy Children's Chapter Books niche page (fetched 2026-10-20; published Jan 2026, updated Apr 2026; site estimates based on its own top-seller data, not sales data); KDPEasy 2026 KDP royalty rates page (fetched 2026-10-20; 70% band $2.99 to $9.99, delivery fee $0.15 per MB; its KENP figure is historical, not a confirmed 2026 rate); search results for Amazon listings of senior road-trip, Route 66 and retirement-travel titles (not fetched); Amazon new-releases page for senior travel was blocked for fetching (robots); AI disclosure guidance seen only in search results (builtwritten.com, inkfluenceai.com, kdpbuilder.com), not fetched; ebook-topics/category-pool.json.",
+    "trends": [
+      "KDPEasy Children's Chapter Books page (site estimate, fetched 2026-10-20): demand High, competition High, typical print price $7.99 to $12.99, ebook companion $2.99 to $3.99. Word count for a chapter book 10,000 to 20,000 words. Site is a KDP tools vendor; figures are its estimates.",
+      "KDP royalty rules (KDPEasy, fetched 2026-10-20): 70% band for list prices $2.99 to $9.99 in listed territories, minus $0.15 per MB delivery fee. Pool category notes list the US band up to $12.99 (KDP change reported by inkfluenceai.com, not verified on KDP).",
+      "Kindle Unlimited per-page rate: no confirmed 2026 figure found. KDPEasy cites a historical range of $0.004 to $0.005 per page (estimate).",
+      "Amazon listings found in search: 'Road Trip for Seniors 2026-2027' and several Route 66 travel guides for 2026 and 2027, plus 'Travel Smarter in Retirement'. Shows active competition for senior and retirement travel topics. No rank or sales data.",
+      "Candidates considered and not chosen: Spanish workbook for retirees (Aging or Retirement + Education & Teaching), score 16, Education was used in the last 7 days; music notation workbook (Music > Instruction & Study + Personal Transformation), score 14, staff notation cannot be shown in a text-only EPUB; bedtime story collection (Bedtime Stories + Early Chapter Books), score 15, crowded and the kids pair is already used; writing craft workbook (Authorship + Personal Transformation), score 14, very crowded."
+    ],
+    "selected_topics": [
+      {
+        "topic_name": "Juniper Pell and the Humming Key: A Bedtime Chapter Book for Ages 6 to 9",
+        "categories": [
+          "Kindle Store > Kindle eBooks > Children's eBooks > Early Chapter Books",
+          "Kindle Store > Kindle eBooks > Children's eBooks > Bedtime Stories"
+        ],
+        "score": 18,
+        "score_reason": "Demand 4: KDPEasy rates children's chapter books High demand (site estimate, based on its own top-seller data; no sales figures published). Revenue 3: $3.99 sits inside both category price bands and earns about $2.64 per sale at the 70% tier, but page reads are modest. Competition 2: the same site rates the niche High competition, so the book needs a strong hook. Feasibility 4: 10,000 to 13,000 words in 10 chapters is within the guide, and a gentle mystery is easy to keep free of frightening content. Fit 5: a library-door world with a recurring cast supports a series.",
+        "description": "When eight-year-old Juniper Pell finds a brass key on her porch step, it hums softly whenever she holds it near the old Hollow Oak Library, which closed last winter. With her friend Benji and her four-year-old brother Otis tagging along, Juniper follows the humming through a small door behind the fiction shelves and into a library that is quiet, dim and full of glowing books. The library cat, Pepper, leads them through corridors where stories are kept like lanterns, and a book with blank pages begins to write itself once Juniper reads its first line aloud. The town's bedtime songs have gone missing, and only the key can bring them back. Juniper learns that the librarian, Ms. Hart, knew the key's history all along. The story is gentle and warm, with short sentences, a clear problem and a positive ending. It contains no violence and nothing frightening, and each chapter ends with a reason to turn the page.",
+        "target_reader": "Children aged 6 to 9 reading on their own (reading level grade 2 to 4), and parents and grandparents reading aloud at bedtime. Mostly US Kindle and Kindle Unlimited readers.",
+        "format": "text-only",
+        "price_usd": 3.99,
+        "royalty_tier": "70% (US list price between $2.99 and $9.99). About $2.64 per sale after the delivery fee (estimate: a 1 MB file at $0.15 per MB).",
+        "page_count": "about 70 to 85 pages (estimate)",
+        "word_count": "10,000 to 13,000 words",
+        "chapter_outline": [
+          "The Humming Key: Juniper finds a brass key on her porch step that hums when she holds it.",
+          "Closed for Winter: Juniper and Benji walk to the Hollow Oak Library and find a sign that says closed.",
+          "A Door in the Reading Room: the key fits a small door behind the fiction shelves.",
+          "Pepper Knows the Way: the library cat leads them down a corridor of glowing books.",
+          "The Book That Writes Back: a book with blank pages starts a story when Juniper reads its first line aloud.",
+          "Otis Follows: the little brother sneaks in and wanders among the picture books.",
+          "The Missing Lullabies: the town's bedtime songs have gone quiet, and the key is the only way to bring them back.",
+          "Ms. Hart's Secret: the librarian explains the key's history and why the library needed it.",
+          "The Quiet Stacks: Juniper reads aloud in the dim aisles to light the way home.",
+          "Lights On, Key Asleep: the three children reach home before bedtime, and the key rests on the windowsill."
+        ],
+        "tone_and_style": "Warm, simple and gently funny. Close third person, past tense, with Juniper as the only point of view. Short sentences (reading level grade 2 to 4), lots of dialogue, a clear problem and a positive ending. Nothing frightening. Each chapter opens with a small hook and ends with a reason to keep reading.",
+        "title_options": [
+          "Juniper Pell and the Humming Key\nA Bedtime Chapter Book for Ages 6 to 9",
+          "The Humming Key\nA Juniper Pell Adventure, Book 1",
+          "Juniper Pell and the Library After Dark\nA Gentle Chapter Book for Young Readers"
+        ],
+        "kdp_keywords": [
+          "chapter books for kids ages 6 to 9",
+          "bedtime chapter book for early readers",
+          "chapter book for second graders",
+          "gentle library adventure for kids",
+          "read aloud chapter book at bedtime",
+          "kids mystery chapter book series",
+          "early chapter book for young readers"
+        ],
+        "risks": [
+          "Competition is rated High on KDPEasy (site estimate); the hook must be strong on the cover and in the sales copy.",
+          "Reading level must pass the grade 2 to 4 readability check in guide section 13. Vocabulary can drift upward in a mystery, so the check may need a revision pass.",
+          "Pairing a chapter book with the Bedtime Stories category is a judgment call. It is a valid pool pair, but the owner may prefer a different reading of the shelf.",
+          "A single book earns little. The series plan (Book 2 and later) matters for income.",
+          "The library setting must stay gentle. Keep the dim stacks and the dark moments mild, with no frightening scenes."
+        ],
+        "sales_estimate": "ESTIMATE: about 5 to 15 paid sales per month in the first year at $3.99, with some Kindle Unlimited page reads. Basis: KDPEasy rates demand High and competition High for this niche (site estimate, not sales data). Royalty about $2.64 per sale (estimate). Income depends on a series; a single title is unlikely to pay much on its own.",
+        "cover_idea": "Bright storybook look with a warm midnight-blue and amber palette, showing a girl in a yellow raincoat holding a brass key that glows in both hands in front of a lamplit library door, with a white cat on the steps and a bold title above and an \"AGES 6-9\" badge."
+      },
+      {
+        "topic_name": "The Open Road Plan: A Workbook for Retirees Planning Their First Long Road Trip",
+        "categories": [
+          "Kindle Store > Kindle eBooks > Self-Help > Aging or Retirement",
+          "Kindle Store > Kindle eBooks > Travel"
+        ],
+        "score": 17,
+        "score_reason": "Demand 3: Amazon listings for senior road-trip and retirement-travel titles exist, and the search results show the subject is active, but no sales or rank data could be read (Amazon pages were blocked for fetching). Revenue 4: a workbook at $3.99 on the 70% band, with Kindle Unlimited page reads. Competition 3: the Route 66 and senior road-trip guides crowd the shelf, but a planning workbook with answer blocks is a different product. Feasibility 4: 13,000 to 15,000 words fits the guide's practical guide and workbook range, and route, pacing and budget facts can be sourced to named public sources. Fit 3: a series of regional planning workbooks is possible but not built in.",
+        "description": "Many retirees dream of a long road trip and never start planning it. The Open Road Plan is a step-by-step workbook that helps you turn that dream into a route, a daily pace, a budget and a packing list. Each chapter asks you to write your own answers in short prompts and answer blocks: why you want to go, what kind of trip you enjoy, how far you want to drive each day, which scenic roads and rest stops fit your route, where you will stay, and what a trip of this length tends to cost. The workbook explains each planning step in plain language and points to named public sources for route, park and road-safety facts, so you can check details before you go. It finishes with a packing checklist and a trip log you fill in on the road. It is written for practical planning only and includes the general-information disclaimer required for practical guides.",
+        "target_reader": "Retirees aged 60 to 75 planning their first long road trip, and couples or solo travelers who like to plan at the kitchen table. Reader age 55 to 75. Mostly US Kindle and Kindle Unlimited readers who want a practical, printable-style workbook they can complete on a tablet.",
+        "format": "workbook",
+        "price_usd": 3.99,
+        "royalty_tier": "70% (US list price between $2.99 and $9.99). About $2.65 per sale after the delivery fee (estimate: a 1 MB file at $0.15 per MB).",
+        "page_count": "about 125 to 150 pages (estimate, including answer blocks)",
+        "word_count": "13,000 to 15,000 words",
+        "chapter_outline": [
+          "Why Now: name your reasons for the trip and set a realistic start date.",
+          "Your Travel Style: decide your pace, comfort level and who is coming along.",
+          "Choosing the Route: sketch a loop, pick scenic roads and mark possible rest stops.",
+          "Daily Pacing: plan driving hours, breaks and stops for each day of the trip.",
+          "Stays and Stops: plan lodging, reservations and backup options for each night.",
+          "The Trip Budget: list the main costs, add a buffer and track your numbers.",
+          "Road Readiness: check the vehicle, documents, contacts and a simple emergency plan.",
+          "Packing and the Trip Log: use the checklists and fill in a log while you travel."
+        ],
+        "tone_and_style": "Friendly, plain-spoken and encouraging, in US English. Second person (\"you\") with present-tense instructions. Each planning step is followed by a numbered prompt and an answer block headed \"Your answer:\" with at least three lines. Facts are short and sourced, with no medical, financial or legal advice. Keep the budget chapter at the level of general planning.",
+        "title_options": [
+          "The Open Road Plan\nA Workbook for Retirees Planning Their First Long Road Trip",
+          "Retirement Road Trip Workbook\nPlan Your Route, Pace and Budget",
+          "Hit the Road After Retirement\nA Planning Workbook for Your First Big Trip"
+        ],
+        "kdp_keywords": [
+          "retirement road trip planner workbook",
+          "road trip planning workbook for retirees",
+          "retiree travel planning guide",
+          "first long road trip planner",
+          "senior road trip itinerary workbook",
+          "travel planning workbook for seniors",
+          "retirement travel budget workbook"
+        ],
+        "risks": [
+          "Crowded shelf: Route 66 and senior road-trip guides already sell on Amazon. The workbook format and answer blocks are the differentiator.",
+          "Facts go stale. Fuel prices, park fees, road closures and lodging rules change, so each figure needs a dated, named source and a check before publishing.",
+          "Budget chapter can drift into financial advice. Keep it to general planning with the disclaimer.",
+          "Safety chapter can drift into medical advice. Keep it to general road readiness and planning, with no health claims.",
+          "Workbooks need at least 10 answer blocks, and check_book.py counts them. Each block needs three lines to write on."
+        ],
+        "sales_estimate": "ESTIMATE: about 3 to 10 paid sales per month in the first year at $3.99, with some Kindle Unlimited page reads. Basis: Amazon listings for senior road-trip and retirement-travel titles show active competition, but no sales or rank data was readable. Royalty about $2.65 per sale (estimate).",
+        "cover_idea": "Warm travel-workbook look with a sunflower yellow, deep teal and cream palette, showing a silver sedan parked at a roadside overlook at golden hour, a paper road map open on the dashboard, and a bold title above a small \"Planning Workbook\" line."
+      }
+    ]
   }
 ]
