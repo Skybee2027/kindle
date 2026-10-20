@@ -131,5 +131,12 @@
     "status": "done",
     "book": "staged-for-love-a-larkspur-lake-romantic-comedy-book-1",
     "detail": "Staged for Love: A Larkspur Lake Romantic Comedy, Book 1, 59364 words, cover pending"
+  },
+  {
+    "at": "2026-10-20 17:33",
+    "robot": "Kindle-3",
+    "status": "blocked",
+    "book": "ebooks-Final/shorthand-for-murder-a-lantern-bay-cozy-mystery-book-1",
+    "detail": "judgement read (guide step 7) failed: vote tally, sheriff/deputy title, location, timeline and look-alike name contradictions listed in review-notes.md; cover, EPUB and mechanical checks pass; owner to decide on small cover text"
   }
 ]

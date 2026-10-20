@@ -62,3 +62,49 @@ Cover: created in Canva (design DAHYZj0dpJ8, https://canva.link/b2hhonvsog6szdn)
 - check_book.py: pass (54 checks).
 - KDP-FORM-ANSWERS.md regenerated from metadata.json.
 - Not completed: full judgement read of manuscript.md (guide step 7, 65,511 words). Only the mechanical checks and earlier continuity notes above were confirmed in this run. Not approved into "Ready to publish/".
+
+## Kindle-3 review run (2026-10-20): BLOCKED
+
+Designs made in this run: 0 (cover-ebook.jpg present and owner-approved; no redesign).
+Guide used: ebooks-Raw/book-creating-guide.docx (version 2.1). Note: the run brief named guide.docx and cover-prompts.md; those files do not exist in the repo. The cover rules were read from ebooks-Raw/cover-creation-guide.md.
+
+Cover (viewed at full size): title "Shorthand / for Murder" largest and readable; subtitle, series line, tagline and author "Skybee" present and spelled as metadata; woman seen from behind at a lit typewriter, steno tape over a river town at dusk; no avoid-list items. Pass.
+Open owner item: guide section 6 says "No small text except the author name." The series line, subtitle and tagline are small (readable, OCR passes). Owner to decide whether to keep the approved cover.
+
+Mechanical checks (run this session): build_epub.py (cover true, 3 fonts); epubcheck 0 errors, 0 warnings; check_book.py 54 of 54 pass; check_language.py pass; check_names_sources.py pass; check_cover_brief.py pass; check_cover.py 12 of 12 pass; make_kdp_answers.py run.
+
+Judgement read (guide step 7), done by three readers over lines 1 to 3406, spot-checked by Kindle-3. Confirmed problems that the writer must fix:
+- Line 3008: the lease vote is tallied "One for. Four against." Lines 2980 to 2998 show all five councillors voting no.
+- Ruth calls Sam "Sheriff Ortiz" (line 3018, and 3123); he is "Deputy Ortiz" elsewhere (961, 2756, 3111, 3127).
+- Line 3129: Bernice's office on Front Street and home on Juniper Lane conflict with the Fennick Falls transcription office (2132, 2481).
+- Line 2481: "Somebody took a hammer to the drive" conflicts with Denise saying Bernice removed the drive (2485).
+- Line 2938 says the link came from the transcription office; line 3163 says Greta got a text from Helen.
+- Line 2638 has Bernice saying "Have it cleaned up by morning"; line 3159 says Gordon said it.
+- Line 2628 "Your car's out front" conflicts with the car parked behind the hedge (2516, 2920).
+- Line 2212: "a woman saw her sitting in it" conflicts with the male witness Walt (2920).
+- Line 2868 and 2972: item seven is postponed to July 27, yet voted on at a special session "to consider the record" (2828).
+- Line 3151 says the original survey was shredded; line 2942 and line 3151 both have Tessa photographing it.
+- Line 3185: a copy "made from the office server on the night of the fourteenth" is carried "for three weeks."
+- Line 3173: payment "on the morning of the fifteenth" conflicts with her 5:58 entry (3177); Tessa says the 14th (2944).
+- Line 3177: the access code given "on the Tuesday, at the Center" conflicts with the March account (2132).
+- Line 3397: "ten-fourteen login" should be the 11:26 p.m. session (3389).
+- Line 2329 vs 2401: the legal pad is "since the night of the tape" but "on the bench for four days."
+- Line 747: "Tessa Quill signed in last night," but the sign-in is dated 7/14, two nights earlier.
+- Line 1138 vs 1647 and 1867: Ted goes to the stairs with Carla, then stays in the lobby during the recess.
+- Line 1643 vs 1867 to 1887: Priya's account of the side door at 8:20 conflicts with Ted's lobby presence.
+- Line 1241: "Two days after the meeting" should be three (July 14 to 17).
+- Line 1408 (9:02) vs 1671 (9:09) for when Dale returns; Gordon's 9:06 implies about 9:05.
+- Line 1729: midnight in a Chicago bar vs 12:30 at line 1460 and a 12:40 card charge.
+- Line 1576: "Dale came to your office in June" conflicts with Bernice bringing the envelope to the Harbor Office (1412, 1582).
+- Line 1592 calls the same document an invoice, then (2110) a purchase order.
+- Line 1893 vs 2110: Ted says he will give his statement Monday; Sam says "this afternoon."
+- Line 1564 vs 1568: Bernice says she went back inside, then says she did not come back until morning. Confirm whether intended.
+- Line 1276 vs 1992: Bernice's cardigan is black, then gray.
+- Line 1907: Greta imagines a link "under the stairs" before it is found (2060).
+- Line 3406: the AI disclosure in back matter is intended (confirm).
+Other reader items to check: line 21 (garbled sentence about a councillor who "had not yet decided how he would vote on anything since he was elected"); line 89 vs 29 (Bernice seated beside Helen vs "stood up from the back row"); line 324 vs 326 (fourteen vs thirteen steps); line 271 vs 23 and 75 (pills in shirt pocket vs windbreaker breast pocket); line 476 vs 530 (minutes "finalized this afternoon" but posted 12:50 while Greta is at the café); line 484 vs 927 and 975 (survey folder location); line 693 vs 783 (time Greta got home from the Center); line 618 and 693 vs 797 (who holds the TownShare login); line 683 (file names with no year); line 1114, 1610, 1717, 1719 (prose clarity).
+
+Look-alike names (fix one of each pair): Dale Whitcomb / Dana Reyes (ME); Ted Vance / Tessa Quill (T) and Ted Vance / Ed Matlin (council, Ed and Carla); "Judge Vickers" (2166) against the cat Judge; Dale and Denise in the office scenes.
+Minor: Pier Street vs "Pier Rd" (1671).
+
+Result: the manuscript is not approved. The judgement checks cannot pass until the writer resolves the list above. Kindle-3 did not edit the manuscript.
