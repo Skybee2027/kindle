@@ -124,5 +124,12 @@
     "status": "done",
     "book": "",
     "detail": "Two topics for 2026-10-20. (1) Juniper Pell and the Humming Key: A Bedtime Chapter Book for Ages 6 to 9: score 18/25, categories Children's eBooks > Early Chapter Books and Children's eBooks > Bedtime Stories (both confirmed), text-only, $3.99, about 70 to 85 pages (estimate). (2) The Open Road Plan: A Workbook for Retirees Planning Their First Long Road Trip: score 17/25, categories Self-Help > Aging or Retirement and Travel (both confirmed), workbook, $3.99, about 125 to 150 pages (estimate). Rows added: 2 (sync errors 0). Rule exceptions: none. Both pairs use categories not used in the last 7 days, and the two topics are in different top-level categories. Nothing waiting for category confirmation. Spelling and pound-sign check done on all new text. Note: the guide file is ebooks-Raw/book-creating-guide.docx (guide.docx does not exist); version 2.1 read. pick_topic would pick Staged for Love next (already queued), then Ten Stitches, then the two new topics."
+  },
+  {
+    "at": "2026-10-20 16:21",
+    "robot": "Kindle-2",
+    "status": "done",
+    "book": "staged-for-love-a-larkspur-lake-romantic-comedy-book-1",
+    "detail": "Staged for Love: A Larkspur Lake Romantic Comedy, Book 1, 59364 words, cover pending"
   }
 ]

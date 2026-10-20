@@ -274,7 +274,8 @@
           "The book is AI-written text and must be disclosed to KDP as AI-generated content."
         ],
         "sales_estimate": "ESTIMATE. No sales data was verified. These are planning assumptions, not sourced figures.\nPrice $3.99. The 70% royalty is about $2.69 per sale (0.70 x ($3.99 minus about $0.15 delivery fee for a 1 MB file)).\nKENP is about $0.00517 per page read (August 2026, third-party estimate, not an Amazon figure).\nConservative: 8 sales and 1,500 KENP pages a month, about $29 a month. Mid: 25 sales and 6,000 pages, about $98. Optimistic (3 or more books in the series): 60 sales and 15,000 pages, about $239.\nFormula: sales x $2.69 + KENP pages x $0.00517.",
-        "cover_idea": "Romantic comedy look with a warm peach and lake-blue palette and cream accents, showing a cream sofa on a lakefront lawn with two staging trucks parked nose to nose and the rival pair glimpsed in the cottage doorway."
+        "cover_idea": "Romantic comedy look with a warm peach and lake-blue palette and cream accents, showing a cream sofa on a lakefront lawn with two staging trucks parked nose to nose and the rival pair glimpsed in the cottage doorway.",
+        "used_on": "2026-10-20"
       },
       {
         "topic_name": "Ten Stitches, Thirty Days: A Beginner's Hand Embroidery Guide",
